@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="main.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta content="Math Is Fun" property="og:title">
+<meta content="Math explained in easy language, plus puzzles, games, games and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
+<meta content="#ffffff" data-react-helmet="true" name="theme-color">
+<meta property="og:image" content="assets/images/logo.png">
+<title>Math Is Fun</title>
+<link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+<link rel="stylesheet" href="https://fonts.cdnfonts.com/css/rawline">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap">
+<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+<link rel="stylesheet" href="assets/reset.css">
+<link rel="stylesheet" href="assets/index.css">
+<link rel="stylesheet" href="assets/button.css">
+<style>
+    .console-name {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+<nav class="navbar">
+<div class="navbar__container">
+<div class="navbar__branding">
+<a href="index.html">
+<span>Astroid Lite</span>
+</a>
+</div>
+<div class="navbar__items navbar__items--mobile">
+<a href="#" class="navbar__item">
+<label for="input-navbar">
+<i class="fas fa-bars"></i>
+</label>
+</a>
+</div>
+<input type="checkbox" id="input-navbar" style="display: none;">
+<div class="navbar__items">
+<a href="index.html" class="navbar__item">Home</a>
+<a href="html.html" class="navbar__item">HTML / Flash</a>
+<a href="emuindex.html" class="navbar__item">Emulators</a>
+<a href="https://vyper.group" class="navbar__item">Vyper Group</a>
+<a href="legal.html" class="navbar__item">Legal</a>
+<a href="settings.html" class="navbar__item">Settings</a>
+<a href="../index.html" class="navbar__item" accesskey="p">Panic</a>
+<a href="https://discord.gg/9sUDHyGQfC" class="navbar__item navbar__item--highlighted">Discord</a>
+</div>
+</div>
+</nav>
+<main class="main">
+<div class="main__container">
+<h2 class="heading">Practice Tests</h2>
+<div class="block">
+<div class="block__body">
+    <div>
+        <center><input type="text" id="search-bar" placeholder="Search for a game..."></center>
+      </div>
+      <div id="button-container"></div>
+    
+      <script>
+        // Fetch the JSON file containing button data
+        fetch('api/smd.json')
+          .then(response => response.json())
+          .then(data => {
+            // Get the console types in the JSON data
+            const consoleTypes = Object.keys(data);
+            // Sort the console types alphabetically
+            consoleTypes.sort();
+            // Iterate over the console types and create buttons for each game
+            consoleTypes.forEach(consoleType => {
+              // Create a heading for the console type
+              const headingElement = document.createElement('h2');
+              headingElement.textContent = consoleType;
+              headingElement.classList.add('console-name'); // Add the console-name class to the heading element
+              document.getElementById('button-container').appendChild(headingElement);
+              
+              // Iterate over the games for the console type and create buttons
+              data[consoleType].forEach(game => {
+                const buttonElement = document.createElement('button');
+                buttonElement.textContent = game.name;
+                buttonElement.addEventListener('click', () => {
+                  // Construct the URL parameters for the game page
+                  const params = new URLSearchParams({
+                    rom_url: game.rom_url,
+                    core: game.core
+                  });
+                  // Open the game page in the current tab with the URL parameters
+                  window.location.replace(`emu-launcher.html?${params}`);
+                });
+                document.getElementById('button-container').appendChild(buttonElement);
+              });
+            });
+            
+            // Get the search bar element and add an input event listener
+            const searchBar = document.getElementById('search-bar');
+            searchBar.addEventListener('input', () => {
+              const query = searchBar.value.toLowerCase(); // Get the search query and convert it to lowercase
+              // Iterate over all the game buttons and hide those that don't match the search query
+              const gameButtons = document.querySelectorAll('#button-container button');
+              gameButtons.forEach(button => {
+                const gameName = button.textContent.toLowerCase();
+                if (gameName.includes(query)) {
+                  button.style.display = ''; // Show the button if it matches the search query
+                } else {
+                  button.style.display = 'none'; // Hide the button if it doesn't match the search query
+                }
+              });
+            });
+          })
+          .catch(error => console.error(error));
+      </script>
+</main>
+</div>
+<footer class="footer" id="footer">
+<div class="footer__container">
+<div class="footer__content">
+<div class="footer__copyright">
+<center>© Vyper Group </center>
+</footer>
+<div>
+</body>
+</html>

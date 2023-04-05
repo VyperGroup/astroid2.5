@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>EmulatorJS Game</title>
+    <script src="./assets/emulator/data/loader.js"></script>
+  </head>
+  <body>
+    <div id="game-container"></div>
+    <script>
+      // Define a function to load the game
+      function loadGame() {
+        // Get the query parameters from the URL
+        const queryString = window.location.search;
+        const urlParams = new URLSearchParams(queryString);
+
+        // Get the parameters for the EmulatorJS game
+        const core = urlParams.get("core");
+        const romUrl = urlParams.get("rom");
+        const width = urlParams.get("width");
+        const height = urlParams.get("height");
+
+        // Load the EmulatorJS game
+        const gameContainer = document.getElementById("game-container");
+        const game = new window.EmulatorJS({
+          gameContainer,
+          width,
+          height,
+          onRuntimeInitialized: () => {
+            game.FS_createPreloadedFile("/", "rom", romUrl, true, false);
+            game.callMain([core, "-rom", "/rom"]);
+          }
+        });
+      }
+
+      // Check if the EmulatorJS object is defined
+      if (typeof window.EmulatorJS === 'undefined') {
+        // If it's not defined, wait for the script to load
+        window.addEventListener('load', loadGame);
+      } else {
+        // If it is defined, load the game immediately
+        loadGame();
+      }
+    </script>
+  </body>
+</html>

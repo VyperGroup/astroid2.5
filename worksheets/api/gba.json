@@ -1,0 +1,1839 @@
+{
+  "Nintendo Gameboy Advance": [
+  {
+    "name": "007",
+    "rom_url": "/worksheets/main/007.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "0994",
+    "rom_url": "/worksheets/main/0994.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Advancewars",
+    "rom_url": "/worksheets/main/advancewars.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Advancewars2",
+    "rom_url": "/worksheets/main/advancewars2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-Blue-Chapter-B1.1",
+    "rom_url": "/worksheets/main/adventure-blue-chapter-b1.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-Gold-Chapter-B1.2",
+    "rom_url": "/worksheets/main/adventure-gold-chapter-b1.2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-Green-Chapter-B3",
+    "rom_url": "/worksheets/main/adventure-green-chapter-b3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-Red-Chapter-B15-Exp-Fix-C",
+    "rom_url": "/worksheets/main/adventure-red-chapter-b15-exp-fix-c.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-To-Empire-Isle-V0.5",
+    "rom_url": "/worksheets/main/adventure-to-empire-isle-v0.5.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Adventure-Yellow-Chapter-Demo-Fixed",
+    "rom_url": "/worksheets/main/adventure-yellow-chapter-demo-fixed.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Aero The Acrobat  Rascal Rival Revenge",
+    "rom_url": "/worksheets/main/Aero_the_Acrobat__Rascal_Rival_Revenge.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Aladdin",
+    "rom_url": "/worksheets/main/aladdin.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Alienhominid",
+    "rom_url": "/worksheets/main/alienhominid.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Altair-2020-09-04",
+    "rom_url": "/worksheets/main/altair-2020-09-04.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Altered-V1.11.2",
+    "rom_url": "/worksheets/main/altered-v1.11.2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Alternate-Evolutions-Final",
+    "rom_url": "/worksheets/main/alternate-evolutions-final.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Aluminum-V0.1",
+    "rom_url": "/worksheets/main/aluminum-v0.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Another-Emerald-V1.10C",
+    "rom_url": "/worksheets/main/another-emerald-v1.10c.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ash-Hoenn-2021-06-08",
+    "rom_url": "/worksheets/main/ash-hoenn-2021-06-08.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ash-Johto-2021-01-17",
+    "rom_url": "/worksheets/main/ash-johto-2021-01-17.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ash-Kanto-2020-05-27",
+    "rom_url": "/worksheets/main/ash-kanto-2020-05-27.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ash-Kanto-Msb-2021-07-15",
+    "rom_url": "/worksheets/main/ash-kanto-msb-2021-07-15.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ash-Orange-League-2020-08-17",
+    "rom_url": "/worksheets/main/ash-orange-league-2020-08-17.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ashgray-B4.5.3",
+    "rom_url": "/worksheets/main/ashgray-b4.5.3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Astro Boy  Omega Factor",
+    "rom_url": "/worksheets/main/Astro_Boy__Omega_Factor.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Atari",
+    "rom_url": "/worksheets/main/atari.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Atari Anniversary Advance (Usa)",
+    "rom_url": "/worksheets/main/Atari_Anniversary_Advance_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Banjo Kazooie  Gruntys Revenge",
+    "rom_url": "/worksheets/main/Banjo_Kazooie__Gruntys_Revenge.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Banjo Pilot",
+    "rom_url": "/worksheets/main/Banjo_Pilot.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Blazing-Emerald-V1.6",
+    "rom_url": "/worksheets/main/blazing-emerald-v1.6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Bomberman Max2Blue",
+    "rom_url": "/worksheets/main/bomberman_max2blue.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Bomberman Max 2  Red (E)",
+    "rom_url": "/worksheets/main/Bomberman_Max_2__Red_(E).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Bomberman Tournament",
+    "rom_url": "/worksheets/main/bomberman_tournament.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Breath Of Fire (E)",
+    "rom_url": "/worksheets/main/Breath_of_Fire_(E).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Breath Of Fire Ii (Usa)",
+    "rom_url": "/worksheets/main/Breath_of_Fire_II_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Broken Sword  The Shadow Of The Templars",
+    "rom_url": "/worksheets/main/Broken_Sword__the_Shadow_of_the_Templars.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Bubblebobble",
+    "rom_url": "/worksheets/main/bubblebobble.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Car Battler Joe (Usa)",
+    "rom_url": "/worksheets/main/Car_Battler_Joe_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Castlevania  Aria Of Sorrow (Usa)",
+    "rom_url": "/worksheets/main/Castlevania__Aria_of_Sorrow_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Castlevania  Circle Of The Moon",
+    "rom_url": "/worksheets/main/Castlevania__Circle_of_the_Moon.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Castlevania  Harmony Of Dissonance",
+    "rom_url": "/worksheets/main/Castlevania__Harmony_Of_Dissonance.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cb2",
+    "rom_url": "/worksheets/main/cb2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cbha",
+    "rom_url": "/worksheets/main/cbha.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cbprr",
+    "rom_url": "/worksheets/main/cbprr.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cfpt",
+    "rom_url": "/worksheets/main/cfpt.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Chu Chu Rocket!",
+    "rom_url": "/worksheets/main/Chu_Chu_Rocket!.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Clays-Calamity-1-V10",
+    "rom_url": "/worksheets/main/clays-calamity-1-v10.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Clays-Calamity-2-V5.1",
+    "rom_url": "/worksheets/main/clays-calamity-2-v5.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Clays-Calamity-3-V3.9.3",
+    "rom_url": "/worksheets/main/clays-calamity-3-v3.9.3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cloud-White-3-V277",
+    "rom_url": "/worksheets/main/cloud-white-3-v277.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cloud-White-V515",
+    "rom_url": "/worksheets/main/cloud-white-v515.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cnk",
+    "rom_url": "/worksheets/main/cnk.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Cosmicemerald-2019-12-24",
+    "rom_url": "/worksheets/main/cosmicemerald-2019-12-24.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Crash Bandicoot 2  N-Tranced",
+    "rom_url": "/worksheets/main/Crash_Bandicoot_2__N-Tranced.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Crash Bandicoot  Purple Riptos Rampage",
+    "rom_url": "/worksheets/main/Crash_Bandicoot__Purple_Riptos_Rampage.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Crash Bandicoot  The Huge Adventure",
+    "rom_url": "/worksheets/main/Crash_Bandicoot__the_Huge_Adventure.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Croket1",
+    "rom_url": "/worksheets/main/croket1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Croket2",
+    "rom_url": "/worksheets/main/croket2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Croket3",
+    "rom_url": "/worksheets/main/croket3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Croket4",
+    "rom_url": "/worksheets/main/croket4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dark-Rising-2-Completed",
+    "rom_url": "/worksheets/main/dark-rising-2-completed.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dark-Rising-Order-Destroyed-Completed",
+    "rom_url": "/worksheets/main/dark-rising-order-destroyed-completed.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dark-Rising-Origins-Wc-Final",
+    "rom_url": "/worksheets/main/dark-rising-origins-wc-final.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Darkfire-B2.0.5",
+    "rom_url": "/worksheets/main/darkfire-b2.0.5.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Darkrising-1-Complete",
+    "rom_url": "/worksheets/main/darkrising-1-complete.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Darkrising-Kaizo-2017-04-27",
+    "rom_url": "/worksheets/main/darkrising-kaizo-2017-04-27.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dbz Supersonic",
+    "rom_url": "/worksheets/main/dbz_supersonic.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Delta-Emerald-V1.1.5",
+    "rom_url": "/worksheets/main/delta-emerald-v1.1.5.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Delta-Fusion",
+    "rom_url": "/worksheets/main/delta-fusion.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Denki Blocks! (Usa) (En,Es)",
+    "rom_url": "/worksheets/main/Denki_Blocks!_(USA)_(En,Es).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Densetsu No Stafy",
+    "rom_url": "/worksheets/main/Densetsu_no_Stafy.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Densetsu No Stafy 2",
+    "rom_url": "/worksheets/main/Densetsu_no_Stafy_2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Densetsu No Stafy 3",
+    "rom_url": "/worksheets/main/Densetsu_no_Stafy_3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Digimon Racing",
+    "rom_url": "/worksheets/main/digimon_racing.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Disneys Kim Possible 2  Drakkens Demise (U)",
+    "rom_url": "/worksheets/main/Disneys_Kim_Possible_2__Drakkens_Demise_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dkc",
+    "rom_url": "/worksheets/main/dkc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dkc2",
+    "rom_url": "/worksheets/main/dkc2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dkc3",
+    "rom_url": "/worksheets/main/dkc3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dkkos",
+    "rom_url": "/worksheets/main/dkkos.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dm",
+    "rom_url": "/worksheets/main/dm.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dm2",
+    "rom_url": "/worksheets/main/dm2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dmpl",
+    "rom_url": "/worksheets/main/dmpl.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dna",
+    "rom_url": "/worksheets/main/dna.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dnd",
+    "rom_url": "/worksheets/main/dnd.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Donkey Kong Country",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Donkey Kong Country 2 (U)",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_2_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Donkey Kong Country 3",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Donkey Kong  King Of Swing",
+    "rom_url": "/worksheets/main/Donkey_Kong__King_of_Swing.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dr. Mario & Puzzle League",
+    "rom_url": "/worksheets/main/Dr._Mario_&_Puzzle_League.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball---Advanced-Adventure--Gba",
+    "rom_url": "/worksheets/main/Dragonball---Advanced-Adventure--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Gt---Transformation--Gba",
+    "rom_url": "/worksheets/main/Dragonball-GT---Transformation--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Z---Buus-Fury--Gba",
+    "rom_url": "/worksheets/main/Dragonball-Z---Buus-Fury--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Z---Supersonic-Warriors--Gba",
+    "rom_url": "/worksheets/main/Dragonball-Z---Supersonic-Warriors--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Z---Taiketsu--Gba",
+    "rom_url": "/worksheets/main/Dragonball-Z---Taiketsu--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Z---The-Legacy-Of-Goku--Gba",
+    "rom_url": "/worksheets/main/Dragonball-Z---the-Legacy-of-Goku--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dragonball-Z---The-Legacy-Of-Goku-2--Gba",
+    "rom_url": "/worksheets/main/Dragonball-Z---the-Legacy-of-Goku-2--GBA.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Dreams-V1.5.1",
+    "rom_url": "/worksheets/main/dreams-v1.5.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Drilldozer",
+    "rom_url": "/worksheets/main/drilldozer.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Drill Dozer",
+    "rom_url": "/worksheets/main/Drill_Dozer.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Duke Nukem Advance (U)",
+    "rom_url": "/worksheets/main/Duke_Nukem_Advance_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Earthwormjim",
+    "rom_url": "/worksheets/main/earthwormjim.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Earthwormjim2",
+    "rom_url": "/worksheets/main/earthwormjim2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ecks Vs. Sever (E)",
+    "rom_url": "/worksheets/main/Ecks_vs._Sever_(E).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Chaos-Rush",
+    "rom_url": "/worksheets/main/emerald-chaos-rush.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Extreme-Randomizer",
+    "rom_url": "/worksheets/main/emerald-extreme-randomizer.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Extreme-Rom",
+    "rom_url": "/worksheets/main/Emerald-Extreme-Rom.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Genesis-B2.1",
+    "rom_url": "/worksheets/main/emerald-genesis-b2.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Multiplayer",
+    "rom_url": "/worksheets/main/emerald-multiplayer.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Negative-Exp",
+    "rom_url": "/worksheets/main/emerald-negative-exp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Emerald-Randomizer",
+    "rom_url": "/worksheets/main/emerald-randomizer.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Eprp",
+    "rom_url": "/worksheets/main/eprp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fan4",
+    "rom_url": "/worksheets/main/fan4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fan4Fo",
+    "rom_url": "/worksheets/main/fan4fo.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ff1And2",
+    "rom_url": "/worksheets/main/ff1and2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ff4",
+    "rom_url": "/worksheets/main/ff4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ff4S",
+    "rom_url": "/worksheets/main/ff4S.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ff6",
+    "rom_url": "/worksheets/main/ff6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ffeud",
+    "rom_url": "/worksheets/main/ffeud.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fifa4",
+    "rom_url": "/worksheets/main/fifa4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fifa5",
+    "rom_url": "/worksheets/main/fifa5.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fifa6",
+    "rom_url": "/worksheets/main/fifa6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fifa7",
+    "rom_url": "/worksheets/main/fifa7.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fifawc6",
+    "rom_url": "/worksheets/main/fifawc6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Final Fantasy Tactics",
+    "rom_url": "/worksheets/main/final_fantasy_tactics.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Final Fight One (U)",
+    "rom_url": "/worksheets/main/Final_Fight_One_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Firered-Chaos-Rush",
+    "rom_url": "/worksheets/main/firered-chaos-rush.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fire Emblem",
+    "rom_url": "/worksheets/main/fire_emblem.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fr3",
+    "rom_url": "/worksheets/main/fr3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Frogger1",
+    "rom_url": "/worksheets/main/frogger1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Frogger2",
+    "rom_url": "/worksheets/main/frogger2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Frogger3",
+    "rom_url": "/worksheets/main/frogger3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fused-Dimensions-V1.6",
+    "rom_url": "/worksheets/main/fused-dimensions-v1.6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fusion-3-Red-Blue",
+    "rom_url": "/worksheets/main/Fusion-3-Red-Blue.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fusion-3",
+    "rom_url": "/worksheets/main/fusion-3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fusion-Origins-V3.8",
+    "rom_url": "/worksheets/main/fusion-origins-v3.8.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fzero Gp",
+    "rom_url": "/worksheets/main/fzero_gp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Fzero Max",
+    "rom_url": "/worksheets/main/fzero_max.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gamewatch4",
+    "rom_url": "/worksheets/main/gamewatch4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gba Video Pokemon 1",
+    "rom_url": "/worksheets/main/gba_video_pokemon_1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gba Video Pokemon 2",
+    "rom_url": "/worksheets/main/gba_video_pokemon_2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gba Video Pokemon 3",
+    "rom_url": "/worksheets/main/gba_video_pokemon_3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gba Video Pokemon 4",
+    "rom_url": "/worksheets/main/gba_video_pokemon_4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Goldensun",
+    "rom_url": "/worksheets/main/goldensun.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Goomba-V2.2---Pokemon-Black---Special-Palace-Edition-1-By-Mb-Hacks-(Red-Hack)",
+    "rom_url": "/worksheets/main/Goomba-V2.2---Pokemon-Black---Special-Palace-Edition-1-by-MB-Hacks-(Red-Hack).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gradius Galaxies (Usa)",
+    "rom_url": "/worksheets/main/Gradius_Galaxies_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gta",
+    "rom_url": "/worksheets/main/gta.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Gunstar Super Heroes",
+    "rom_url": "/worksheets/main/gunstar_super_heroes.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Hamtaro Heartbreak",
+    "rom_url": "/worksheets/main/hamtaro_heartbreak.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Hmfmt",
+    "rom_url": "/worksheets/main/hmfmt.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Hmmfmt",
+    "rom_url": "/worksheets/main/hmmfmt.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Iridion",
+    "rom_url": "/worksheets/main/iridion.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jbn",
+    "rom_url": "/worksheets/main/jbn.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jca",
+    "rom_url": "/worksheets/main/jca.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jlc",
+    "rom_url": "/worksheets/main/jlc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jlhth",
+    "rom_url": "/worksheets/main/jlhth.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jlifa",
+    "rom_url": "/worksheets/main/jlifa.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jp3Dna",
+    "rom_url": "/worksheets/main/jp3dna.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jp3Ia",
+    "rom_url": "/worksheets/main/jp3ia.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Jp3Pb",
+    "rom_url": "/worksheets/main/jp3pb.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Karnaaj Rally (U)",
+    "rom_url": "/worksheets/main/Karnaaj_Rally_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Khcom",
+    "rom_url": "/worksheets/main/khcom.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "King Of Fighters Ex, The  Neoblood (U) (V1.1)",
+    "rom_url": "/worksheets/main/King_of_Fighters_EX,_The__NeoBlood_(U)_(V1.1).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "King Of Fighters Ex 2  Howling Blood",
+    "rom_url": "/worksheets/main/King_of_Fighters_EX_2__Howling_Blood.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Kirbymirror",
+    "rom_url": "/worksheets/main/kirbymirror.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Kirbynightmare",
+    "rom_url": "/worksheets/main/kirbynightmare.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Klonoa 2  Dream Champ Tournament",
+    "rom_url": "/worksheets/main/Klonoa_2__Dream_Champ_Tournament.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Klonoa  Empire Of Dreams",
+    "rom_url": "/worksheets/main/Klonoa__Empire_of_Dreams.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Konami Krazy Racers (Europe)",
+    "rom_url": "/worksheets/main/Konami_Krazy_Racers_(Europe).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Kururin Paradise (Japan)",
+    "rom_url": "/worksheets/main/Kururin_Paradise_(Japan).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Kuru Kuru Kururin",
+    "rom_url": "/worksheets/main/Kuru_Kuru_Kururin.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lb",
+    "rom_url": "/worksheets/main/lb.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "League-Of-Legends-2017-09-12",
+    "rom_url": "/worksheets/main/league-of-legends-2017-09-12.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lego  Star Wars 2  The Original Trilogy",
+    "rom_url": "/worksheets/main/LEGO__Star_Wars_2__the_Original_Trilogy.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lego  Star Wars  The Video Game",
+    "rom_url": "/worksheets/main/LEGO__Star_Wars__the_Video_Game.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Li2",
+    "rom_url": "/worksheets/main/li2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lilo & Stitch",
+    "rom_url": "/worksheets/main/Lilo_&_Stitch.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lotr2",
+    "rom_url": "/worksheets/main/lotr2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lotr3",
+    "rom_url": "/worksheets/main/lotr3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lotrtta",
+    "rom_url": "/worksheets/main/lotrtta.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lr2",
+    "rom_url": "/worksheets/main/lr2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lsw",
+    "rom_url": "/worksheets/main/lsw.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lunar Legend (U) [!]",
+    "rom_url": "/worksheets/main/Lunar_Legend_(U)_[!].gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Lyp",
+    "rom_url": "/worksheets/main/lyp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "M3",
+    "rom_url": "/worksheets/main/m3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mariokart",
+    "rom_url": "/worksheets/main/mariokart.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Marioland",
+    "rom_url": "/worksheets/main/marioland.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Marioparty",
+    "rom_url": "/worksheets/main/marioparty.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mariopinball",
+    "rom_url": "/worksheets/main/mariopinball.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mario And Luigi  Superstar Saga",
+    "rom_url": "/worksheets/main/Mario_and_Luigi__Superstar_Saga.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mario Golf  Advance Tour",
+    "rom_url": "/worksheets/main/Mario_Golf__Advance_Tour.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mario Tennis  Power Tour",
+    "rom_url": "/worksheets/main/Mario_Tennis__Power_Tour.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mario Vs. Donkey Kong",
+    "rom_url": "/worksheets/main/Mario_vs._Donkey_Kong.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Max Payne (Usa)",
+    "rom_url": "/worksheets/main/Max_Payne_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Medal Of Honor  Infiltrator (U)",
+    "rom_url": "/worksheets/main/Medal_of_Honor__Infiltrator_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Evolution",
+    "rom_url": "/worksheets/main/mega-evolution.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 2",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 3  Blue",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_3__Blue.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 3  White",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_3__White.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 4  Blue Moon",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_4__Blue_Moon.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 4  Red Sun",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_4__Red_Sun.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 5  Team Colonel",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_5__Team_Colonel.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 5  Team Proto-Man",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_5__Team_Proto-Man.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 6  Cybeast Falzar",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_6__Cybeast_Falzar.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mega-Man Battle Network 6  Cybeast Gregar",
+    "rom_url": "/worksheets/main/Mega-Man_Battle_Network_6__Cybeast_Gregar.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megamanbass",
+    "rom_url": "/worksheets/main/megamanbass.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle1",
+    "rom_url": "/worksheets/main/megaman_battle1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle2",
+    "rom_url": "/worksheets/main/megaman_battle2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle3 Blue",
+    "rom_url": "/worksheets/main/megaman_battle3_blue.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle4 Blue",
+    "rom_url": "/worksheets/main/megaman_battle4_blue.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle4 Red",
+    "rom_url": "/worksheets/main/megaman_battle4_red.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle5",
+    "rom_url": "/worksheets/main/megaman_battle5.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Battle6",
+    "rom_url": "/worksheets/main/megaman_battle6.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Zero1",
+    "rom_url": "/worksheets/main/megaman_zero1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Zero2",
+    "rom_url": "/worksheets/main/megaman_zero2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Zero3",
+    "rom_url": "/worksheets/main/megaman_zero3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Megaman Zero4",
+    "rom_url": "/worksheets/main/megaman_zero4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Metalslug",
+    "rom_url": "/worksheets/main/metalslug.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Metroid Fusion",
+    "rom_url": "/worksheets/main/metroid_fusion.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Momotarou Dentetsu",
+    "rom_url": "/worksheets/main/momotarou_dentetsu.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Monkey Ball Jr.",
+    "rom_url": "/worksheets/main/Monkey_Ball_Jr..gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Monopoly",
+    "rom_url": "/worksheets/main/monopoly.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Monster Force",
+    "rom_url": "/worksheets/main/monster_force.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Monster Rancher Advance (Usa)",
+    "rom_url": "/worksheets/main/Monster_Rancher_Advance_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Monster Rancher Advance 2 (Usa)",
+    "rom_url": "/worksheets/main/Monster_Rancher_Advance_2_(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Moon-Demo",
+    "rom_url": "/worksheets/main/moon-demo.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mortal Kombat",
+    "rom_url": "/worksheets/main/mortal_kombat.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mother 3 (Japan)",
+    "rom_url": "/worksheets/main/Mother_3_(Japan).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mother 3 (Translated)",
+    "rom_url": "/worksheets/main/Mother_3_(Translated).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mvsdk",
+    "rom_url": "/worksheets/main/mvsdk.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mysteryred",
+    "rom_url": "/worksheets/main/mysteryred.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Mzm",
+    "rom_url": "/worksheets/main/mzm.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Nbaj",
+    "rom_url": "/worksheets/main/nbaj.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Nesgh1",
+    "rom_url": "/worksheets/main/nesgh1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Nfrp",
+    "rom_url": "/worksheets/main/nfrp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Nfsu",
+    "rom_url": "/worksheets/main/nfsu.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Nfsu2",
+    "rom_url": "/worksheets/main/nfsu2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ninja Cop",
+    "rom_url": "/worksheets/main/Ninja_Cop.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Onepiece",
+    "rom_url": "/worksheets/main/onepiece.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pacman World",
+    "rom_url": "/worksheets/main/pacman_world.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pacman World2",
+    "rom_url": "/worksheets/main/pacman_world2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pmc",
+    "rom_url": "/worksheets/main/pmc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pmpa",
+    "rom_url": "/worksheets/main/pmpa.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pocky & Rocky With Becky",
+    "rom_url": "/worksheets/main/Pocky_&_Rocky_with_Becky.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokeland-0-Ep-1-V1.1",
+    "rom_url": "/worksheets/main/pokeland-0-ep-1-v1.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemal-Beta",
+    "rom_url": "/worksheets/main/pokemal-beta.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemblem-2021-10-09",
+    "rom_url": "/worksheets/main/pokemblem-2021-10-09.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemet-V2",
+    "rom_url": "/worksheets/main/pokemet-v2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon---Liquid-Crystal-(V3.3.00512)",
+    "rom_url": "/worksheets/main/Pokemon---Liquid-Crystal-(v3.3.00512).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-A-Grand-Day-Out",
+    "rom_url": "/worksheets/main/Pokemon-A-Grand-Day-Out.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Adventure---Red-Chapter-(Beta-15-+-Expansion-Fix)",
+    "rom_url": "/worksheets/main/Pokemon-Adventure---Red-Chapter-(Beta-15-+-Expansion-Fix).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Altered-Emerald-(V4.1E)",
+    "rom_url": "/worksheets/main/Pokemon-Altered-Emerald-(v4.1e).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Radical-Red-V3.1",
+    "rom_url": "/worksheets/main/Pokemon-Radical-Red-v3.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Sors-Patched",
+    "rom_url": "/worksheets/main/Pokemon-Sors-Patched.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Ultra-Shiny-Gold-Sigma-(Hack-V1.3.8)",
+    "rom_url": "/worksheets/main/Pokemon-Ultra-Shiny-Gold-Sigma-(Hack-v1.3.8).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon-Ultra-Violet-(1.22)-Lsa-(Fire-Red-Hack)",
+    "rom_url": "/worksheets/main/Pokemon-Ultra-Violet-(1.22)-LSA-(Fire-Red-Hack).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonek",
+    "rom_url": "/worksheets/main/pokemonek.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonemerald",
+    "rom_url": "/worksheets/main/pokemonemerald.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonflorasky",
+    "rom_url": "/worksheets/main/pokemonflorasky.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemongb",
+    "rom_url": "/worksheets/main/pokemongb.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemongreen",
+    "rom_url": "/worksheets/main/pokemongreen.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonlp",
+    "rom_url": "/worksheets/main/pokemonlp.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonred",
+    "rom_url": "/worksheets/main/pokemonred.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonruby",
+    "rom_url": "/worksheets/main/pokemonruby.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemonsapphire",
+    "rom_url": "/worksheets/main/pokemonsapphire.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon Emerald Rogue Ex (V1.2.1)",
+    "rom_url": "/worksheets/main/Pokemon_Emerald_Rogue_EX_(v1.2.1).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokemon Fire Red Randomizer Version Demo",
+    "rom_url": "/worksheets/main/pokemon_fire_red_randomizer_version_demo.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokes-Bizarre-Adventure-V1.1-Final",
+    "rom_url": "/worksheets/main/pokes-bizarre-adventure-v1.1-final.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pokewb",
+    "rom_url": "/worksheets/main/pokewb.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ppf",
+    "rom_url": "/worksheets/main/ppf.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pprs",
+    "rom_url": "/worksheets/main/pprs.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Prs",
+    "rom_url": "/worksheets/main/prs.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Puyopop",
+    "rom_url": "/worksheets/main/puyopop.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Puyo Pop",
+    "rom_url": "/worksheets/main/Puyo_Pop.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Puzzle Fighter 2 Turbo",
+    "rom_url": "/worksheets/main/Puzzle_Fighter_2_Turbo.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Pvzgba-2020-11-16",
+    "rom_url": "/worksheets/main/pvzgba-2020-11-16.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "R3Hh",
+    "rom_url": "/worksheets/main/r3hh.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ra",
+    "rom_url": "/worksheets/main/ra.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Racing Gears Advance (U)",
+    "rom_url": "/worksheets/main/Racing_Gears_Advance_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ray-Man 3  Hoodlum Havoc",
+    "rom_url": "/worksheets/main/Ray-Man_3__Hoodlum_Havoc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ray-Man Advance",
+    "rom_url": "/worksheets/main/Ray-Man_Advance.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Rhythm Tengoku (Japan)",
+    "rom_url": "/worksheets/main/Rhythm_Tengoku_(Japan).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Rsrs",
+    "rom_url": "/worksheets/main/rsrs.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Rtpl",
+    "rom_url": "/worksheets/main/rtpl.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Destiny-Bt-B1",
+    "rom_url": "/worksheets/main/ruby-destiny-bt-b1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Destiny-Log-2017V1",
+    "rom_url": "/worksheets/main/ruby-destiny-log-2017v1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Destiny-Rol-2016V4.1",
+    "rom_url": "/worksheets/main/ruby-destiny-rol-2016v4.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Destiny-Rol-Remake-B1",
+    "rom_url": "/worksheets/main/ruby-destiny-rol-remake-b1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Destiny-Rr-Hrm-2021-07-08",
+    "rom_url": "/worksheets/main/ruby-destiny-rr-hrm-2021-07-08.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ruby-Wonder-Guard",
+    "rom_url": "/worksheets/main/ruby-wonder-guard.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sag",
+    "rom_url": "/worksheets/main/sag.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sc",
+    "rom_url": "/worksheets/main/sc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Simpsons",
+    "rom_url": "/worksheets/main/simpsons.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sims2",
+    "rom_url": "/worksheets/main/sims2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sims Bustin Out",
+    "rom_url": "/worksheets/main/sims_bustin_out.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sirius-2020-09-04",
+    "rom_url": "/worksheets/main/sirius-2020-09-04.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sma4+",
+    "rom_url": "/worksheets/main/sma4+.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sonicbattle",
+    "rom_url": "/worksheets/main/sonicbattle.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sonicpinball",
+    "rom_url": "/worksheets/main/sonicpinball.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sonic Advance",
+    "rom_url": "/worksheets/main/sonic_advance.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sonic Advance2",
+    "rom_url": "/worksheets/main/sonic_advance2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sonic Advance3",
+    "rom_url": "/worksheets/main/sonic_advance3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spider-Man  Mysterios Menace (U) [!]",
+    "rom_url": "/worksheets/main/Spider-Man__Mysterios_Menace_(U)_[!].gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spyro 3  Attack Of The Rhynocs",
+    "rom_url": "/worksheets/main/Spyro_3__Attack_of_the_Rhynocs.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spyro Adventure",
+    "rom_url": "/worksheets/main/spyro_adventure.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spyro Flame",
+    "rom_url": "/worksheets/main/spyro_flame.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spyro Ice",
+    "rom_url": "/worksheets/main/spyro_ice.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Spyro Orange  The Cortex Conspiracy",
+    "rom_url": "/worksheets/main/Spyro_Orange__the_Cortex_Conspiracy.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sthg",
+    "rom_url": "/worksheets/main/sthg.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Stranded-V0.1.4",
+    "rom_url": "/worksheets/main/stranded-v0.1.4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Summon Night  Swordcraft Story",
+    "rom_url": "/worksheets/main/Summon_Night__Swordcraft_Story.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Summon Night  Swordcraft Story 2",
+    "rom_url": "/worksheets/main/Summon_Night__Swordcraft_Story_2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Supermarioadvance",
+    "rom_url": "/worksheets/main/supermarioadvance.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Supermarioadvance2",
+    "rom_url": "/worksheets/main/supermarioadvance2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Supermarioadvance3",
+    "rom_url": "/worksheets/main/supermarioadvance3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Supermarioadvance4",
+    "rom_url": "/worksheets/main/supermarioadvance4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Supermonkeyballjr",
+    "rom_url": "/worksheets/main/supermonkeyballjr.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Superstar",
+    "rom_url": "/worksheets/main/superstar.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Super Bust-A-Move (Usa) (En,Fr,Es)",
+    "rom_url": "/worksheets/main/Super_Bust-A-Move_(USA)_(En,Fr,Es).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Super Dodge Ball Advance (Europe)",
+    "rom_url": "/worksheets/main/Super_Dodge_Ball_Advance_(Europe).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Super Ghouls N Ghosts (U)",
+    "rom_url": "/worksheets/main/Super_Ghouls_N_Ghosts_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Super Street Fighter 2 Turbo Revival",
+    "rom_url": "/worksheets/main/super_street_fighter_2_turbo_revival.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Super Street Fighter 3 Alpha",
+    "rom_url": "/worksheets/main/super_street_fighter_3_alpha.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Sword Of Mana (Usa, Australia)",
+    "rom_url": "/worksheets/main/Sword_of_Mana_(USA,_Australia).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tactics Ogre  The Knight Of Lodis",
+    "rom_url": "/worksheets/main/Tactics_Ogre__the_Knight_of_Lodis.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tak2 Staff Of Dreams",
+    "rom_url": "/worksheets/main/tak2_staff_of_dreams.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tales Of Phantasia",
+    "rom_url": "/worksheets/main/tales_of_phantasia.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Team-Training-V8",
+    "rom_url": "/worksheets/main/team-training-v8.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tekken Advance (U) [!]",
+    "rom_url": "/worksheets/main/Tekken_Advance_(U)_[!].gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tetris Worlds",
+    "rom_url": "/worksheets/main/tetris_worlds.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tggtc",
+    "rom_url": "/worksheets/main/tggtc.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tgr",
+    "rom_url": "/worksheets/main/tgr.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thas",
+    "rom_url": "/worksheets/main/thas.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thps2",
+    "rom_url": "/worksheets/main/thps2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thps3",
+    "rom_url": "/worksheets/main/thps3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thps4",
+    "rom_url": "/worksheets/main/thps4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thu",
+    "rom_url": "/worksheets/main/thu.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Thu2",
+    "rom_url": "/worksheets/main/thu2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tmnt",
+    "rom_url": "/worksheets/main/tmnt.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Tony Hawks Downhill Jam",
+    "rom_url": "/worksheets/main/Tony_Hawks_Downhill_Jam.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhou-Puppet-Play-Enhanced-(Reloaded-V4.6)",
+    "rom_url": "/worksheets/main/Touhou-Puppet-Play-Enhanced-(Reloaded-v4.6).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhou-Puppet-Play-Enhanced-V1.11---Original",
+    "rom_url": "/worksheets/main/Touhou-Puppet-Play-Enhanced-v1.11---Original.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhou-Puppet-Play-Enhanced-V1.11---Renko",
+    "rom_url": "/worksheets/main/Touhou-Puppet-Play-Enhanced-v1.11---Renko.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhoumon-Purple-(Difficulty---Hard)",
+    "rom_url": "/worksheets/main/Touhoumon-Purple-(Difficulty---Hard).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhoumon-Purple-(Difficulty---Ultimate)",
+    "rom_url": "/worksheets/main/Touhoumon-Purple-(Difficulty---Ultimate).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhoumon-Purple-(Difficulty---Very-Hard)",
+    "rom_url": "/worksheets/main/Touhoumon-Purple-(Difficulty---Very-Hard).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhoumon-Purple-(Original)",
+    "rom_url": "/worksheets/main/Touhoumon-Purple-(Original).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Touhoumon-Purple-(Sandbox)",
+    "rom_url": "/worksheets/main/Touhoumon-Purple-(Sandbox).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Turbo-Turtle-Adventure-(Usa)",
+    "rom_url": "/worksheets/main/Turbo-Turtle-Adventure-(USA).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Turok Evolution",
+    "rom_url": "/worksheets/main/turok_evolution.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Twenty50-V0.0.1",
+    "rom_url": "/worksheets/main/twenty50-v0.0.1.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ty2",
+    "rom_url": "/worksheets/main/ty2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ty3",
+    "rom_url": "/worksheets/main/ty3.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ultimate Brain Games (U)",
+    "rom_url": "/worksheets/main/Ultimate_Brain_Games_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ultimate Card Games (U)",
+    "rom_url": "/worksheets/main/Ultimate_Card_Games_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Unbound-V2.0.3.2",
+    "rom_url": "/worksheets/main/unbound-v2.0.3.2.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Unsb",
+    "rom_url": "/worksheets/main/unsb.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "V-Rally 3 (U)",
+    "rom_url": "/worksheets/main/V-Rally_3_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Virtua Tennis (U)",
+    "rom_url": "/worksheets/main/Virtua_Tennis_(U).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Wade Hixtons Counter Punch (Usa, Europe)",
+    "rom_url": "/worksheets/main/Wade_Hixtons_Counter_Punch_(USA,_Europe).gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Warioland4",
+    "rom_url": "/worksheets/main/warioland4.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Wario Ware",
+    "rom_url": "/worksheets/main/wario_ware.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ygo-Pokeduel-V3.0",
+    "rom_url": "/worksheets/main/ygo-pokeduel-v3.0.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Ynfa",
+    "rom_url": "/worksheets/main/ynfa.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Yu-Gi-Oh!  The Eternal Duelist Soul (U) [!]",
+    "rom_url": "/worksheets/main/Yu-Gi-Oh!__The_Eternal_Duelist_Soul_(U)_[!].gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Zelda Minish",
+    "rom_url": "/worksheets/main/zelda_minish.gba",
+    "core": "mgba"
+  },
+  {
+    "name": "Zelda Past",
+    "rom_url": "/worksheets/main/zelda_past.gba",
+    "core": "mgba"
+  }
+]
+}

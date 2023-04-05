@@ -1,0 +1,3714 @@
+{
+  "Sega Megadrive": [
+  {
+    "name": "3 Ninjas Kick Back (Usa)",
+    "rom_url": "/worksheets/main/3_Ninjas_Kick_Back_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "6-Pak (Usa)",
+    "rom_url": "/worksheets/main/6-Pak_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "688 Attack Sub (Usa, Europe)",
+    "rom_url": "/worksheets/main/688_Attack_Sub_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aaahh!!! Real Monsters (Usa)",
+    "rom_url": "/worksheets/main/Aaahh!!!_Real_Monsters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Action 52 (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Action_52_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Addams Family, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Addams_Family,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Adventures Of Batman & Robin, The (Usa)",
+    "rom_url": "/worksheets/main/Adventures_of_Batman_&_Robin,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Adventures Of Mighty Max, The (Usa)",
+    "rom_url": "/worksheets/main/Adventures_of_Mighty_Max,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Adventures Of Rocky And Bullwinkle And Friends, The (Usa)",
+    "rom_url": "/worksheets/main/Adventures_of_Rocky_and_Bullwinkle_and_Friends,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aerobiz (Usa)",
+    "rom_url": "/worksheets/main/Aerobiz_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aerobiz Supersonic (Usa)",
+    "rom_url": "/worksheets/main/Aerobiz_Supersonic_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aero The Acro-Bat (Usa)",
+    "rom_url": "/worksheets/main/Aero_the_Acro-Bat_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aero The Acro-Bat 2 (Usa)",
+    "rom_url": "/worksheets/main/Aero_the_Acro-Bat_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "After Burner Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/After_Burner_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Air Buster (Usa)",
+    "rom_url": "/worksheets/main/Air_Buster_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Air Diver (Usa)",
+    "rom_url": "/worksheets/main/Air_Diver_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aladdin (Usa)",
+    "rom_url": "/worksheets/main/Aladdin_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aladdin (Usa) (Final Cut)",
+    "rom_url": "/worksheets/main/Aladdin_(USA)_(Final_Cut).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alex Kidd In The Enchanted Castle (Usa)",
+    "rom_url": "/worksheets/main/Alex_Kidd_in_the_Enchanted_Castle_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alien 3 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Alien_3_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alien Soldier (Usa) (Virtual Console)",
+    "rom_url": "/worksheets/main/Alien_Soldier_(USA)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alien Soldier (Usa, Europe) (Switch Online)",
+    "rom_url": "/worksheets/main/Alien_Soldier_(USA,_Europe)_(Switch_Online).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alisia Dragoon (Usa)",
+    "rom_url": "/worksheets/main/Alisia_Dragoon_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Alisia Dragoon (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Alisia_Dragoon_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Altered Beast (Usa, Europe)",
+    "rom_url": "/worksheets/main/Altered_Beast_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Al Michaels Announces Hardball Iii (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Al_Michaels_Announces_HardBall_III_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "American Gladiators (Usa)",
+    "rom_url": "/worksheets/main/American_Gladiators_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Andre Agassi Tennis (Usa)",
+    "rom_url": "/worksheets/main/Andre_Agassi_Tennis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Animaniacs (Usa)",
+    "rom_url": "/worksheets/main/Animaniacs_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Aquatic Games Starring James Pond And The Aquabats, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Aquatic_Games_Starring_James_Pond_and_the_Aquabats,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Arcade Classics (Usa, Europe)",
+    "rom_url": "/worksheets/main/Arcade_Classics_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Arch Rivals - The Arcade Game (Usa, Europe)",
+    "rom_url": "/worksheets/main/Arch_Rivals_-_The_Arcade_Game_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Arcus Odyssey (Usa)",
+    "rom_url": "/worksheets/main/Arcus_Odyssey_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ariel The Little Mermaid (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ariel_the_Little_Mermaid_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ariel The Little Mermaid (Usa, Europe) (1992-10-10) (Sega Channel)",
+    "rom_url": "/worksheets/main/Ariel_the_Little_Mermaid_(USA,_Europe)_(1992-10-10)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Arnold Palmer Tournament Golf (Usa, Europe)",
+    "rom_url": "/worksheets/main/Arnold_Palmer_Tournament_Golf_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Arrow Flash (Usa)",
+    "rom_url": "/worksheets/main/Arrow_Flash_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Art Of Fighting (Usa)",
+    "rom_url": "/worksheets/main/Art_of_Fighting_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Asterix And The Great Rescue (Usa)",
+    "rom_url": "/worksheets/main/Asterix_and_the_Great_Rescue_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Atomic Robo-Kid (Usa)",
+    "rom_url": "/worksheets/main/Atomic_Robo-Kid_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Atomic Runner (Usa)",
+    "rom_url": "/worksheets/main/Atomic_Runner_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Atp Tour Championship Tennis (Usa)",
+    "rom_url": "/worksheets/main/ATP_Tour_Championship_Tennis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Awesome Possum... ...Kicks Dr. Machinos Butt (Usa)",
+    "rom_url": "/worksheets/main/Awesome_Possum..._...Kicks_Dr._Machinos_Butt_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ayrton Sennas Super Monaco Gp Ii (Usa) (En,Ja)",
+    "rom_url": "/worksheets/main/Ayrton_Sennas_Super_Monaco_GP_II_(USA)_(En,Ja).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Back To The Future Part Iii (Usa)",
+    "rom_url": "/worksheets/main/Back_to_the_Future_Part_III_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ballz 3D - Fighting At Its Ballziest ~ Ballz 3D - The Battle Of The Ballz (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ballz_3D_-_Fighting_at_Its_Ballziest_~_Ballz_3D_-_The_Battle_of_the_Ballz_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Barbie Super Model (Usa)",
+    "rom_url": "/worksheets/main/Barbie_Super_Model_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Barkley Shut Up And Jam! (Usa, Europe)",
+    "rom_url": "/worksheets/main/Barkley_Shut_Up_and_Jam!_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Barkley Shut Up And Jam 2 (Usa)",
+    "rom_url": "/worksheets/main/Barkley_Shut_Up_and_Jam_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Barneys Hide & Seek Game (Usa)",
+    "rom_url": "/worksheets/main/Barneys_Hide_&_Seek_Game_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bass Masters Classic (Usa)",
+    "rom_url": "/worksheets/main/Bass_Masters_Classic_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bass Masters Classic - Pro Edition (Usa)",
+    "rom_url": "/worksheets/main/Bass_Masters_Classic_-_Pro_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Batman - The Video Game (Usa)",
+    "rom_url": "/worksheets/main/Batman_-_The_Video_Game_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Battlemaster (Usa)",
+    "rom_url": "/worksheets/main/Battlemaster_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Battletech - A Game Of Armored Combat (Usa)",
+    "rom_url": "/worksheets/main/Battletech_-_A_Game_of_Armored_Combat_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Battletoads-Double Dragon (Usa)",
+    "rom_url": "/worksheets/main/Battletoads-Double_Dragon_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Battle Squadron (Usa, Europe)",
+    "rom_url": "/worksheets/main/Battle_Squadron_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Beast Wrestler (Usa)",
+    "rom_url": "/worksheets/main/Beast_Wrestler_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Beauty And The Beast - Belles Quest (Usa)",
+    "rom_url": "/worksheets/main/Beauty_and_the_Beast_-_Belles_Quest_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Beauty And The Beast - Roar Of The Beast (Usa)",
+    "rom_url": "/worksheets/main/Beauty_and_the_Beast_-_Roar_of_the_Beast_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Beavis And Butt-Head (Usa)",
+    "rom_url": "/worksheets/main/Beavis_and_Butt-Head_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Berenstain Bears Camping Adventure, The (Usa)",
+    "rom_url": "/worksheets/main/Berenstain_Bears_Camping_Adventure,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Best Of The Best - Championship Karate (Usa)",
+    "rom_url": "/worksheets/main/Best_of_the_Best_-_Championship_Karate_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Beyond Oasis (Usa)",
+    "rom_url": "/worksheets/main/Beyond_Oasis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bible Adventures (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Bible_Adventures_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bill Walsh College Football (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bill_Walsh_College_Football_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bill Walsh College Football 95 (Usa)",
+    "rom_url": "/worksheets/main/Bill_Walsh_College_Football_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bimini Run (Usa)",
+    "rom_url": "/worksheets/main/Bimini_Run_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bio Hazard Battle (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bio_Hazard_Battle_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Blades Of Vengeance (Usa, Europe)",
+    "rom_url": "/worksheets/main/Blades_of_Vengeance_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Blaster Master 2 (Usa)",
+    "rom_url": "/worksheets/main/Blaster_Master_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Blockbuster World Video Game Championship Ii (Usa)",
+    "rom_url": "/worksheets/main/Blockbuster_World_Video_Game_Championship_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bonkers (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bonkers_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Boogerman - A Pick And Flick Adventure (Usa)",
+    "rom_url": "/worksheets/main/Boogerman_-_A_Pick_and_Flick_Adventure_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Boxing Legends Of The Ring (Usa)",
+    "rom_url": "/worksheets/main/Boxing_Legends_of_the_Ring_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bram Stokers Dracula (Usa)",
+    "rom_url": "/worksheets/main/Bram_Stokers_Dracula_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Brett Hull Hockey 95 (Usa)",
+    "rom_url": "/worksheets/main/Brett_Hull_Hockey_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Brutal - Paws Of Fury (Usa)",
+    "rom_url": "/worksheets/main/Brutal_-_Paws_of_Fury_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bubba N Stix (Usa)",
+    "rom_url": "/worksheets/main/Bubba_N_Stix_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bubble And Squeak (Usa)",
+    "rom_url": "/worksheets/main/Bubble_and_Squeak_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bubsy Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bubsy_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bubsy In - Claws Encounters Of The Furred Kind (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bubsy_in_-_Claws_Encounters_of_the_Furred_Kind_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Buck Rogers - Countdown To Doomsday (Usa, Europe)",
+    "rom_url": "/worksheets/main/Buck_Rogers_-_Countdown_to_Doomsday_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Budokan - The Martial Spirit (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Budokan_-_The_Martial_Spirit_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bugs Bunny In Double Trouble (Usa)",
+    "rom_url": "/worksheets/main/Bugs_Bunny_in_Double_Trouble_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bulls Versus Blazers And The Nba Playoffs (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bulls_versus_Blazers_and_the_NBA_Playoffs_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Bulls Vs Lakers And The Nba Playoffs (Usa, Europe)",
+    "rom_url": "/worksheets/main/Bulls_vs_Lakers_and_the_NBA_Playoffs_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Burning Force (Usa)",
+    "rom_url": "/worksheets/main/Burning_Force_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cadash (Usa, Korea) (En)",
+    "rom_url": "/worksheets/main/Cadash_(USA,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Caesars Palace (Usa)",
+    "rom_url": "/worksheets/main/Caesars_Palace_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Caliber.50 (Usa)",
+    "rom_url": "/worksheets/main/Caliber.50_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "California Games (Usa, Europe)",
+    "rom_url": "/worksheets/main/California_Games_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cal Ripken Jr. Baseball (Usa)",
+    "rom_url": "/worksheets/main/Cal_Ripken_Jr._Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Captain America And The Avengers (Usa)",
+    "rom_url": "/worksheets/main/Captain_America_and_the_Avengers_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Castlevania - Bloodlines (Usa)",
+    "rom_url": "/worksheets/main/Castlevania_-_Bloodlines_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Castlevania - Bloodlines (Usa) (Castlevania Anniversary Collection)",
+    "rom_url": "/worksheets/main/Castlevania_-_Bloodlines_(USA)_(Castlevania_Anniversary_Collection).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Castlevania - Bloodlines (Usa, Europe) (Switch Online)",
+    "rom_url": "/worksheets/main/Castlevania_-_Bloodlines_(USA,_Europe)_(Switch_Online).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Castle Of Illusion Starring Mickey Mouse (Usa, Europe)",
+    "rom_url": "/worksheets/main/Castle_of_Illusion_Starring_Mickey_Mouse_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Centurion - Defender Of Rome (Usa, Europe)",
+    "rom_url": "/worksheets/main/Centurion_-_Defender_of_Rome_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Centurion - Defender Of Rome (Usa, Europe) (Sega Channel)",
+    "rom_url": "/worksheets/main/Centurion_-_Defender_of_Rome_(USA,_Europe)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chakan (Usa, Europe)",
+    "rom_url": "/worksheets/main/Chakan_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chakan (Usa, Europe) (1992-10-06) (Sega Channel)",
+    "rom_url": "/worksheets/main/Chakan_(USA,_Europe)_(1992-10-06)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Championship Bowling (Usa)",
+    "rom_url": "/worksheets/main/Championship_Bowling_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Championship Pool (Usa)",
+    "rom_url": "/worksheets/main/Championship_Pool_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Championship Pro-Am (Usa)",
+    "rom_url": "/worksheets/main/Championship_Pro-Am_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chase H.Q. Ii (Usa)",
+    "rom_url": "/worksheets/main/Chase_H.Q._II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chester Cheetah - Too Cool To Fool (Usa)",
+    "rom_url": "/worksheets/main/Chester_Cheetah_-_Too_Cool_to_Fool_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chester Cheetah - Wild Wild Quest (Usa)",
+    "rom_url": "/worksheets/main/Chester_Cheetah_-_Wild_Wild_Quest_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chiki Chiki Boys (Usa, Europe)",
+    "rom_url": "/worksheets/main/Chiki_Chiki_Boys_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chi Chis Pro Challenge Golf (Usa)",
+    "rom_url": "/worksheets/main/Chi_Chis_Pro_Challenge_Golf_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chuck Rock (Usa)",
+    "rom_url": "/worksheets/main/Chuck_Rock_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Chuck Rock Ii - Son Of Chuck (Usa)",
+    "rom_url": "/worksheets/main/Chuck_Rock_II_-_Son_of_Chuck_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Clayfighter (Usa)",
+    "rom_url": "/worksheets/main/ClayFighter_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cliffhanger (Usa)",
+    "rom_url": "/worksheets/main/Cliffhanger_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Clue (Usa)",
+    "rom_url": "/worksheets/main/Clue_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Coach K College Basketball (Usa)",
+    "rom_url": "/worksheets/main/Coach_K_College_Basketball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "College Footballs National Championship (Usa)",
+    "rom_url": "/worksheets/main/College_Footballs_National_Championship_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "College Footballs National Championship Ii (Usa)",
+    "rom_url": "/worksheets/main/College_Footballs_National_Championship_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "College Football Usa 96 (Usa)",
+    "rom_url": "/worksheets/main/College_Football_USA_96_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "College Football Usa 97 (Usa)",
+    "rom_url": "/worksheets/main/College_Football_USA_97_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "College Slam (Usa)",
+    "rom_url": "/worksheets/main/College_Slam_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Columns (Usa, Europe)",
+    "rom_url": "/worksheets/main/Columns_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Columns (Usa, Europe) (1990-06-21) (Sega Channel)",
+    "rom_url": "/worksheets/main/Columns_(USA,_Europe)_(1990-06-21)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Columns Iii (Usa)",
+    "rom_url": "/worksheets/main/Columns_III_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Combat Cars (Usa, Europe)",
+    "rom_url": "/worksheets/main/Combat_Cars_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Comix Zone (Usa)",
+    "rom_url": "/worksheets/main/Comix_Zone_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Comix Zone (Usa) (Demo) (1995-06-12) (Sega Channel)",
+    "rom_url": "/worksheets/main/Comix_Zone_(USA)_(Demo)_(1995-06-12)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Comix Zone (Usa) (Sega Smash Pack 2)",
+    "rom_url": "/worksheets/main/Comix_Zone_(USA)_(Sega_Smash_Pack_2).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Comix Zone (Usa) (Virtual Console)",
+    "rom_url": "/worksheets/main/Comix_Zone_(USA)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Contra - Hard Corps (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Contra_-_Hard_Corps_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Contra - Hard Corps (Usa, Korea) (En)",
+    "rom_url": "/worksheets/main/Contra_-_Hard_Corps_(USA,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cool Spot (Usa)",
+    "rom_url": "/worksheets/main/Cool_Spot_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cosmic Spacehead (Usa, Europe) (En,Fr,De,Es)",
+    "rom_url": "/worksheets/main/Cosmic_Spacehead_(USA,_Europe)_(En,Fr,De,Es).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crack Down (Usa)",
+    "rom_url": "/worksheets/main/Crack_Down_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crossfire (Usa)",
+    "rom_url": "/worksheets/main/CrossFire_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crossfire (Usa) (Sample)",
+    "rom_url": "/worksheets/main/CrossFire_(USA)_(Sample).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crue Ball - Heavy Metal Pinball (Usa, Europe)",
+    "rom_url": "/worksheets/main/Crue_Ball_-_Heavy_Metal_Pinball_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crusader Of Centy (Usa)",
+    "rom_url": "/worksheets/main/Crusader_of_Centy_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Crystals Pony Tale (Usa)",
+    "rom_url": "/worksheets/main/Crystals_Pony_Tale_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cutthroat Island (Usa, Europe)",
+    "rom_url": "/worksheets/main/CutThroat_Island_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cyber-Cop (Usa)",
+    "rom_url": "/worksheets/main/Cyber-Cop_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Cyborg Justice (Usa, Europe)",
+    "rom_url": "/worksheets/main/Cyborg_Justice_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Daimakaimura ~ Ghoulsn Ghosts (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Daimakaimura_~_Ghoulsn_Ghosts_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dark Castle (Usa, Europe)",
+    "rom_url": "/worksheets/main/Dark_Castle_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dashin Desperadoes (Usa)",
+    "rom_url": "/worksheets/main/Dashin_Desperadoes_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "David Cranes Amazing Tennis (Usa)",
+    "rom_url": "/worksheets/main/David_Cranes_Amazing_Tennis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "David Robinsons Supreme Court (Usa, Europe)",
+    "rom_url": "/worksheets/main/David_Robinsons_Supreme_Court_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Davis Cup Tennis ~ Davis Cup World Tour (Usa, Europe)",
+    "rom_url": "/worksheets/main/Davis_Cup_Tennis_~_Davis_Cup_World_Tour_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Deadly Moves (Usa)",
+    "rom_url": "/worksheets/main/Deadly_Moves_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Death And Return Of Superman, The (Usa)",
+    "rom_url": "/worksheets/main/Death_and_Return_of_Superman,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Death Duel (Usa)",
+    "rom_url": "/worksheets/main/Death_Duel_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Decapattack (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/DEcapAttack_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Demolition Man (Usa, Europe)",
+    "rom_url": "/worksheets/main/Demolition_Man_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Desert Demolition Starring Road Runner And Wile E. Coyote (Usa, Europe)",
+    "rom_url": "/worksheets/main/Desert_Demolition_Starring_Road_Runner_and_Wile_E._Coyote_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Desert Strike - Return To The Gulf (Usa, Europe)",
+    "rom_url": "/worksheets/main/Desert_Strike_-_Return_to_the_Gulf_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Devilish - The Next Possession (Usa)",
+    "rom_url": "/worksheets/main/Devilish_-_The_Next_Possession_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dick Vitales Awesome, Baby! College Hoops (Usa)",
+    "rom_url": "/worksheets/main/Dick_Vitales_Awesome,_Baby!_College_Hoops_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dinosaurs Tale, A (Usa)",
+    "rom_url": "/worksheets/main/Dinosaurs_Tale,_A_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dino Land (Usa)",
+    "rom_url": "/worksheets/main/Dino_Land_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dj Boy (Usa)",
+    "rom_url": "/worksheets/main/DJ_Boy_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Doom Troopers (Usa)",
+    "rom_url": "/worksheets/main/Doom_Troopers_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Double Dragon (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Double_Dragon_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Double Dragon 3 - The Arcade Game (Usa, Europe)",
+    "rom_url": "/worksheets/main/Double_Dragon_3_-_The_Arcade_Game_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Double Dragon V - The Shadow Falls (Usa)",
+    "rom_url": "/worksheets/main/Double_Dragon_V_-_The_Shadow_Falls_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Double Dribble - The Playoff Edition (Usa)",
+    "rom_url": "/worksheets/main/Double_Dribble_-_The_Playoff_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dr. Robotniks Mean Bean Machine (Usa)",
+    "rom_url": "/worksheets/main/Dr._Robotniks_Mean_Bean_Machine_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dragons Fury (Usa, Europe)",
+    "rom_url": "/worksheets/main/Dragons_Fury_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dragon - The Bruce Lee Story (Usa)",
+    "rom_url": "/worksheets/main/Dragon_-_The_Bruce_Lee_Story_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dream Team Usa (Japan)",
+    "rom_url": "/worksheets/main/Dream_Team_USA_(Japan).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dune - The Battle For Arrakis (Usa)",
+    "rom_url": "/worksheets/main/Dune_-_The_Battle_for_Arrakis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dungeons & Dragons - Warriors Of The Eternal Sun (Usa, Europe)",
+    "rom_url": "/worksheets/main/Dungeons_&_Dragons_-_Warriors_of_the_Eternal_Sun_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Dynamite Headdy (Usa, Europe)",
+    "rom_url": "/worksheets/main/Dynamite_Headdy_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Earnest Evans (Usa)",
+    "rom_url": "/worksheets/main/Earnest_Evans_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Earthworm Jim (Usa)",
+    "rom_url": "/worksheets/main/Earthworm_Jim_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Earthworm Jim 2 (Usa)",
+    "rom_url": "/worksheets/main/Earthworm_Jim_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Earth Defense ~ Earth Defend, The (Usa, Taiwan) (En) (Unl)",
+    "rom_url": "/worksheets/main/Earth_Defense_~_Earth_Defend,_The_(USA,_Taiwan)_(En)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ecco - The Tides Of Time (Usa)",
+    "rom_url": "/worksheets/main/Ecco_-_The_Tides_of_Time_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ecco Jr. (Usa, Australia)",
+    "rom_url": "/worksheets/main/Ecco_Jr._(USA,_Australia).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ecco The Dolphin (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/Ecco_the_Dolphin_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "El.Viento (Usa)",
+    "rom_url": "/worksheets/main/El.Viento_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Elemental Master (Usa)",
+    "rom_url": "/worksheets/main/Elemental_Master_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Espn Baseball Tonight (Usa)",
+    "rom_url": "/worksheets/main/ESPN_Baseball_Tonight_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Espn National Hockey Night (Usa)",
+    "rom_url": "/worksheets/main/ESPN_National_Hockey_Night_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Espn Speed World (Usa)",
+    "rom_url": "/worksheets/main/ESPN_Speed_World_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Espn Sunday Night Nfl (Usa)",
+    "rom_url": "/worksheets/main/ESPN_Sunday_Night_NFL_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Eternal Champions (Usa)",
+    "rom_url": "/worksheets/main/Eternal_Champions_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ex-Mutants (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ex-Mutants_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Exile (Usa)",
+    "rom_url": "/worksheets/main/Exile_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Exile (Usa) (Sega Channel)",
+    "rom_url": "/worksheets/main/Exile_(USA)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Exodus - Journey To The Promised Land (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Exodus_-_Journey_to_the_Promised_Land_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Exo Squad (Usa)",
+    "rom_url": "/worksheets/main/Exo_Squad_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-117 Night Storm (Usa, Europe)",
+    "rom_url": "/worksheets/main/F-117_Night_Storm_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-15 Strike Eagle Ii (Usa)",
+    "rom_url": "/worksheets/main/F-15_Strike_Eagle_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-15 Strike Eagle Ii (Usa) (Sample)",
+    "rom_url": "/worksheets/main/F-15_Strike_Eagle_II_(USA)_(Sample).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-22 Interceptor (Usa) (1991-09-17) (Sega Channel)",
+    "rom_url": "/worksheets/main/F-22_Interceptor_(USA)_(1991-09-17)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-22 Interceptor - Advanced Tactical Fighter (Usa) (F-205)",
+    "rom_url": "/worksheets/main/F-22_Interceptor_-_Advanced_Tactical_Fighter_(USA)_(F-205).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "F-22 Interceptor - Advanced Tactical Fighter (Usa, Europe) (F-202)",
+    "rom_url": "/worksheets/main/F-22_Interceptor_-_Advanced_Tactical_Fighter_(USA,_Europe)_(F-202).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Faery Tale Adventure, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Faery_Tale_Adventure,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Family Feud (Usa)",
+    "rom_url": "/worksheets/main/Family_Feud_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fantasia (Usa, Europe)",
+    "rom_url": "/worksheets/main/Fantasia_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fantastic Dizzy (Usa, Europe) (En,Fr,De,Es,It)",
+    "rom_url": "/worksheets/main/Fantastic_Dizzy_(USA,_Europe)_(En,Fr,De,Es,It).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fatal Fury (Usa)",
+    "rom_url": "/worksheets/main/Fatal_Fury_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fatal Fury 2 (Usa, Korea) (En)",
+    "rom_url": "/worksheets/main/Fatal_Fury_2_(USA,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fatal Labyrinth (Usa, Europe)",
+    "rom_url": "/worksheets/main/Fatal_Labyrinth_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fatal Rewind (Usa, Europe)",
+    "rom_url": "/worksheets/main/Fatal_Rewind_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ferrari Grand Prix Challenge (Usa)",
+    "rom_url": "/worksheets/main/Ferrari_Grand_Prix_Challenge_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fifa International Soccer (Usa, Europe) (En,Fr,De,Es)",
+    "rom_url": "/worksheets/main/FIFA_International_Soccer_(USA,_Europe)_(En,Fr,De,Es).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fifa Soccer 95 (Usa, Europe) (En,Fr,De,Es)",
+    "rom_url": "/worksheets/main/FIFA_Soccer_95_(USA,_Europe)_(En,Fr,De,Es).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fifa Soccer 96 (Usa, Europe) (En,Fr,De,Es,It,Sv)",
+    "rom_url": "/worksheets/main/FIFA_Soccer_96_(USA,_Europe)_(En,Fr,De,Es,It,Sv).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fifa Soccer 97 (Usa, Europe) (En,Fr,De,Es,It,Sv)",
+    "rom_url": "/worksheets/main/FIFA_Soccer_97_(USA,_Europe)_(En,Fr,De,Es,It,Sv).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fighting Masters (Usa)",
+    "rom_url": "/worksheets/main/Fighting_Masters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fire Shark (Usa)",
+    "rom_url": "/worksheets/main/Fire_Shark_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Flashback - The Quest For Identity (Usa) (En,Fr)",
+    "rom_url": "/worksheets/main/Flashback_-_The_Quest_for_Identity_(USA)_(En,Fr).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Flicky (Usa, Europe)",
+    "rom_url": "/worksheets/main/Flicky_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Flintstones, The (Usa) (Taito)",
+    "rom_url": "/worksheets/main/Flintstones,_The_(USA)_(Taito).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Formula One (Usa)",
+    "rom_url": "/worksheets/main/Formula_One_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Frank Thomas Big Hurt Baseball (Usa, Europe)",
+    "rom_url": "/worksheets/main/Frank_Thomas_Big_Hurt_Baseball_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Frogger (Usa)",
+    "rom_url": "/worksheets/main/Frogger_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Funny World & Balloon Boy (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Funny_World_&_Balloon_Boy_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fun N Games (Usa)",
+    "rom_url": "/worksheets/main/Fun_n_Games_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Fz Senki Axis ~ Final Zone (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/FZ_Senki_Axis_~_Final_Zone_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gadget Twins (Usa)",
+    "rom_url": "/worksheets/main/Gadget_Twins_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gaiares (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Gaiares_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gain Ground (Usa)",
+    "rom_url": "/worksheets/main/Gain_Ground_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Galaxy Force Ii (Usa, Europe) (Pc Rerelease)",
+    "rom_url": "/worksheets/main/Galaxy_Force_II_(USA,_Europe)_(PC_Rerelease).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Game Genie (Usa, Europe) (Program)",
+    "rom_url": "/worksheets/main/Game_Genie_(USA,_Europe)_(Program).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Garfield - Caught In The Act (Usa, Europe)",
+    "rom_url": "/worksheets/main/Garfield_-_Caught_in_the_Act_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gargoyles (Usa)",
+    "rom_url": "/worksheets/main/Gargoyles_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Garry Kitchens Super Battletank - War In The Gulf (Usa)",
+    "rom_url": "/worksheets/main/Garry_Kitchens_Super_Battletank_-_War_in_the_Gulf_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gauntlet Iv (Usa, Europe) (En,Ja)",
+    "rom_url": "/worksheets/main/Gauntlet_IV_(USA,_Europe)_(En,Ja).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gemfire (Usa)",
+    "rom_url": "/worksheets/main/Gemfire_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "General Chaos (Usa, Europe)",
+    "rom_url": "/worksheets/main/General_Chaos_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Generations Lost (Usa, Europe)",
+    "rom_url": "/worksheets/main/Generations_Lost_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Genghis Khan Ii - Clan Of The Gray Wolf (Usa)",
+    "rom_url": "/worksheets/main/Genghis_Khan_II_-_Clan_of_the_Gray_Wolf_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "George Foremans Ko Boxing (Usa)",
+    "rom_url": "/worksheets/main/George_Foremans_KO_Boxing_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ghostbusters (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ghostbusters_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gods (Usa)",
+    "rom_url": "/worksheets/main/Gods_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Golden Axe (World)",
+    "rom_url": "/worksheets/main/Golden_Axe_(World).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Golden Axe Iii (Europe) (Virtual Console)",
+    "rom_url": "/worksheets/main/Golden_Axe_III_(Europe)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Golden Axe Ii (World)",
+    "rom_url": "/worksheets/main/Golden_Axe_II_(World).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Goofys Hysterical History Tour (Usa)",
+    "rom_url": "/worksheets/main/Goofys_Hysterical_History_Tour_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Granada (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Granada_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Greatest Heavyweights (Usa)",
+    "rom_url": "/worksheets/main/Greatest_Heavyweights_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Great Circus Mystery Starring Mickey & Minnie, The (Usa)",
+    "rom_url": "/worksheets/main/Great_Circus_Mystery_Starring_Mickey_&_Minnie,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Great Waldo Search, The (Usa)",
+    "rom_url": "/worksheets/main/Great_Waldo_Search,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Greendog - The Beached Surfer Dude! (Usa, Europe)",
+    "rom_url": "/worksheets/main/Greendog_-_The_Beached_Surfer_Dude!_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Grind Stormer (Usa)",
+    "rom_url": "/worksheets/main/Grind_Stormer_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Growl (Usa)",
+    "rom_url": "/worksheets/main/Growl_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Gunstar Heroes (Usa)",
+    "rom_url": "/worksheets/main/Gunstar_Heroes_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hardball! (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/HardBall!_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hardball 94 (Usa, Europe)",
+    "rom_url": "/worksheets/main/HardBall_94_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hardball 95 (Usa)",
+    "rom_url": "/worksheets/main/HardBall_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Haunting Starring Polterguy (Usa, Europe)",
+    "rom_url": "/worksheets/main/Haunting_Starring_Polterguy_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Head-On Soccer (Usa)",
+    "rom_url": "/worksheets/main/Head-On_Soccer_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Heavy Nova (Usa)",
+    "rom_url": "/worksheets/main/Heavy_Nova_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hellfire (Usa)",
+    "rom_url": "/worksheets/main/Hellfire_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Herzog Zwei (Usa, Europe)",
+    "rom_url": "/worksheets/main/Herzog_Zwei_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "High Seas Havoc (Usa)",
+    "rom_url": "/worksheets/main/High_Seas_Havoc_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hit The Ice - Vhl - The Official Video Hockey League (Usa)",
+    "rom_url": "/worksheets/main/Hit_the_Ice_-_VHL_-_The_Official_Video_Hockey_League_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Home Alone (Usa, Europe)",
+    "rom_url": "/worksheets/main/Home_Alone_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Home Alone 2 - Lost In New York (Usa)",
+    "rom_url": "/worksheets/main/Home_Alone_2_-_Lost_in_New_York_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Home Alone 2 - Lost In New York (Usa) (1993-09-29) (Sega Channel)",
+    "rom_url": "/worksheets/main/Home_Alone_2_-_Lost_in_New_York_(USA)_(1993-09-29)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Hook (Usa)",
+    "rom_url": "/worksheets/main/Hook_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Humans, The (Usa)",
+    "rom_url": "/worksheets/main/Humans,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Img International Tour Tennis (Usa, Europe)",
+    "rom_url": "/worksheets/main/IMG_International_Tour_Tennis_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Immortal, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Immortal,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Incredible Crash Dummies, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Incredible_Crash_Dummies,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Incredible Hulk, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Incredible_Hulk,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Indiana Jones And The Last Crusade (Europe)",
+    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Last_Crusade_(Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Indiana Jones And The Last Crusade (Usa)",
+    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Last_Crusade_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Insector X (Usa)",
+    "rom_url": "/worksheets/main/Insector_X_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Instruments Of Chaos Starring Young Indiana Jones (Usa)",
+    "rom_url": "/worksheets/main/Instruments_of_Chaos_Starring_Young_Indiana_Jones_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ishido - The Way Of Stones (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Ishido_-_The_Way_of_Stones_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Izzys Quest For The Olympic Rings (Usa, Europe)",
+    "rom_url": "/worksheets/main/Izzys_Quest_for_the_Olympic_Rings_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jack Nicklaus Power Challenge Golf (Usa, Europe)",
+    "rom_url": "/worksheets/main/Jack_Nicklaus_Power_Challenge_Golf_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "James Bond 007 - The Duel (Usa)",
+    "rom_url": "/worksheets/main/James_Bond_007_-_The_Duel_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "James Buster Douglas Knockout Boxing (Usa, Europe)",
+    "rom_url": "/worksheets/main/James_Buster_Douglas_Knockout_Boxing_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "James Pond - Underwater Agent (Usa, Europe)",
+    "rom_url": "/worksheets/main/James_Pond_-_Underwater_Agent_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "James Pond 3 (Usa, Europe)",
+    "rom_url": "/worksheets/main/James_Pond_3_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "James Pond Ii - Codename - Robocod (Usa, Europe)",
+    "rom_url": "/worksheets/main/James_Pond_II_-_Codename_-_Robocod_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jammit (Usa)",
+    "rom_url": "/worksheets/main/Jammit_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jennifer Capriati Tennis (Usa)",
+    "rom_url": "/worksheets/main/Jennifer_Capriati_Tennis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jeopardy! (Usa)",
+    "rom_url": "/worksheets/main/Jeopardy!_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jeopardy! - Deluxe Edition (Usa)",
+    "rom_url": "/worksheets/main/Jeopardy!_-_Deluxe_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jeopardy! - Sports Edition (Usa)",
+    "rom_url": "/worksheets/main/Jeopardy!_-_Sports_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jerry Glanvilles Pigskin Footbrawl (Usa)",
+    "rom_url": "/worksheets/main/Jerry_Glanvilles_Pigskin_Footbrawl_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jewel Master (Usa, Europe)",
+    "rom_url": "/worksheets/main/Jewel_Master_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Joe & Mac (Usa)",
+    "rom_url": "/worksheets/main/Joe_&_Mac_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "John Madden Football (Usa, Europe)",
+    "rom_url": "/worksheets/main/John_Madden_Football_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "John Madden Football (Usa, Europe) (1990-11-07) (Sega Channel)",
+    "rom_url": "/worksheets/main/John_Madden_Football_(USA,_Europe)_(1990-11-07)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "John Madden Football - Championship Edition (Usa)",
+    "rom_url": "/worksheets/main/John_Madden_Football_-_Championship_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "John Madden Football 92 (Usa, Europe)",
+    "rom_url": "/worksheets/main/John_Madden_Football_92_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "John Madden Football 93 (Usa, Europe)",
+    "rom_url": "/worksheets/main/John_Madden_Football_93_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jordan Vs Bird (Usa, Europe)",
+    "rom_url": "/worksheets/main/Jordan_vs_Bird_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Joshua & The Battle Of Jericho (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Joshua_&_the_Battle_of_Jericho_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Journey From Darkness - Strider Returns (Usa)",
+    "rom_url": "/worksheets/main/Journey_from_Darkness_-_Strider_Returns_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Junction (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Junction_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jungle Book, The (Usa)",
+    "rom_url": "/worksheets/main/Jungle_Book,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jungle Strike (Usa, Europe)",
+    "rom_url": "/worksheets/main/Jungle_Strike_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jurassic Park (Usa)",
+    "rom_url": "/worksheets/main/Jurassic_Park_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jurassic Park (Usa) (1993-05-26) (Sega Channel)",
+    "rom_url": "/worksheets/main/Jurassic_Park_(USA)_(1993-05-26)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Jurassic Park - Rampage Edition (Usa, Europe)",
+    "rom_url": "/worksheets/main/Jurassic_Park_-_Rampage_Edition_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ka-Ge-Ki - Fists Of Steel (Usa)",
+    "rom_url": "/worksheets/main/Ka-Ge-Ki_-_Fists_of_Steel_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Kawasaki Superbike Challenge (Usa, Europe)",
+    "rom_url": "/worksheets/main/Kawasaki_Superbike_Challenge_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Kid Chameleon (Usa, Europe)",
+    "rom_url": "/worksheets/main/Kid_Chameleon_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Kings Bounty - The Conquerors Quest (Usa, Europe)",
+    "rom_url": "/worksheets/main/Kings_Bounty_-_The_Conquerors_Quest_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "King Of The Monsters (Usa)",
+    "rom_url": "/worksheets/main/King_of_the_Monsters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "King Of The Monsters 2 (Usa)",
+    "rom_url": "/worksheets/main/King_of_the_Monsters_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "King Salmon - The Big Catch (Usa)",
+    "rom_url": "/worksheets/main/King_Salmon_-_The_Big_Catch_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Klax (Usa, Europe) (Tengen)",
+    "rom_url": "/worksheets/main/Klax_(USA,_Europe)_(Tengen).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Krustys Super Fun House (Usa, Europe)",
+    "rom_url": "/worksheets/main/Krustys_Super_Fun_House_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lakers Versus Celtics And The Nba Playoffs (Usa, Europe)",
+    "rom_url": "/worksheets/main/Lakers_versus_Celtics_and_the_NBA_Playoffs_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Landstalker (Usa)",
+    "rom_url": "/worksheets/main/Landstalker_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Landstalker (Usa) (1993-07-13) (Sega Channel)",
+    "rom_url": "/worksheets/main/Landstalker_(USA)_(1993-07-13)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Landstalker (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Landstalker_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Last Action Hero (Usa, Europe)",
+    "rom_url": "/worksheets/main/Last_Action_Hero_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Last Battle (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/Last_Battle_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lawnmower Man, The (Usa, Europe)",
+    "rom_url": "/worksheets/main/Lawnmower_Man,_The_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "La Russa Baseball 95 (Usa, Australia)",
+    "rom_url": "/worksheets/main/La_Russa_Baseball_95_(USA,_Australia).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Legend Of Galahad, The ~ Galahad (Usa, Europe)",
+    "rom_url": "/worksheets/main/Legend_of_Galahad,_The_~_Galahad_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lemmings (Usa)",
+    "rom_url": "/worksheets/main/Lemmings_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lemmings 2 - The Tribes (Usa)",
+    "rom_url": "/worksheets/main/Lemmings_2_-_The_Tribes_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lethal Enforcers (Usa)",
+    "rom_url": "/worksheets/main/Lethal_Enforcers_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lethal Enforcers Ii - Gun Fighters (Usa)",
+    "rom_url": "/worksheets/main/Lethal_Enforcers_II_-_Gun_Fighters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lhx Attack Chopper (Usa, Europe)",
+    "rom_url": "/worksheets/main/LHX_Attack_Chopper_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Liberty Or Death (Usa)",
+    "rom_url": "/worksheets/main/Liberty_or_Death_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lightening Force - Quest For The Darkstar (Usa)",
+    "rom_url": "/worksheets/main/Lightening_Force_-_Quest_for_the_Darkstar_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Europe) (En,Fr,De,Es)",
+    "rom_url": "/worksheets/main/Light_Crusader_(Europe)_(En,Fr,De,Es).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)",
+    "rom_url": "/worksheets/main/Light_Crusader_(Europe)_(En,Fr,De,Es)_(Mega_Drive_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Japan)",
+    "rom_url": "/worksheets/main/Light_Crusader_(Japan).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Japan) (Mega Drive Mini)",
+    "rom_url": "/worksheets/main/Light_Crusader_(Japan)_(Mega_Drive_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Korea) (En,Ko)",
+    "rom_url": "/worksheets/main/Light_Crusader_(Korea)_(En,Ko).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Usa)",
+    "rom_url": "/worksheets/main/Light_Crusader_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Light Crusader (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Light_Crusader_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Little Medusa (World) (Aftermarket) (Unl)",
+    "rom_url": "/worksheets/main/Little_Medusa_(World)_(Aftermarket)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Little Medusa (World) (Demo) (Aftermarket) (Unl)",
+    "rom_url": "/worksheets/main/Little_Medusa_(World)_(Demo)_(Aftermarket)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lost Vikings, The (Usa) (November, 1993)",
+    "rom_url": "/worksheets/main/Lost_Vikings,_The_(USA)_(November,_1993).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lost Vikings, The (Usa) (October, 1995)",
+    "rom_url": "/worksheets/main/Lost_Vikings,_The_(USA)_(October,_1995).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lost World, The - Jurassic Park (Usa, Europe)",
+    "rom_url": "/worksheets/main/Lost_World,_The_-_Jurassic_Park_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lotus Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/Lotus_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Lotus Turbo Challenge (Usa, Europe)",
+    "rom_url": "/worksheets/main/Lotus_Turbo_Challenge_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "M-1 Abrams Battle Tank (Usa, Europe)",
+    "rom_url": "/worksheets/main/M-1_Abrams_Battle_Tank_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Madden Nfl 94 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Madden_NFL_94_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Madden Nfl 95 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Madden_NFL_95_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Madden Nfl 96 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Madden_NFL_96_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Madden Nfl 97 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Madden_NFL_97_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Madden Nfl 98 (Usa)",
+    "rom_url": "/worksheets/main/Madden_NFL_98_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Magic School Bus, The - Space Exploration Game (Usa)",
+    "rom_url": "/worksheets/main/Magic_School_Bus,_The_-_Space_Exploration_Game_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mallet Legends Whac-A-Critter ~ Mallet Legend (Usa, Taiwan) (En) (Unl)",
+    "rom_url": "/worksheets/main/Mallet_Legends_Whac-a-Critter_~_Mallet_Legend_(USA,_Taiwan)_(En)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Marble Madness (Usa, Europe)",
+    "rom_url": "/worksheets/main/Marble_Madness_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mario Andretti Racing (Usa, Europe)",
+    "rom_url": "/worksheets/main/Mario_Andretti_Racing_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mario Lemieux Hockey (Usa, Europe)",
+    "rom_url": "/worksheets/main/Mario_Lemieux_Hockey_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Marko (Usa)",
+    "rom_url": "/worksheets/main/Marko_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Marsupilami (Usa) (En,Fr,De,Es,It)",
+    "rom_url": "/worksheets/main/Marsupilami_(USA)_(En,Fr,De,Es,It).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Marvel Land (Usa)",
+    "rom_url": "/worksheets/main/Marvel_Land_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mary Shelleys Frankenstein (Usa)",
+    "rom_url": "/worksheets/main/Mary_Shelleys_Frankenstein_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Master Of Monsters (Usa)",
+    "rom_url": "/worksheets/main/Master_of_Monsters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Math Blaster - Episode 1 (Usa)",
+    "rom_url": "/worksheets/main/Math_Blaster_-_Episode_1_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mazin Saga - Mutant Fighter (Usa)",
+    "rom_url": "/worksheets/main/Mazin_Saga_-_Mutant_Fighter_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mcdonalds Treasure Land Adventure (Usa)",
+    "rom_url": "/worksheets/main/McDonalds_Treasure_Land_Adventure_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mega Bomberman (Usa)",
+    "rom_url": "/worksheets/main/Mega_Bomberman_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mega Man - The Wily Wars (Usa) (Aftermarket) (Unl)",
+    "rom_url": "/worksheets/main/Mega_Man_-_The_Wily_Wars_(USA)_(Aftermarket)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mega Man - The Wily Wars (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Mega_Man_-_The_Wily_Wars_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mega Turrican (Usa)",
+    "rom_url": "/worksheets/main/Mega_Turrican_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mega Turrican (Usa, Europe) (Virtual Console)",
+    "rom_url": "/worksheets/main/Mega_Turrican_(USA,_Europe)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Menacer - 6-Game Cartridge (Usa, Europe)",
+    "rom_url": "/worksheets/main/Menacer_-_6-Game_Cartridge_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Michael Jacksons Moonwalker (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Michael_Jacksons_Moonwalker_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mickeys Ultimate Challenge (Usa)",
+    "rom_url": "/worksheets/main/Mickeys_Ultimate_Challenge_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mickey Mania - The Timeless Adventures Of Mickey Mouse (Usa)",
+    "rom_url": "/worksheets/main/Mickey_Mania_-_The_Timeless_Adventures_of_Mickey_Mouse_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mick & Mack As The Global Gladiators (Usa)",
+    "rom_url": "/worksheets/main/Mick_&_Mack_as_the_Global_Gladiators_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Micro Machines (Usa)",
+    "rom_url": "/worksheets/main/Micro_Machines_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Midnight Resistance (Usa)",
+    "rom_url": "/worksheets/main/Midnight_Resistance_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mig-29 Fighter Pilot (Usa)",
+    "rom_url": "/worksheets/main/Mig-29_Fighter_Pilot_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers (Usa)",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers - The Movie (Usa)",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_-_The_Movie_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Might And Magic - Gates To Another World (Usa, Europe)",
+    "rom_url": "/worksheets/main/Might_and_Magic_-_Gates_to_Another_World_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mike Ditka Power Football (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Mike_Ditka_Power_Football_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mike Ditka Power Football (Usa, Europe) (Unl) (Alt)",
+    "rom_url": "/worksheets/main/Mike_Ditka_Power_Football_(USA,_Europe)_(Unl)_(Alt).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Minnesota Fats - Pool Legend (Usa)",
+    "rom_url": "/worksheets/main/Minnesota_Fats_-_Pool_Legend_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Miracle Piano Teaching System, The (Usa)",
+    "rom_url": "/worksheets/main/Miracle_Piano_Teaching_System,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mlbpa Baseball (Usa)",
+    "rom_url": "/worksheets/main/MLBPA_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Monopoly (Usa)",
+    "rom_url": "/worksheets/main/Monopoly_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Monster World Iv (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Monster_World_IV_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Monster World Iv (Usa, Europe) (En,Ja) (Virtual Console)",
+    "rom_url": "/worksheets/main/Monster_World_IV_(USA,_Europe)_(En,Ja)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mortal Kombat 3 (Usa)",
+    "rom_url": "/worksheets/main/Mortal_Kombat_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ms. Pac-Man (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ms._Pac-Man_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Muhammad Ali Heavyweight Boxing (Usa)",
+    "rom_url": "/worksheets/main/Muhammad_Ali_Heavyweight_Boxing_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Musha - Metallic Uniframe Super Hybrid Armor (Usa)",
+    "rom_url": "/worksheets/main/MUSHA_-_Metallic_Uniframe_Super_Hybrid_Armor_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Musha - Metallic Uniframe Super Hybrid Armor (Usa, Europe) (Switch Online)",
+    "rom_url": "/worksheets/main/MUSHA_-_Metallic_Uniframe_Super_Hybrid_Armor_(USA,_Europe)_(Switch_Online).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mutant League Football (Usa, Europe)",
+    "rom_url": "/worksheets/main/Mutant_League_Football_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mutant League Hockey (Usa, Europe)",
+    "rom_url": "/worksheets/main/Mutant_League_Hockey_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mystical Fighter (Usa)",
+    "rom_url": "/worksheets/main/Mystical_Fighter_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Mystic Defender (Usa, Europe)",
+    "rom_url": "/worksheets/main/Mystic_Defender_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Action 94 (Usa)",
+    "rom_url": "/worksheets/main/NBA_Action_94_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Action 95 Starring David Robinson (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Action_95_Starring_David_Robinson_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba All-Star Challenge (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_All-Star_Challenge_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Hang Time (Usa)",
+    "rom_url": "/worksheets/main/NBA_Hang_Time_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Jam (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Jam_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Live 95 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Live_95_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Live 96 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Live_96_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Live 97 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Live_97_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Live 98 (Usa)",
+    "rom_url": "/worksheets/main/NBA_Live_98_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nba Showdown 94 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NBA_Showdown_94_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ncaa Final Four Basketball (Usa)",
+    "rom_url": "/worksheets/main/NCAA_Final_Four_Basketball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ncaa Football (Usa)",
+    "rom_url": "/worksheets/main/NCAA_Football_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "New Horizons (Usa)",
+    "rom_url": "/worksheets/main/New_Horizons_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nfl 95 (Usa)",
+    "rom_url": "/worksheets/main/NFL_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nfl 98 (Usa)",
+    "rom_url": "/worksheets/main/NFL_98_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nfl Football 94 Starring Joe Montana (Usa)",
+    "rom_url": "/worksheets/main/NFL_Football_94_Starring_Joe_Montana_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nfl Quarterback Club 96 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club_96_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nfl Sports Talk Football 93 Starring Joe Montana (Usa, Europe)",
+    "rom_url": "/worksheets/main/NFL_Sports_Talk_Football_93_Starring_Joe_Montana_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhlpa Hockey 93 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NHLPA_Hockey_93_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 94 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NHL_94_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 94 (Usa, Europe) (Re-Release)",
+    "rom_url": "/worksheets/main/NHL_94_(USA,_Europe)_(Re-release).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 95 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NHL_95_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 96 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NHL_96_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 97 (Usa, Europe)",
+    "rom_url": "/worksheets/main/NHL_97_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl 98 (Usa)",
+    "rom_url": "/worksheets/main/NHL_98_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl All-Star Hockey 95 (Usa)",
+    "rom_url": "/worksheets/main/NHL_All-Star_Hockey_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nhl Hockey (Usa)",
+    "rom_url": "/worksheets/main/NHL_Hockey_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nigel Mansells World Championship Racing (Usa)",
+    "rom_url": "/worksheets/main/Nigel_Mansells_World_Championship_Racing_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Nobunagas Ambition (Usa)",
+    "rom_url": "/worksheets/main/Nobunagas_Ambition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Normys Beach Babe-O-Rama (Usa, Europe)",
+    "rom_url": "/worksheets/main/Normys_Beach_Babe-O-Rama_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "No Escape (Usa)",
+    "rom_url": "/worksheets/main/No_Escape_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Olympic Gold (Japan, Usa) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+    "rom_url": "/worksheets/main/Olympic_Gold_(Japan,_USA)_(En,Fr,De,Es,It,Nl,Pt,Sv).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Olympic Summer Games (Usa)",
+    "rom_url": "/worksheets/main/Olympic_Summer_Games_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Onslaught (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Onslaught_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ooze, The (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Ooze,_The_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Operation Europe - Path To Victory 1939-45 (Usa)",
+    "rom_url": "/worksheets/main/Operation_Europe_-_Path_to_Victory_1939-45_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outback Joey (Usa)",
+    "rom_url": "/worksheets/main/Outback_Joey_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outlander (Usa)",
+    "rom_url": "/worksheets/main/Outlander_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outrunners (Usa)",
+    "rom_url": "/worksheets/main/OutRunners_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outrun (Usa, Europe)",
+    "rom_url": "/worksheets/main/OutRun_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outrun (Usa, Europe) (Sega Smash Pack)",
+    "rom_url": "/worksheets/main/OutRun_(USA,_Europe)_(Sega_Smash_Pack).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Outrun 2019 (Usa)",
+    "rom_url": "/worksheets/main/OutRun_2019_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Out Of This World (Usa)",
+    "rom_url": "/worksheets/main/Out_of_This_World_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "P.T.O. - Pacific Theater Of Operations (Usa)",
+    "rom_url": "/worksheets/main/P.T.O._-_Pacific_Theater_of_Operations_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pac-Attack (Usa)",
+    "rom_url": "/worksheets/main/Pac-Attack_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pac-Mania (Usa, Europe)",
+    "rom_url": "/worksheets/main/Pac-Mania_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pac-Man 2 - The New Adventures (Usa)",
+    "rom_url": "/worksheets/main/Pac-Man_2_-_The_New_Adventures_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pagemaster, The (Usa)",
+    "rom_url": "/worksheets/main/Pagemaster,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Paperboy (Usa, Europe)",
+    "rom_url": "/worksheets/main/Paperboy_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Paperboy 2 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Paperboy_2_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pat Riley Basketball (Usa)",
+    "rom_url": "/worksheets/main/Pat_Riley_Basketball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pebble Beach Golf Links (Usa)",
+    "rom_url": "/worksheets/main/Pebble_Beach_Golf_Links_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pele! (Usa, Europe)",
+    "rom_url": "/worksheets/main/Pele!_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pele! (Usa, Europe) (Sample)",
+    "rom_url": "/worksheets/main/Pele!_(USA,_Europe)_(Sample).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pele Ii - World Tournament Soccer (Usa, Europe)",
+    "rom_url": "/worksheets/main/Pele_II_-_World_Tournament_Soccer_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pete Sampras Tennis (Usa, Europe) (Mdst6636) (J-Cart)",
+    "rom_url": "/worksheets/main/Pete_Sampras_Tennis_(USA,_Europe)_(MDST6636)_(J-Cart).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga European Tour (Usa, Europe)",
+    "rom_url": "/worksheets/main/PGA_European_Tour_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga Tour 96 (Usa, Europe)",
+    "rom_url": "/worksheets/main/PGA_Tour_96_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga Tour Golf (Usa, Europe) (Pga07)",
+    "rom_url": "/worksheets/main/PGA_Tour_Golf_(USA,_Europe)_(PGA07).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga Tour Golf (Usa, Europe) (Pga09)",
+    "rom_url": "/worksheets/main/PGA_Tour_Golf_(USA,_Europe)_(PGA09).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga Tour Golf Iii (Usa, Europe)",
+    "rom_url": "/worksheets/main/PGA_Tour_Golf_III_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pga Tour Golf Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/PGA_Tour_Golf_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Iii - Generations Of Doom (Usa, Europe) (Pc Rerelease)",
+    "rom_url": "/worksheets/main/Phantasy_Star_III_-_Generations_of_Doom_(USA,_Europe)_(PC_Rerelease).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Iii - Generations Of Doom (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/Phantasy_Star_III_-_Generations_of_Doom_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/Phantasy_Star_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Iv (Usa)",
+    "rom_url": "/worksheets/main/Phantasy_Star_IV_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Iv (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Phantasy_Star_IV_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantasy Star Iv (Usa) (Sample)",
+    "rom_url": "/worksheets/main/Phantasy_Star_IV_(USA)_(Sample).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phantom 2040 (Usa)",
+    "rom_url": "/worksheets/main/Phantom_2040_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Phelios (Usa)",
+    "rom_url": "/worksheets/main/Phelios_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pink Goes To Hollywood (Usa, Europe)",
+    "rom_url": "/worksheets/main/Pink_Goes_to_Hollywood_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pinocchio (Usa)",
+    "rom_url": "/worksheets/main/Pinocchio_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pirates! Gold (Usa)",
+    "rom_url": "/worksheets/main/Pirates!_Gold_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pirates Of Dark Water, The (Usa)",
+    "rom_url": "/worksheets/main/Pirates_of_Dark_Water,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pitfall - The Mayan Adventure (Usa)",
+    "rom_url": "/worksheets/main/Pitfall_-_The_Mayan_Adventure_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pocahontas (Usa)",
+    "rom_url": "/worksheets/main/Pocahontas_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Populous (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Populous_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Powerball (Usa)",
+    "rom_url": "/worksheets/main/Powerball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Power Monger (Usa, Europe)",
+    "rom_url": "/worksheets/main/Power_Monger_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Predator 2 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Predator_2_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Primal Rage (Usa) (Demo) (1995-08-01) (Sega Channel) (Test Drive Version)",
+    "rom_url": "/worksheets/main/Primal_Rage_(USA)_(Demo)_(1995-08-01)_(Sega_Channel)_(Test_Drive_Version).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Primal Rage (Usa) (Demo) (1995-08-25) (Sega Channel) (Rental Version)",
+    "rom_url": "/worksheets/main/Primal_Rage_(USA)_(Demo)_(1995-08-25)_(Sega_Channel)_(Rental_Version).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Primal Rage (Usa, Europe)",
+    "rom_url": "/worksheets/main/Primal_Rage_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Primal Rage Showdown (Usa) (Demo) (1995-08-26) (Sega Channel)",
+    "rom_url": "/worksheets/main/Primal_Rage_Showdown_(USA)_(Demo)_(1995-08-26)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Prime Time Nfl Starring Deion Sanders (Usa)",
+    "rom_url": "/worksheets/main/Prime_Time_NFL_Starring_Deion_Sanders_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Prince Of Persia (Usa)",
+    "rom_url": "/worksheets/main/Prince_of_Persia_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pro Moves Soccer (Usa)",
+    "rom_url": "/worksheets/main/Pro_Moves_Soccer_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Pro Quarterback (Usa)",
+    "rom_url": "/worksheets/main/Pro_Quarterback_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Puggsy (Usa)",
+    "rom_url": "/worksheets/main/Puggsy_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Punisher, The (Usa)",
+    "rom_url": "/worksheets/main/Punisher,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Quad Challenge (Usa)",
+    "rom_url": "/worksheets/main/Quad_Challenge_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "R.B.I. Baseball 3 (Usa)",
+    "rom_url": "/worksheets/main/R.B.I._Baseball_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "R.B.I. Baseball 4 (Usa)",
+    "rom_url": "/worksheets/main/R.B.I._Baseball_4_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "R.B.I. Baseball 93 (Usa)",
+    "rom_url": "/worksheets/main/R.B.I._Baseball_93_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "R.B.I. Baseball 94 (Usa, Europe)",
+    "rom_url": "/worksheets/main/R.B.I._Baseball_94_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Race Drivin (Usa)",
+    "rom_url": "/worksheets/main/Race_Drivin_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Radical Rex (Usa)",
+    "rom_url": "/worksheets/main/Radical_Rex_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Raiden Densetsu ~ Raiden Trad (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Raiden_Densetsu_~_Raiden_Trad_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rampart (Usa)",
+    "rom_url": "/worksheets/main/Rampart_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ranger X (Usa)",
+    "rom_url": "/worksheets/main/Ranger_X_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rastan Saga Ii (Usa)",
+    "rom_url": "/worksheets/main/Rastan_Saga_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Red Zone (Usa, Europe)",
+    "rom_url": "/worksheets/main/Red_Zone_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ren & Stimpy Show Presents, The - Stimpys Invention (Usa)",
+    "rom_url": "/worksheets/main/Ren_&_Stimpy_Show_Presents,_The_-_Stimpys_Invention_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Richard Scarrys Busytown (Usa)",
+    "rom_url": "/worksheets/main/Richard_Scarrys_Busytown_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rings Of Power (Usa, Europe)",
+    "rom_url": "/worksheets/main/Rings_of_Power_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Risky Woods (Usa, Europe)",
+    "rom_url": "/worksheets/main/Risky_Woods_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Risk (Usa)",
+    "rom_url": "/worksheets/main/Risk_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ristar (Usa, Europe)",
+    "rom_url": "/worksheets/main/Ristar_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Roadblasters (Usa)",
+    "rom_url": "/worksheets/main/RoadBlasters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Road Rash (Usa, Europe)",
+    "rom_url": "/worksheets/main/Road_Rash_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Road Rash 3 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Road_Rash_3_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Road Rash Ii (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Road_Rash_II_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Road Rash Ii (Usa, Europe) (Rr205)",
+    "rom_url": "/worksheets/main/Road_Rash_II_(USA,_Europe)_(RR205).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Road Rash Ii (Usa, Europe) (Rr206)",
+    "rom_url": "/worksheets/main/Road_Rash_II_(USA,_Europe)_(RR206).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Robocop 3 (Usa, Europe)",
+    "rom_url": "/worksheets/main/RoboCop_3_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Robocop Versus The Terminator (Usa)",
+    "rom_url": "/worksheets/main/RoboCop_Versus_The_Terminator_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rocket Knight Adventures (Usa)",
+    "rom_url": "/worksheets/main/Rocket_Knight_Adventures_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rocket Knight Adventures (Usa) (Sample) (1993-06-15)",
+    "rom_url": "/worksheets/main/Rocket_Knight_Adventures_(USA)_(Sample)_(1993-06-15).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rock N Roll Racing (Usa)",
+    "rom_url": "/worksheets/main/Rock_n_Roll_Racing_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Roger Clemens Mvp Baseball (Usa)",
+    "rom_url": "/worksheets/main/Roger_Clemens_MVP_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rolling Thunder 2 (Usa)",
+    "rom_url": "/worksheets/main/Rolling_Thunder_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rolling Thunder 3 (Usa)",
+    "rom_url": "/worksheets/main/Rolling_Thunder_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rolo To The Rescue (Usa, Europe)",
+    "rom_url": "/worksheets/main/Rolo_to_the_Rescue_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms Iii - Dragon Of Destiny (Usa)",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_III_-_Dragon_of_Destiny_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms Ii (Usa)",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Rugby World Cup 95 (Usa, Europe) (En,Fr,It)",
+    "rom_url": "/worksheets/main/Rugby_World_Cup_95_(USA,_Europe)_(En,Fr,It).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sagaia (Usa)",
+    "rom_url": "/worksheets/main/Sagaia_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Saint Sword (Usa)",
+    "rom_url": "/worksheets/main/Saint_Sword_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Samurai Shodown (Usa)",
+    "rom_url": "/worksheets/main/Samurai_Shodown_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Saturday Night Slammasters (Usa)",
+    "rom_url": "/worksheets/main/Saturday_Night_Slammasters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Scooby-Doo Mystery (Usa)",
+    "rom_url": "/worksheets/main/Scooby-Doo_Mystery_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Seaquest Dsv (Usa)",
+    "rom_url": "/worksheets/main/seaQuest_DSV_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sega Channel (Usa) (General Instrument) (Program)",
+    "rom_url": "/worksheets/main/Sega_Channel_(USA)_(General_Instrument)_(Program).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sega Channel (Usa) (Scientific Atlanta) (Program)",
+    "rom_url": "/worksheets/main/Sega_Channel_(USA)_(Scientific_Atlanta)_(Program).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sega Channel Demo (Usa) (Program)",
+    "rom_url": "/worksheets/main/Sega_Channel_Demo_(USA)_(Program).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sega Sound Tool (Usa) (V2.2) (Program)",
+    "rom_url": "/worksheets/main/Sega_Sound_Tool_(USA)_(v2.2)_(Program).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sesame Street Counting Cafe (Usa)",
+    "rom_url": "/worksheets/main/Sesame_Street_Counting_Cafe_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shadowrun (Usa)",
+    "rom_url": "/worksheets/main/Shadowrun_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shadow Blasters (Usa)",
+    "rom_url": "/worksheets/main/Shadow_Blasters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shadow Dancer - The Secret Of Shinobi (Usa, Europe) (Pc Rerelease)",
+    "rom_url": "/worksheets/main/Shadow_Dancer_-_The_Secret_of_Shinobi_(USA,_Europe)_(PC_Rerelease).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shadow Of The Beast (Usa, Europe)",
+    "rom_url": "/worksheets/main/Shadow_of_the_Beast_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shadow Of The Beast Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/Shadow_of_the_Beast_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shanghai Ii - Dragons Eye (Usa)",
+    "rom_url": "/worksheets/main/Shanghai_II_-_Dragons_Eye_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shaq-Fu (Usa, Europe)",
+    "rom_url": "/worksheets/main/Shaq-Fu_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shining Force (Usa)",
+    "rom_url": "/worksheets/main/Shining_Force_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shining Force (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Shining_Force_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shining Force Ii (Usa)",
+    "rom_url": "/worksheets/main/Shining_Force_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shining In The Darkness (Usa, Europe)",
+    "rom_url": "/worksheets/main/Shining_in_the_Darkness_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shinobi Iii - Return Of The Ninja Master (Usa)",
+    "rom_url": "/worksheets/main/Shinobi_III_-_Return_of_the_Ninja_Master_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shinobi Iii - Return Of The Ninja Master (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Shinobi_III_-_Return_of_the_Ninja_Master_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Shove It! ...The Warehouse Game (Usa)",
+    "rom_url": "/worksheets/main/Shove_It!_...The_Warehouse_Game_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Side Pocket (Usa)",
+    "rom_url": "/worksheets/main/Side_Pocket_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Simpsons, The - Barts Nightmare (Usa, Europe)",
+    "rom_url": "/worksheets/main/Simpsons,_The_-_Barts_Nightmare_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Simpsons, The - Bart Vs. The Space Mutants (Usa, Europe)",
+    "rom_url": "/worksheets/main/Simpsons,_The_-_Bart_vs._the_Space_Mutants_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Skeleton Krew (Usa)",
+    "rom_url": "/worksheets/main/Skeleton_Krew_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Skitchin (Usa, Europe)",
+    "rom_url": "/worksheets/main/Skitchin_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Slaughter Sport (Usa)",
+    "rom_url": "/worksheets/main/Slaughter_Sport_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Socket (Usa)",
+    "rom_url": "/worksheets/main/Socket_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sol-Deace (Usa)",
+    "rom_url": "/worksheets/main/Sol-Deace_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sol-Deace (Usa) (1992-02-03) (Sega Channel)",
+    "rom_url": "/worksheets/main/Sol-Deace_(USA)_(1992-02-03)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Soldiers Of Fortune (Usa)",
+    "rom_url": "/worksheets/main/Soldiers_of_Fortune_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic & Knuckles + Sonic The Hedgehog (Usa, Europe)",
+    "rom_url": "/worksheets/main/Sonic_&_Knuckles_+_Sonic_The_Hedgehog_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic & Knuckles + Sonic The Hedgehog 3 (Usa)",
+    "rom_url": "/worksheets/main/Sonic_&_Knuckles_+_Sonic_The_Hedgehog_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic 3D Blast ~ Sonic 3D Flickies Island (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/Sonic_3D_Blast_~_Sonic_3D_Flickies_Island_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic Spinball (Usa)",
+    "rom_url": "/worksheets/main/Sonic_Spinball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic Spinball (Usa) (1993-09-22) (Sega Channel)",
+    "rom_url": "/worksheets/main/Sonic_Spinball_(USA)_(1993-09-22)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic The Hedgehog (Usa, Europe)",
+    "rom_url": "/worksheets/main/Sonic_The_Hedgehog_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic The Hedgehog (Usa, Europe) (Sonic Classic Collection)",
+    "rom_url": "/worksheets/main/Sonic_The_Hedgehog_(USA,_Europe)_(Sonic_Classic_Collection).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic The Hedgehog 3 (Usa)",
+    "rom_url": "/worksheets/main/Sonic_The_Hedgehog_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic The Hedgehog 3 (Usa) (1993-11-20) (Sega Channel)",
+    "rom_url": "/worksheets/main/Sonic_The_Hedgehog_3_(USA)_(1993-11-20)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sonic The Hedgehog 3 (Usa) (Sonic Classic Collection)",
+    "rom_url": "/worksheets/main/Sonic_The_Hedgehog_3_(USA)_(Sonic_Classic_Collection).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sorcerers Kingdom (Usa)",
+    "rom_url": "/worksheets/main/Sorcerers_Kingdom_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Space Invaders 91 (Usa)",
+    "rom_url": "/worksheets/main/Space_Invaders_91_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sparkster (Usa)",
+    "rom_url": "/worksheets/main/Sparkster_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Speedball 2 - Brutal Deluxe (Usa)",
+    "rom_url": "/worksheets/main/Speedball_2_-_Brutal_Deluxe_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Spider-Man (Usa, Europe) (Acclaim)",
+    "rom_url": "/worksheets/main/Spider-Man_(USA,_Europe)_(Acclaim).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Spiritual Warfare (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Spiritual_Warfare_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Splatterhouse 2 (Usa)",
+    "rom_url": "/worksheets/main/Splatterhouse_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Splatterhouse 2 (Usa) (1992-03-02) (Sega Channel)",
+    "rom_url": "/worksheets/main/Splatterhouse_2_(USA)_(1992-03-02)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Splatterhouse 3 (Usa)",
+    "rom_url": "/worksheets/main/Splatterhouse_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sports Talk Baseball (Usa)",
+    "rom_url": "/worksheets/main/Sports_Talk_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Spot Goes To Hollywood (Usa)",
+    "rom_url": "/worksheets/main/Spot_Goes_to_Hollywood_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Starflight (Usa, Europe)",
+    "rom_url": "/worksheets/main/Starflight_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Stargate (Usa, Europe)",
+    "rom_url": "/worksheets/main/Stargate_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Stargate (Usa, Europe) (Sample) (Ngen)",
+    "rom_url": "/worksheets/main/Stargate_(USA,_Europe)_(Sample)_(NGen).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Star Control (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Star_Control_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Star Trek - Deep Space Nine - Crossroads Of Time (Usa)",
+    "rom_url": "/worksheets/main/Star_Trek_-_Deep_Space_Nine_-_Crossroads_of_Time_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Star Trek - The Next Generation - Echoes From The Past (Usa)",
+    "rom_url": "/worksheets/main/Star_Trek_-_The_Next_Generation_-_Echoes_from_the_Past_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Steel Empire (Usa)",
+    "rom_url": "/worksheets/main/Steel_Empire_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Steel Empire (Usa) (1992-03-13) (Sega Channel)",
+    "rom_url": "/worksheets/main/Steel_Empire_(USA)_(1992-03-13)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Steel Talons (Usa, Europe)",
+    "rom_url": "/worksheets/main/Steel_Talons_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Stormlord (Usa)",
+    "rom_url": "/worksheets/main/Stormlord_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Streets Of Rage 2 (Usa)",
+    "rom_url": "/worksheets/main/Streets_of_Rage_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Streets Of Rage 3 (Usa)",
+    "rom_url": "/worksheets/main/Streets_of_Rage_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Street Fighter Ii - Special Champion Edition (Usa)",
+    "rom_url": "/worksheets/main/Street_Fighter_II_-_Special_Champion_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Street Fighter Ii - Special Champion Edition (Usa) (Virtual Console)",
+    "rom_url": "/worksheets/main/Street_Fighter_II_-_Special_Champion_Edition_(USA)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Street Smart (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Street_Smart_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Strider (Usa, Europe)",
+    "rom_url": "/worksheets/main/Strider_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Strider (Usa, Europe) (Virtual Console)",
+    "rom_url": "/worksheets/main/Strider_(USA,_Europe)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sub-Terrania (Usa)",
+    "rom_url": "/worksheets/main/Sub-Terrania_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Summer Challenge (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Summer_Challenge_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sunset Riders (Usa)",
+    "rom_url": "/worksheets/main/Sunset_Riders_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Superman (Usa)",
+    "rom_url": "/worksheets/main/Superman_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Baseball 2020 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Super_Baseball_2020_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Battleship - The Classic Naval Combat Game (Usa)",
+    "rom_url": "/worksheets/main/Super_Battleship_-_The_Classic_Naval_Combat_Game_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Fantasy Zone (Usa) (Ja) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Super_Fantasy_Zone_(USA)_(Ja)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Hang-On (Japan, Usa) (En,Ja)",
+    "rom_url": "/worksheets/main/Super_Hang-On_(Japan,_USA)_(En,Ja).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super High Impact (Usa)",
+    "rom_url": "/worksheets/main/Super_High_Impact_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Hydlide (Usa)",
+    "rom_url": "/worksheets/main/Super_Hydlide_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Monaco Gp (Japan, Usa) (En,Ja)",
+    "rom_url": "/worksheets/main/Super_Monaco_GP_(Japan,_USA)_(En,Ja).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Monaco Gp (Usa) (En,Ja)",
+    "rom_url": "/worksheets/main/Super_Monaco_GP_(USA)_(En,Ja).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Off Road (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Super_Off_Road_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Smash T.V. (Usa, Europe)",
+    "rom_url": "/worksheets/main/Super_Smash_T.V._(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Street Fighter Ii (Usa)",
+    "rom_url": "/worksheets/main/Super_Street_Fighter_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Street Fighter Ii (Usa) (Virtual Console)",
+    "rom_url": "/worksheets/main/Super_Street_Fighter_II_(USA)_(Virtual_Console).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Super Volleyball (Usa)",
+    "rom_url": "/worksheets/main/Super_Volleyball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sword Of Sodan (Usa, Europe)",
+    "rom_url": "/worksheets/main/Sword_of_Sodan_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sword Of Vermilion (Usa, Europe)",
+    "rom_url": "/worksheets/main/Sword_of_Vermilion_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sword Of Vermilion (Usa, Europe) (1993-11-18) (Sega Channel)",
+    "rom_url": "/worksheets/main/Sword_of_Vermilion_(USA,_Europe)_(1993-11-18)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Syd Of Valis (Usa)",
+    "rom_url": "/worksheets/main/Syd_of_Valis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Sylvester And Tweety In Cagey Capers ~ Sylvester & Tweety In Cagey Capers (Usa, Europe)",
+    "rom_url": "/worksheets/main/Sylvester_and_Tweety_in_Cagey_Capers_~_Sylvester_&_Tweety_in_Cagey_Capers_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Syndicate (Usa, Europe) (En,Fr,De)",
+    "rom_url": "/worksheets/main/Syndicate_(USA,_Europe)_(En,Fr,De).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "T2 - Terminator 2 - Judgment Day (Usa, Europe)",
+    "rom_url": "/worksheets/main/T2_-_Terminator_2_-_Judgment_Day_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "T2 - The Arcade Game (Usa, Europe)",
+    "rom_url": "/worksheets/main/T2_-_The_Arcade_Game_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Talespin (Usa, Europe)",
+    "rom_url": "/worksheets/main/TaleSpin_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Target Earth (Usa)",
+    "rom_url": "/worksheets/main/Target_Earth_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Task Force Harrier Ex (Usa)",
+    "rom_url": "/worksheets/main/Task_Force_Harrier_EX_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Taz In Escape From Mars (Usa)",
+    "rom_url": "/worksheets/main/Taz_in_Escape_from_Mars_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Team Usa Basketball (Usa, Europe)",
+    "rom_url": "/worksheets/main/Team_USA_Basketball_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Technoclash (Usa, Europe)",
+    "rom_url": "/worksheets/main/TechnoClash_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Technocop (Usa)",
+    "rom_url": "/worksheets/main/Technocop_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Baseball (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Bowl (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Bowl Iii - Final Edition (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl_III_-_Final_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Bowl Ii - Special Edition (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl_II_-_Special_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Hockey (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_Hockey_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo Super Nba Basketball (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Super_NBA_Basketball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tecmo World Cup (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_World_Cup_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles - The Hyperstone Heist (Usa)",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_-_The_Hyperstone_Heist_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles - Tournament Fighters (Usa)",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_-_Tournament_Fighters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Terminator, The (Usa)",
+    "rom_url": "/worksheets/main/Terminator,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Test Drive Ii - The Duel (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Test_Drive_II_-_The_Duel_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tetris (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Tetris_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Theme Park (Usa, Europe) (En,Fr,De,Es)",
+    "rom_url": "/worksheets/main/Theme_Park_(USA,_Europe)_(En,Fr,De,Es).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Thomas The Tank Engine & Friends (Usa)",
+    "rom_url": "/worksheets/main/Thomas_the_Tank_Engine_&_Friends_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Thunder Force Iii (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/Thunder_Force_III_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Thunder Force Ii (Usa, Europe)",
+    "rom_url": "/worksheets/main/Thunder_Force_II_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Thunder Fox (Usa)",
+    "rom_url": "/worksheets/main/Thunder_Fox_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tick, The (Usa)",
+    "rom_url": "/worksheets/main/Tick,_The_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Time Killers (Usa)",
+    "rom_url": "/worksheets/main/Time_Killers_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tinhead (Usa) (Ballistic) (April, 1994)",
+    "rom_url": "/worksheets/main/Tinhead_(USA)_(Ballistic)_(April,_1994).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tinhead (Usa) (Spectrum Holobyte) (October, 1995)",
+    "rom_url": "/worksheets/main/Tinhead_(USA)_(Spectrum_HoloByte)_(October,_1995).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tiny Toon Adventures - Acme All-Stars (Usa, Korea) (En)",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_ACME_All-Stars_(USA,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tiny Toon Adventures - Busters Hidden Treasure (Usa)",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Busters_Hidden_Treasure_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tnn Bass Tournament Of Champions (Usa)",
+    "rom_url": "/worksheets/main/TNN_Bass_Tournament_of_Champions_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tnn Outdoors Bass Tournament 96 (Usa)",
+    "rom_url": "/worksheets/main/TNN_Outdoors_Bass_Tournament_96_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Todds Adventures In Slime World (Usa)",
+    "rom_url": "/worksheets/main/Todds_Adventures_in_Slime_World_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toejam & Earl (Usa, Europe, Korea) (En)",
+    "rom_url": "/worksheets/main/ToeJam_&_Earl_(USA,_Europe,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toejam & Earl In Panic On Funkotron (Usa)",
+    "rom_url": "/worksheets/main/ToeJam_&_Earl_in_Panic_on_Funkotron_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toejam & Earl In Panic On Funkotron (Usa) (1993-09-11) (Sega Channel)",
+    "rom_url": "/worksheets/main/ToeJam_&_Earl_in_Panic_on_Funkotron_(USA)_(1993-09-11)_(Sega_Channel).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toki - Going Ape Spit (Usa, Europe)",
+    "rom_url": "/worksheets/main/Toki_-_Going_Ape_Spit_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tommy Lasorda Baseball (Usa)",
+    "rom_url": "/worksheets/main/Tommy_Lasorda_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tom And Jerry - Frantic Antics! (Usa)",
+    "rom_url": "/worksheets/main/Tom_and_Jerry_-_Frantic_Antics!_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tom Masons Dinosaurs For Hire (Usa)",
+    "rom_url": "/worksheets/main/Tom_Masons_Dinosaurs_for_Hire_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tony La Russa Baseball (Usa, Australia)",
+    "rom_url": "/worksheets/main/Tony_La_Russa_Baseball_(USA,_Australia).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Top Gear 2 (Usa)",
+    "rom_url": "/worksheets/main/Top_Gear_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toughman Contest (Usa, Europe)",
+    "rom_url": "/worksheets/main/Toughman_Contest_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toxic Crusaders (Usa)",
+    "rom_url": "/worksheets/main/Toxic_Crusaders_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toys - Let The Toy Wars Begin! (Usa)",
+    "rom_url": "/worksheets/main/Toys_-_Let_the_Toy_Wars_begin!_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toy Story (Usa)",
+    "rom_url": "/worksheets/main/Toy_Story_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Toy Story (Usa) (Sample)",
+    "rom_url": "/worksheets/main/Toy_Story_(USA)_(Sample).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Trampoline Terror! (Usa)",
+    "rom_url": "/worksheets/main/Trampoline_Terror!_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Traysia (Usa)",
+    "rom_url": "/worksheets/main/Traysia_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Triple Play - Gold Edition (Usa)",
+    "rom_url": "/worksheets/main/Triple_Play_-_Gold_Edition_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Triple Play 96 (Usa)",
+    "rom_url": "/worksheets/main/Triple_Play_96_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Trouble Shooter (Usa)",
+    "rom_url": "/worksheets/main/Trouble_Shooter_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Troy Aikman Nfl Football (Usa)",
+    "rom_url": "/worksheets/main/Troy_Aikman_NFL_Football_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Turrican (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Turrican_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Twin Cobra - Desert Attack Helicopter (Usa)",
+    "rom_url": "/worksheets/main/Twin_Cobra_-_Desert_Attack_Helicopter_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Two Crude Dudes (Usa)",
+    "rom_url": "/worksheets/main/Two_Crude_Dudes_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Tyrants - Fight Through Time (Usa)",
+    "rom_url": "/worksheets/main/Tyrants_-_Fight_Through_Time_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ultimate Mortal Kombat 3 (Usa)",
+    "rom_url": "/worksheets/main/Ultimate_Mortal_Kombat_3_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ultimate Qix (Usa)",
+    "rom_url": "/worksheets/main/Ultimate_QIX_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ultracore (Usa) (Aftermarket) (Unl)",
+    "rom_url": "/worksheets/main/Ultracore_(USA)_(Aftermarket)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Uncharted Waters (Usa)",
+    "rom_url": "/worksheets/main/Uncharted_Waters_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Universal Soldier (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Universal_Soldier_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Unnecessary Roughness 95 (Usa)",
+    "rom_url": "/worksheets/main/Unnecessary_Roughness_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Urban Strike (Usa, Europe)",
+    "rom_url": "/worksheets/main/Urban_Strike_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Valis (Usa)",
+    "rom_url": "/worksheets/main/Valis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Valis Iii (Usa)",
+    "rom_url": "/worksheets/main/Valis_III_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vapor Trail (Usa)",
+    "rom_url": "/worksheets/main/Vapor_Trail_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vectorman (Usa) (Genesis Mini)",
+    "rom_url": "/worksheets/main/Vectorman_(USA)_(Genesis_Mini).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vectorman (Usa, Europe)",
+    "rom_url": "/worksheets/main/Vectorman_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vectorman (Usa, Europe) (Sega Smash Pack 2)",
+    "rom_url": "/worksheets/main/Vectorman_(USA,_Europe)_(Sega_Smash_Pack_2).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vectorman 2 (Usa)",
+    "rom_url": "/worksheets/main/Vectorman_2_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vectorman 2 (Usa) (Sample) (1996-08-28)",
+    "rom_url": "/worksheets/main/Vectorman_2_(USA)_(Sample)_(1996-08-28).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Venom . Spider-Man - Separation Anxiety (Usa, Europe)",
+    "rom_url": "/worksheets/main/Venom_._Spider-Man_-_Separation_Anxiety_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Viewpoint (Usa)",
+    "rom_url": "/worksheets/main/Viewpoint_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Virtual Pinball (Usa, Europe)",
+    "rom_url": "/worksheets/main/Virtual_Pinball_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Virtua Fighter 2 (Usa, Europe)",
+    "rom_url": "/worksheets/main/Virtua_Fighter_2_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Virtua Racing (Usa)",
+    "rom_url": "/worksheets/main/Virtua_Racing_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Vr Troopers (Usa, Europe)",
+    "rom_url": "/worksheets/main/VR_Troopers_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wacky Worlds Creativity Studio (Usa)",
+    "rom_url": "/worksheets/main/Wacky_Worlds_Creativity_Studio_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wardner (Usa)",
+    "rom_url": "/worksheets/main/Wardner_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Warlock (Usa, Europe)",
+    "rom_url": "/worksheets/main/Warlock_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Warpspeed (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/WarpSpeed_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Warrior Of Rome (Usa)",
+    "rom_url": "/worksheets/main/Warrior_of_Rome_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Warrior Of Rome Ii (Usa)",
+    "rom_url": "/worksheets/main/Warrior_of_Rome_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Warsong (Usa)",
+    "rom_url": "/worksheets/main/Warsong_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Waynes World (Usa)",
+    "rom_url": "/worksheets/main/Waynes_World_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wayne Gretzky And The Nhlpa All-Stars (Usa, Europe)",
+    "rom_url": "/worksheets/main/Wayne_Gretzky_and_the_NHLPA_All-Stars_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Weaponlord (Usa)",
+    "rom_url": "/worksheets/main/WeaponLord_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wheel Of Fortune (Usa)",
+    "rom_url": "/worksheets/main/Wheel_of_Fortune_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Where In The World Is Carmen Sandiego (Usa, Europe) (En,Fr,De,Es,It)",
+    "rom_url": "/worksheets/main/Where_in_the_World_Is_Carmen_Sandiego_(USA,_Europe)_(En,Fr,De,Es,It).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Where In Time Is Carmen Sandiego (Usa, Europe) (En,Fr,De,Es,It)",
+    "rom_url": "/worksheets/main/Where_in_Time_Is_Carmen_Sandiego_(USA,_Europe)_(En,Fr,De,Es,It).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Whip Rush (Usa)",
+    "rom_url": "/worksheets/main/Whip_Rush_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Williams Arcades Greatest Hits (Usa)",
+    "rom_url": "/worksheets/main/Williams_Arcades_Greatest_Hits_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wimbledon Championship Tennis (Usa)",
+    "rom_url": "/worksheets/main/Wimbledon_Championship_Tennis_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wings Of Wor (Usa)",
+    "rom_url": "/worksheets/main/Wings_of_Wor_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Winter Challenge (Usa, Europe) (Unl)",
+    "rom_url": "/worksheets/main/Winter_Challenge_(USA,_Europe)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Winter Olympic Games (Usa) (En,Fr,De,Es,It,Pt,Sv,No)",
+    "rom_url": "/worksheets/main/Winter_Olympic_Games_(USA)_(En,Fr,De,Es,It,Pt,Sv,No).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wiz N Liz (Usa)",
+    "rom_url": "/worksheets/main/Wiz_N_Liz_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wolfchild (Usa)",
+    "rom_url": "/worksheets/main/Wolfchild_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wolverine - Adamantium Rage (Usa, Europe)",
+    "rom_url": "/worksheets/main/Wolverine_-_Adamantium_Rage_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wonder Boy In Monster World (Usa, Europe)",
+    "rom_url": "/worksheets/main/Wonder_Boy_in_Monster_World_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Championship Soccer Ii (Usa)",
+    "rom_url": "/worksheets/main/World_Championship_Soccer_II_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Class Leaderboard Golf (Usa)",
+    "rom_url": "/worksheets/main/World_Class_Leaderboard_Golf_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Cup Soccer ~ World Championship Soccer (Japan, Usa) (En)",
+    "rom_url": "/worksheets/main/World_Cup_Soccer_~_World_Championship_Soccer_(Japan,_USA)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Cup Usa 94 (Usa, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)",
+    "rom_url": "/worksheets/main/World_Cup_USA_94_(USA,_Europe,_Korea)_(En,Fr,De,Es,It,Nl,Pt,Sv).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Heroes (Usa)",
+    "rom_url": "/worksheets/main/World_Heroes_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Of Illusion Starring Mickey Mouse And Donald Duck (Usa, Korea) (En)",
+    "rom_url": "/worksheets/main/World_of_Illusion_Starring_Mickey_Mouse_and_Donald_Duck_(USA,_Korea)_(En).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Series Baseball (Usa)",
+    "rom_url": "/worksheets/main/World_Series_Baseball_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Series Baseball 95 (Usa)",
+    "rom_url": "/worksheets/main/World_Series_Baseball_95_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Series Baseball 96 (Usa)",
+    "rom_url": "/worksheets/main/World_Series_Baseball_96_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Series Baseball 98 (Usa)",
+    "rom_url": "/worksheets/main/World_Series_Baseball_98_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "World Trophy Soccer (Usa)",
+    "rom_url": "/worksheets/main/World_Trophy_Soccer_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wwf Super Wrestlemania (Usa, Europe)",
+    "rom_url": "/worksheets/main/WWF_Super_WrestleMania_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Wwf Wrestlemania - The Arcade Game (Usa, Europe)",
+    "rom_url": "/worksheets/main/WWF_WrestleMania_-_The_Arcade_Game_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "X-Men (Usa)",
+    "rom_url": "/worksheets/main/X-Men_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "X-Men 2 - Clone Wars (Usa, Europe)",
+    "rom_url": "/worksheets/main/X-Men_2_-_Clone_Wars_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "X-Perts (Usa)",
+    "rom_url": "/worksheets/main/X-Perts_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Ys Iii (Usa)",
+    "rom_url": "/worksheets/main/Ys_III_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zany Golf (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Zany_Golf_(USA)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zany Golf (Usa, Europe)",
+    "rom_url": "/worksheets/main/Zany_Golf_(USA,_Europe).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zero The Kamikaze Squirrel (Usa)",
+    "rom_url": "/worksheets/main/Zero_the_Kamikaze_Squirrel_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zero Wing (Usa) (Aftermarket) (Unl)",
+    "rom_url": "/worksheets/main/Zero_Wing_(USA)_(Aftermarket)_(Unl).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zombies Ate My Neighbors (Usa)",
+    "rom_url": "/worksheets/main/Zombies_Ate_My_Neighbors_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zool - Ninja Of The Nth Dimension (Usa)",
+    "rom_url": "/worksheets/main/Zool_-_Ninja_of_the_Nth_Dimension_(USA).7z",
+    "core": "segaMD"
+  },
+  {
+    "name": "Zoop (Usa)",
+    "rom_url": "/worksheets/main/Zoop_(USA).7z",
+    "core": "segaMD"
+  }
+]
+}

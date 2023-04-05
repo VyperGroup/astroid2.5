@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Site Settings</title>
+	<!-- Add your default favicon here -->
+	<link rel="icon" type="image/png" href="./assets/favicon/logo.png">
+    <style>
+        h1{
+            color: white;
+            position: absolute;
+            top: 0;
+            left: 0;
+            margin-top: -50px; 
+            text-align: center;
+            display: inline-block;
+        }
+                body {
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            overflow: hidden;
+            position: relative; /* Added */
+        }
+
+        #particles-js {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: #000;
+            z-index: 0;
+            pointer-events: none;
+        } 
+
+        #alt-particles-js {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background-color: rgb(121, 0, 177);
+            z-index: 0;
+            background-image: url('assets/noparticles.png');
+            pointer-events: none;
+            background-size: cover;
+        }
+
+        .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+}
+
+.container a {
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container a img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.container
+
+
+        #toggle { /* Added */
+            position: absolute;
+            bottom: 10px;
+            right: 10px;
+            z-index: 999;
+        }
+        button {
+    background-color: #7843E6;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+       button:hover {
+    border-radius: 4px;
+    color: white;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    background: black;
+}
+html, body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+
+		body {
+			display: flex;
+			justify-content: center;
+			align-items: center;
+		}
+        body h1{
+        text-align: center;
+        }
+
+		.container form {
+            margin-top: 10px;
+			display: flex;
+			flex-direction: column;
+			align-items: center;
+			padding: 20px;
+			border: 1px solid #ccc;
+			border-radius: 5px;
+		}
+        label{
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="particles-js"></div>
+    <div class="container">
+        <center>
+            <h1 style="text-align: center;">Settings</h1>
+        </center> 
+	<form id="settings-form">
+		<label for="favicon">Favicon:</label>
+		<select id="favicon" name="favicon">
+			<option value="/worksheets/assets/favicon/logo.png">Astroid Logo</option>
+			<option value="/worksheets/assets/favicon/gmail-16-16.png">Gmail Logo</option>
+			<!-- Add more options for additional favicons -->
+		</select>
+		<br>
+		<label for="site-name">Site Name:</label>
+		<input type="text" id="site-name" name="site-name" value="My Site">
+		<br>
+		<button type="submit">Save Changes</button>
+	</form>
+</div>
+
+	<script src="api/newloader.js"></script>
+    <script src="./assets/particles/js/particles.js"></script>
+    <script src="./assets/particles/js/app.js"></script>
+    <script src="./assets/particles/js/particles.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,2534 @@
+{
+  "Nintendo Gameboy": [
+  {
+    "name": "10-Pin Bowling (Usa)",
+    "rom_url": "/worksheets/main/10-Pin_Bowling_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "2097 Rom Pack Ii (Usa) (Test Program)",
+    "rom_url": "/worksheets/main/2097_ROM_Pack_II_(USA)_(Test_Program).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "2420 Rom Pack V (Usa) (Test Program)",
+    "rom_url": "/worksheets/main/2420_ROM_Pack_V_(USA)_(Test_Program).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "2440 Rom Pack (Usa) (Test Program)",
+    "rom_url": "/worksheets/main/2440_ROM_Pack_(USA)_(Test_Program).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "4-In-1 Funpak - Volume Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/4-in-1_Funpak_-_Volume_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "4-In-1 Fun Pak (Usa Europe)",
+    "rom_url": "/worksheets/main/4-in-1_Fun_Pak_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "A-Mazing Tater (Usa)",
+    "rom_url": "/worksheets/main/A-mazing_Tater_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Addams Family The (Usa)",
+    "rom_url": "/worksheets/main/Addams_Family_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Addams Family The - Pugsleys Scavenger Hunt (Usa Europe)",
+    "rom_url": "/worksheets/main/Addams_Family_The_-_Pugsleys_Scavenger_Hunt_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Adventures Of Rocky And Bullwinkle And Friends The (Usa)",
+    "rom_url": "/worksheets/main/Adventures_of_Rocky_and_Bullwinkle_and_Friends_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Adventures Of Star Saver The (Usa Europe)",
+    "rom_url": "/worksheets/main/Adventures_of_Star_Saver_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Adventure Island (Usa Europe)",
+    "rom_url": "/worksheets/main/Adventure_Island_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Adventure Island Ii - Aliens In Paradise (Usa Europe)",
+    "rom_url": "/worksheets/main/Adventure_Island_II_-_Aliens_in_Paradise_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Aerostar (Usa Europe)",
+    "rom_url": "/worksheets/main/Aerostar_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Aladdin (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Aladdin_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Alfred Chicken (Usa)",
+    "rom_url": "/worksheets/main/Alfred_Chicken_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Alien 3 (Usa Europe)",
+    "rom_url": "/worksheets/main/Alien_3_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Alien Vs Predator - The Last Of His Clan (Usa)",
+    "rom_url": "/worksheets/main/Alien_vs_Predator_-_The_Last_of_His_Clan_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "All-Star Baseball 99 (Usa)",
+    "rom_url": "/worksheets/main/All-Star_Baseball_99_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Altered Space - A 3-D Alien Adventure (Usa)",
+    "rom_url": "/worksheets/main/Altered_Space_-_A_3-D_Alien_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Amazing Penguin (Usa Europe)",
+    "rom_url": "/worksheets/main/Amazing_Penguin_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Amazing Spider-Man The (Usa Europe)",
+    "rom_url": "/worksheets/main/Amazing_Spider-Man_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Animaniacs (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Animaniacs_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Arcade Classics - Super Breakout & Battlezone (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Arcade_Classics_-_Super_Breakout_&_Battlezone_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Arcade Classic No. 1 - Asteroids & Missile Command (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Arcade_Classic_No._1_-_Asteroids_&_Missile_Command_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Arcade Classic No. 2 - Centipede & Millipede (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Arcade_Classic_No._2_-_Centipede_&_Millipede_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Arcade Classic No. 3 - Galaga & Galaxian (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Arcade_Classic_No._3_-_Galaga_&_Galaxian_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Arcade Classic No. 4 - Defender & Joust (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Arcade_Classic_No._4_-_Defender_&_Joust_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Asteroids (Usa Europe)",
+    "rom_url": "/worksheets/main/Asteroids_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Atomic Punk (Usa)",
+    "rom_url": "/worksheets/main/Atomic_Punk_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Attack Of The Killer Tomatoes (Usa Europe)",
+    "rom_url": "/worksheets/main/Attack_of_the_Killer_Tomatoes_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Avenging Spirit (Usa Europe)",
+    "rom_url": "/worksheets/main/Avenging_Spirit_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Balloon Kid (Usa Europe)",
+    "rom_url": "/worksheets/main/Balloon_Kid_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Barbie - Game Girl (Usa Europe)",
+    "rom_url": "/worksheets/main/Barbie_-_Game_Girl_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bart Simpsons Escape From Camp Deadly (Usa Europe)",
+    "rom_url": "/worksheets/main/Bart_Simpsons_Escape_from_Camp_Deadly_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bases Loaded (Usa)",
+    "rom_url": "/worksheets/main/Bases_Loaded_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Batman - Return Of The Joker (Usa Europe)",
+    "rom_url": "/worksheets/main/Batman_-_Return_of_the_Joker_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Batman - The Animated Series (Usa Europe)",
+    "rom_url": "/worksheets/main/Batman_-_The_Animated_Series_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battleship (Usa Europe)",
+    "rom_url": "/worksheets/main/Battleship_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battletoads-Double Dragon (Usa)",
+    "rom_url": "/worksheets/main/Battletoads-Double_Dragon_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battletoads (Usa Europe)",
+    "rom_url": "/worksheets/main/Battletoads_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battletoads In Ragnaroks World (Usa)",
+    "rom_url": "/worksheets/main/Battletoads_in_Ragnaroks_World_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battle Arena Toshinden (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Battle_Arena_Toshinden_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battle Bull (Usa)",
+    "rom_url": "/worksheets/main/Battle_Bull_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Battle Unit Zeoth (Usa Europe)",
+    "rom_url": "/worksheets/main/Battle_Unit_Zeoth_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Beavis And Butt-Head (Usa Europe)",
+    "rom_url": "/worksheets/main/Beavis_and_Butt-head_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Beetlejuice (Usa)",
+    "rom_url": "/worksheets/main/Beetlejuice_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Best Of The Best - Championship Karate (Usa)",
+    "rom_url": "/worksheets/main/Best_of_the_Best_-_Championship_Karate_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bill & Teds Excellent Game Boy Adventure - A Bogus Journey! (Usa Europe)",
+    "rom_url": "/worksheets/main/Bill_&_Teds_Excellent_Game_Boy_Adventure_-_A_Bogus_Journey!_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bill Elliotts Nascar Fast Tracks (Usa)",
+    "rom_url": "/worksheets/main/Bill_Elliotts_NASCAR_Fast_Tracks_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bionic Battler (Usa)",
+    "rom_url": "/worksheets/main/Bionic_Battler_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bionic Commando (Usa)",
+    "rom_url": "/worksheets/main/Bionic_Commando_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Black Bass - Lure Fishing (Usa)",
+    "rom_url": "/worksheets/main/Black_Bass_-_Lure_Fishing_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Blades Of Steel (Usa)",
+    "rom_url": "/worksheets/main/Blades_of_Steel_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Blaster Master Boy (Usa)",
+    "rom_url": "/worksheets/main/Blaster_Master_Boy_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Blues Brothers The (Usa Europe)",
+    "rom_url": "/worksheets/main/Blues_Brothers_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Boggle Plus (Usa)",
+    "rom_url": "/worksheets/main/Boggle_Plus_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bomberman Gb (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Bomberman_GB_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bonks Adventure (Usa)",
+    "rom_url": "/worksheets/main/Bonks_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Boomers Adventure In Asmik World (Usa)",
+    "rom_url": "/worksheets/main/Boomers_Adventure_in_ASMIK_World_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Boxxle (Usa)",
+    "rom_url": "/worksheets/main/Boxxle_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Boxxle Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Boxxle_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bo Jackson - Two Games In One (Usa)",
+    "rom_url": "/worksheets/main/Bo_Jackson_-_Two_Games_in_One_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Brain Bender (Usa)",
+    "rom_url": "/worksheets/main/Brain_Bender_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Brain Drain (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Brain_Drain_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bram Stokers Dracula (Usa Europe)",
+    "rom_url": "/worksheets/main/Bram_Stokers_Dracula_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Breakthru! (Usa)",
+    "rom_url": "/worksheets/main/BreakThru!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bubble Bobble (Usa Europe)",
+    "rom_url": "/worksheets/main/Bubble_Bobble_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bubble Bobble Part 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/Bubble_Bobble_Part_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bubble Ghost (Usa Europe)",
+    "rom_url": "/worksheets/main/Bubble_Ghost_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bubsy Ii (Usa)",
+    "rom_url": "/worksheets/main/Bubsy_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bugs Bunny Crazy Castle 2 The (Usa)",
+    "rom_url": "/worksheets/main/Bugs_Bunny_Crazy_Castle_2_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bugs Bunny Crazy Castle The (Usa Europe)",
+    "rom_url": "/worksheets/main/Bugs_Bunny_Crazy_Castle_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Burai Fighter Deluxe (Usa Europe)",
+    "rom_url": "/worksheets/main/Burai_Fighter_Deluxe_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Bust-A-Move 2 - Arcade Edition (Usa Europe)",
+    "rom_url": "/worksheets/main/Bust-A-Move_2_-_Arcade_Edition_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Buster Bros. (Usa)",
+    "rom_url": "/worksheets/main/Buster_Bros._(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Caesars Palace (Usa)",
+    "rom_url": "/worksheets/main/Caesars_Palace_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Captain America And The Avengers (Usa)",
+    "rom_url": "/worksheets/main/Captain_America_and_the_Avengers_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Casino Funpak (Usa Europe)",
+    "rom_url": "/worksheets/main/Casino_FunPak_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Casper (Usa)",
+    "rom_url": "/worksheets/main/Casper_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Castelian (Usa)",
+    "rom_url": "/worksheets/main/Castelian_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Castlevania - The Adventure (Usa)",
+    "rom_url": "/worksheets/main/Castlevania_-_The_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Castlevania - The Adventure (Usa) (Castlevania Anniversary Collection)",
+    "rom_url": "/worksheets/main/Castlevania_-_The_Adventure_(USA)_(Castlevania_Anniversary_Collection).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Castlevania Legends (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Castlevania_Legends_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Catrap (Usa)",
+    "rom_url": "/worksheets/main/Catrap_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Centipede (Usa) (Majesco)",
+    "rom_url": "/worksheets/main/Centipede_(USA)_(Majesco).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Centipede (Usa Europe) (Accolade)",
+    "rom_url": "/worksheets/main/Centipede_(USA_Europe)_(Accolade).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Championship Pool (Usa)",
+    "rom_url": "/worksheets/main/Championship_Pool_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Chase H.Q. (Usa Europe)",
+    "rom_url": "/worksheets/main/Chase_H.Q._(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Chessmaster The (Usa Europe)",
+    "rom_url": "/worksheets/main/Chessmaster_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Choplifter Ii - Rescue & Survive (Usa)",
+    "rom_url": "/worksheets/main/Choplifter_II_-_Rescue_&_Survive_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Chuck Rock (Usa Europe)",
+    "rom_url": "/worksheets/main/Chuck_Rock_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cliffhanger (Usa Europe)",
+    "rom_url": "/worksheets/main/Cliffhanger_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "College Slam (Usa)",
+    "rom_url": "/worksheets/main/College_Slam_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Contra - The Alien Wars (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Contra_-_The_Alien_Wars_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cool Ball (Usa)",
+    "rom_url": "/worksheets/main/Cool_Ball_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cool Spot (Usa)",
+    "rom_url": "/worksheets/main/Cool_Spot_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cool World (Usa Europe)",
+    "rom_url": "/worksheets/main/Cool_World_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cosmo Tank (Usa)",
+    "rom_url": "/worksheets/main/Cosmo_Tank_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Crystal Quest (Usa)",
+    "rom_url": "/worksheets/main/Crystal_Quest_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cutthroat Island (Usa Europe)",
+    "rom_url": "/worksheets/main/CutThroat_Island_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Cyraid (Usa)",
+    "rom_url": "/worksheets/main/Cyraid_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Daedalian Opus (Usa)",
+    "rom_url": "/worksheets/main/Daedalian_Opus_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Daffy Duck (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Daffy_Duck_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Darkman (Usa Europe)",
+    "rom_url": "/worksheets/main/Darkman_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Darkwing Duck (Usa)",
+    "rom_url": "/worksheets/main/Darkwing_Duck_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "David Cranes The Rescue Of Princess Blobette (Usa)",
+    "rom_url": "/worksheets/main/David_Cranes_The_Rescue_of_Princess_Blobette_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Days Of Thunder (Usa Europe)",
+    "rom_url": "/worksheets/main/Days_of_Thunder_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dead Heat Scramble (Usa)",
+    "rom_url": "/worksheets/main/Dead_Heat_Scramble_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dennis The Menace (Usa)",
+    "rom_url": "/worksheets/main/Dennis_the_Menace_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Desert Strike - Return To The Gulf (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Desert_Strike_-_Return_to_the_Gulf_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dexterity (Usa Europe)",
+    "rom_url": "/worksheets/main/Dexterity_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dick Tracy (Usa)",
+    "rom_url": "/worksheets/main/Dick_Tracy_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dig Dug (Usa)",
+    "rom_url": "/worksheets/main/Dig_Dug_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Donkey Kong (Japan Usa) (En) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Donkey_Kong_(Japan_USA)_(En)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Donkey Kong Land (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Donkey_Kong_Land_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Donkey Kong Land 2 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Donkey_Kong_Land_2_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Donkey Kong Land Iii (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Donkey_Kong_Land_III_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Double Dragon (Usa Europe)",
+    "rom_url": "/worksheets/main/Double_Dragon_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Double Dragon 3 - The Arcade Game (Usa Europe)",
+    "rom_url": "/worksheets/main/Double_Dragon_3_-_The_Arcade_Game_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Double Dragon Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Double_Dragon_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Double Dribble - 5 On 5 (Usa)",
+    "rom_url": "/worksheets/main/Double_Dribble_-_5_on_5_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dr. Franken (Usa)",
+    "rom_url": "/worksheets/main/Dr._Franken_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dr. Franken Ii (Usa Europe) (Enfrdeesitnlsv)",
+    "rom_url": "/worksheets/main/Dr._Franken_II_(USA_Europe)_(EnFrDeEsItNlSv).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dragonheart (Usa Europe)",
+    "rom_url": "/worksheets/main/DragonHeart_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dragons Lair - The Legend (Usa)",
+    "rom_url": "/worksheets/main/Dragons_Lair_-_The_Legend_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Dragon Ball Z 3 (Usa) (Sgb Enhanced) (Unl)",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_3_(USA)_(SGB_Enhanced)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ducktales (Usa)",
+    "rom_url": "/worksheets/main/DuckTales_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ducktales 2 (Usa)",
+    "rom_url": "/worksheets/main/DuckTales_2_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Earthworm Jim (Usa)",
+    "rom_url": "/worksheets/main/Earthworm_Jim_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Elevator Action (Usa Europe)",
+    "rom_url": "/worksheets/main/Elevator_Action_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Elite Soccer (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Elite_Soccer_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Exodus - Journey To The Promised Land (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Exodus_-_Journey_to_the_Promised_Land_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Extra Bases (Usa)",
+    "rom_url": "/worksheets/main/Extra_Bases_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "F-15 Strike Eagle (Usa Europe)",
+    "rom_url": "/worksheets/main/F-15_Strike_Eagle_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "F1 Pole Position (Usa Europe)",
+    "rom_url": "/worksheets/main/F1_Pole_Position_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Faceball 2000 (Usa)",
+    "rom_url": "/worksheets/main/Faceball_2000_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fastest Lap (Usa)",
+    "rom_url": "/worksheets/main/Fastest_Lap_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Felix The Cat (Usa Europe)",
+    "rom_url": "/worksheets/main/Felix_the_Cat_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ferrari Grand Prix Challenge (Usa Europe)",
+    "rom_url": "/worksheets/main/Ferrari_Grand_Prix_Challenge_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fidgetts The (Usa Europe) (Enfrdeesitnlsv)",
+    "rom_url": "/worksheets/main/Fidgetts_The_(USA_Europe)_(EnFrDeEsItNlSv).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fifa International Soccer (Usa Europe) (Enfrdees) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/FIFA_International_Soccer_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fifa Soccer 96 (Usa Europe) (Enfrdees) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/FIFA_Soccer_96_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fifa Soccer 97 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/FIFA_Soccer_97_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fighting Simulator 2 In 1 - Flying Warriors (Usa Europe)",
+    "rom_url": "/worksheets/main/Fighting_Simulator_2_in_1_-_Flying_Warriors_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Final Fantasy Adventure (Usa)",
+    "rom_url": "/worksheets/main/Final_Fantasy_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Final Fantasy Legend Iii (Usa)",
+    "rom_url": "/worksheets/main/Final_Fantasy_Legend_III_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Final Fantasy Legend Ii (Usa)",
+    "rom_url": "/worksheets/main/Final_Fantasy_Legend_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Final Fantasy Legend The (Usa)",
+    "rom_url": "/worksheets/main/Final_Fantasy_Legend_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fish Dude (Usa)",
+    "rom_url": "/worksheets/main/Fish_Dude_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fist Of The North Star (Usa)",
+    "rom_url": "/worksheets/main/Fist_of_the_North_Star_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Flash The (Usa Europe)",
+    "rom_url": "/worksheets/main/Flash_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Flintstones The (Usa Europe)",
+    "rom_url": "/worksheets/main/Flintstones_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Flintstones The - King Rock Treasure Island (Usa Europe)",
+    "rom_url": "/worksheets/main/Flintstones_The_-_King_Rock_Treasure_Island_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Flipull (Usa)",
+    "rom_url": "/worksheets/main/Flipull_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Foreman For Real (Usa Europe)",
+    "rom_url": "/worksheets/main/Foreman_for_Real_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Fortified Zone (Usa Europe)",
+    "rom_url": "/worksheets/main/Fortified_Zone_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Frank Thomas Big Hurt Baseball (Usa Europe)",
+    "rom_url": "/worksheets/main/Frank_Thomas_Big_Hurt_Baseball_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Frogger (Usa)",
+    "rom_url": "/worksheets/main/Frogger_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gameshark (Usa) (Unl)",
+    "rom_url": "/worksheets/main/GameShark_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Game & Watch Gallery (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Game_&_Watch_Gallery_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Game Boy Camera (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Game_Boy_Camera_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Game Boy Camera Gold (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Game_Boy_Camera_Gold_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Game Genie (Usa) (V2.1) (Unl)",
+    "rom_url": "/worksheets/main/Game_Genie_(USA)_(v2.1)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Game Of Harmony The (Usa)",
+    "rom_url": "/worksheets/main/Game_of_Harmony_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gargoyles Quest (Usa Europe)",
+    "rom_url": "/worksheets/main/Gargoyles_Quest_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gauntlet Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Gauntlet_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gear Works (Usa Europe)",
+    "rom_url": "/worksheets/main/Gear_Works_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "George Foremans Ko Boxing (Usa Europe)",
+    "rom_url": "/worksheets/main/George_Foremans_KO_Boxing_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Getaway The - High Speed Ii (Usa)",
+    "rom_url": "/worksheets/main/Getaway_The_-_High_Speed_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ghostbusters Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Ghostbusters_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Go! Go! Tank (Usa)",
+    "rom_url": "/worksheets/main/Go!_Go!_Tank_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Goal! (Usa)",
+    "rom_url": "/worksheets/main/Goal!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Godzilla (Usa Europe)",
+    "rom_url": "/worksheets/main/Godzilla_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gradius - The Interstellar Assault (Usa)",
+    "rom_url": "/worksheets/main/Gradius_-_The_Interstellar_Assault_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Grander Musashi Rv (Japan) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Grander_Musashi_RV_(Japan)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Great Greed (Usa)",
+    "rom_url": "/worksheets/main/Great_Greed_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Gunship (Usa) (Aftermarket) (Homebrew)",
+    "rom_url": "/worksheets/main/Gunship_(USA)_(Aftermarket)_(Homebrew).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hal Wrestling (Usa)",
+    "rom_url": "/worksheets/main/HAL_Wrestling_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Harvest Moon Gb (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Harvest_Moon_GB_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hatris (Japan Usa) (En)",
+    "rom_url": "/worksheets/main/Hatris_(Japan_USA)_(En).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Heavyweight Championship Boxing (Usa)",
+    "rom_url": "/worksheets/main/Heavyweight_Championship_Boxing_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Heiankyo Alien (Usa)",
+    "rom_url": "/worksheets/main/Heiankyo_Alien_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hercules (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Hercules_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "High Stakes Gambling (Usa)",
+    "rom_url": "/worksheets/main/High_Stakes_Gambling_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hit The Ice - Vhl - The Official Video Hockey League (Usa Europe)",
+    "rom_url": "/worksheets/main/Hit_the_Ice_-_VHL_-_The_Official_Video_Hockey_League_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Home Alone (Usa Europe)",
+    "rom_url": "/worksheets/main/Home_Alone_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Home Alone 2 - Lost In New York (Usa Europe)",
+    "rom_url": "/worksheets/main/Home_Alone_2_-_Lost_in_New_York_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hook (Usa)",
+    "rom_url": "/worksheets/main/Hook_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hudson Hawk (Usa)",
+    "rom_url": "/worksheets/main/Hudson_Hawk_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Humans The (Usa)",
+    "rom_url": "/worksheets/main/Humans_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hunchback Of Notre Dame The - 5 Foolishly Fun Topsy Turvy Games (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Hunchback_of_Notre_Dame_The_-_5_Foolishly_Fun_Topsy_Turvy_Games_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Hunt For Red October The (Usa Europe)",
+    "rom_url": "/worksheets/main/Hunt_for_Red_October_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ikari No Yousai (Japan)",
+    "rom_url": "/worksheets/main/Ikari_no_Yousai_(Japan).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ikari No Yousai 2 (Japan)",
+    "rom_url": "/worksheets/main/Ikari_no_Yousai_2_(Japan).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Incredible Crash Dummies The (Usa Europe)",
+    "rom_url": "/worksheets/main/Incredible_Crash_Dummies_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Indiana Jones And The Last Crusade (Usa Europe)",
+    "rom_url": "/worksheets/main/Indiana_Jones_and_the_Last_Crusade_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Infogenius Productivity Pak - Berlitz French Translator (Usa Europe)",
+    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Berlitz_French_Translator_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Infogenius Productivity Pak - Berlitz Spanish Translator (Usa Europe)",
+    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Berlitz_Spanish_Translator_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Infogenius Productivity Pak - Frommers Travel Guide (Usa)",
+    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Frommers_Travel_Guide_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Infogenius Productivity Pak - Personal Organizer And Phone Book (Usa)",
+    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Personal_Organizer_and_Phone_Book_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Infogenius Productivity Pak - Spell Checker And Calculator (Usa)",
+    "rom_url": "/worksheets/main/InfoGenius_Productivity_Pak_-_Spell_Checker_and_Calculator_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "International Superstar Soccer (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/International_Superstar_Soccer_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "In Your Face (Usa)",
+    "rom_url": "/worksheets/main/In_Your_Face_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Iron Man X-O Manowar In Heavy Metal (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Iron_Man_X-O_Manowar_in_Heavy_Metal_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ishido - The Way Of Stones (Usa)",
+    "rom_url": "/worksheets/main/Ishido_-_The_Way_of_Stones_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jack Nicklaus Golf (Usa Europe)",
+    "rom_url": "/worksheets/main/Jack_Nicklaus_Golf_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "James Bond 007 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/James_Bond_007_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jeep Jamboree - Off-Road Adventure (Usa)",
+    "rom_url": "/worksheets/main/Jeep_Jamboree_-_Off-Road_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jeopardy! (Usa)",
+    "rom_url": "/worksheets/main/Jeopardy!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jeopardy! - Platinum Edition (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Jeopardy!_-_Platinum_Edition_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jeopardy! - Sports Edition (Usa)",
+    "rom_url": "/worksheets/main/Jeopardy!_-_Sports_Edition_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jeopardy! - Teen Tournament (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Jeopardy!_-_Teen_Tournament_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jetsons The - Robot Panic (Usa Europe)",
+    "rom_url": "/worksheets/main/Jetsons_The_-_Robot_Panic_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jimmy Connors Tennis (Usa Europe)",
+    "rom_url": "/worksheets/main/Jimmy_Connors_Tennis_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Joe & Mac (Usa)",
+    "rom_url": "/worksheets/main/Joe_&_Mac_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jordan Vs Bird - One On One (Usa Europe)",
+    "rom_url": "/worksheets/main/Jordan_vs_Bird_-_One_on_One_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Joshua & The Battle Of Jericho (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Joshua_&_the_Battle_of_Jericho_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Judge Dredd (Usa Europe)",
+    "rom_url": "/worksheets/main/Judge_Dredd_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jungle Book The (Usa Europe)",
+    "rom_url": "/worksheets/main/Jungle_Book_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jungle Strike (Usa)",
+    "rom_url": "/worksheets/main/Jungle_Strike_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jurassic Park (Usa)",
+    "rom_url": "/worksheets/main/Jurassic_Park_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Jurassic Park Part 2 - The Chaos Continues (Usa Europe) (Enfrdeit)",
+    "rom_url": "/worksheets/main/Jurassic_Park_Part_2_-_The_Chaos_Continues_(USA_Europe)_(EnFrDeIt).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Karakuri Kengou Den Musashi Lord (Japan)",
+    "rom_url": "/worksheets/main/Karakuri_Kengou_Den_Musashi_Lord_(Japan).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ken Griffey Jr. Presents Major League Baseball (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Ken_Griffey_Jr._Presents_Major_League_Baseball_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kid Dracula (Usa Europe)",
+    "rom_url": "/worksheets/main/Kid_Dracula_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kid Icarus - Of Myths And Monsters (Usa Europe)",
+    "rom_url": "/worksheets/main/Kid_Icarus_-_Of_Myths_and_Monsters_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Killer Instinct (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Killer_Instinct_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kingdom Crusade (Usa)",
+    "rom_url": "/worksheets/main/Kingdom_Crusade_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "King James Bible (Usa) (Unl)",
+    "rom_url": "/worksheets/main/King_James_Bible_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "King Of Fighters 95 The (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/King_of_Fighters_95_The_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kirbys Block Ball (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Kirbys_Block_Ball_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kirbys Dream Land (Usa Europe)",
+    "rom_url": "/worksheets/main/Kirbys_Dream_Land_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kirbys Dream Land 2 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Kirbys_Dream_Land_2_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kirbys Pinball Land (Usa Europe)",
+    "rom_url": "/worksheets/main/Kirbys_Pinball_Land_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kirbys Star Stacker (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Kirbys_Star_Stacker_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Klax (Usa) (Mindscape)",
+    "rom_url": "/worksheets/main/Klax_(USA)_(Mindscape).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Knight Quest (Usa)",
+    "rom_url": "/worksheets/main/Knight_Quest_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Krustys Fun House (Usa Europe)",
+    "rom_url": "/worksheets/main/Krustys_Fun_House_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kung-Fu Master (Usa Europe)",
+    "rom_url": "/worksheets/main/Kung-Fu_Master_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Kwirk - Hes A-Maze-Ing! (Usa Europe)",
+    "rom_url": "/worksheets/main/Kwirk_-_Hes_A-maze-ing!_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lamborghini American Challenge (Usa Europe)",
+    "rom_url": "/worksheets/main/Lamborghini_American_Challenge_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Last Action Hero (Usa Europe)",
+    "rom_url": "/worksheets/main/Last_Action_Hero_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lazlos Leap (Usa)",
+    "rom_url": "/worksheets/main/Lazlos_Leap_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Legend Of The River King Gb (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Legend_of_the_River_King_GB_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Legend Of Zelda The - Links Awakening (Usa Europe)",
+    "rom_url": "/worksheets/main/Legend_of_Zelda_The_-_Links_Awakening_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lemmings (Usa)",
+    "rom_url": "/worksheets/main/Lemmings_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lethal Weapon (Usa Europe)",
+    "rom_url": "/worksheets/main/Lethal_Weapon_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lion King The (Usa)",
+    "rom_url": "/worksheets/main/Lion_King_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Little Mermaid The (Usa)",
+    "rom_url": "/worksheets/main/Little_Mermaid_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Looney Tunes (Usa Europe)",
+    "rom_url": "/worksheets/main/Looney_Tunes_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Looney Tunes 2 - Tasmanian Devil In Island Chase (Usa Europe)",
+    "rom_url": "/worksheets/main/Looney_Tunes_2_-_Tasmanian_Devil_in_Island_Chase_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Lost World The - Jurassic Park (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Lost_World_The_-_Jurassic_Park_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Madden 95 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Madden_95_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Madden 96 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Madden_96_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Madden 97 (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Madden_97_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Malibu Beach Volleyball (Usa)",
+    "rom_url": "/worksheets/main/Malibu_Beach_Volleyball_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Marble Madness (Usa Europe)",
+    "rom_url": "/worksheets/main/Marble_Madness_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Marios Picross (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Marios_Picross_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Marus Mission (Usa)",
+    "rom_url": "/worksheets/main/Marus_Mission_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Maui Mallard In Cold Shadow (Usa)",
+    "rom_url": "/worksheets/main/Maui_Mallard_in_Cold_Shadow_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Megalit (Usa Europe)",
+    "rom_url": "/worksheets/main/Megalit_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mega Man Iii (Usa)",
+    "rom_url": "/worksheets/main/Mega_Man_III_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mega Man Iii (Usa) (Sample)",
+    "rom_url": "/worksheets/main/Mega_Man_III_(USA)_(Sample).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mega Man Ii (Usa)",
+    "rom_url": "/worksheets/main/Mega_Man_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mega Man Iv (Usa)",
+    "rom_url": "/worksheets/main/Mega_Man_IV_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mega Man V (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mega_Man_V_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mercenary Force (Usa Europe)",
+    "rom_url": "/worksheets/main/Mercenary_Force_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Metal Masters (Usa)",
+    "rom_url": "/worksheets/main/Metal_Masters_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mickeys Dangerous Chase (Usa)",
+    "rom_url": "/worksheets/main/Mickeys_Dangerous_Chase_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mickeys Ultimate Challenge (Usa Europe)",
+    "rom_url": "/worksheets/main/Mickeys_Ultimate_Challenge_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mickey Mouse - Magic Wands! (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mickey_Mouse_-_Magic_Wands!_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Micro Machines (Usa Europe)",
+    "rom_url": "/worksheets/main/Micro_Machines_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers - The Movie (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_-_The_Movie_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Milons Secret Castle (Usa Europe)",
+    "rom_url": "/worksheets/main/Milons_Secret_Castle_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Miner 2049Er Starring Bounty Bob (Usa)",
+    "rom_url": "/worksheets/main/Miner_2049er_Starring_Bounty_Bob_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Missile Command (Usa Europe)",
+    "rom_url": "/worksheets/main/Missile_Command_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mole Mania (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mole_Mania_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Monopoly (Usa)",
+    "rom_url": "/worksheets/main/Monopoly_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Monster Truck Wars (Usa Europe)",
+    "rom_url": "/worksheets/main/Monster_Truck_Wars_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mortal Kombat & Mortal Kombat Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Mortal_Kombat_&_Mortal_Kombat_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mortal Kombat (Usa Europe)",
+    "rom_url": "/worksheets/main/Mortal_Kombat_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mortal Kombat 3 (Usa Europe)",
+    "rom_url": "/worksheets/main/Mortal_Kombat_3_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mortal Kombat Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/Mortal_Kombat_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Motocross Maniacs (Usa)",
+    "rom_url": "/worksheets/main/Motocross_Maniacs_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mouse Trap Hotel (Usa)",
+    "rom_url": "/worksheets/main/Mouse_Trap_Hotel_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mr. Chins Gourmet Paradise (Usa)",
+    "rom_url": "/worksheets/main/Mr._Chins_Gourmet_Paradise_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mr. Do! (Usa)",
+    "rom_url": "/worksheets/main/Mr._Do!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ms. Pac-Man (Usa)",
+    "rom_url": "/worksheets/main/Ms._Pac-Man_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Muhammad Ali Heavyweight Boxing (Usa Europe)",
+    "rom_url": "/worksheets/main/Muhammad_Ali_Heavyweight_Boxing_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mulan (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mulan_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mysterium (Usa)",
+    "rom_url": "/worksheets/main/Mysterium_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Mystical Ninja Starring Goemon (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Mystical_Ninja_Starring_Goemon_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nail N Scale (Usa Europe)",
+    "rom_url": "/worksheets/main/Nail_n_Scale_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Navy Seals (Usa Europe)",
+    "rom_url": "/worksheets/main/Navy_SEALs_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nba All-Star Challenge (Usa Europe)",
+    "rom_url": "/worksheets/main/NBA_All-Star_Challenge_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nba All-Star Challenge 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/NBA_All-Star_Challenge_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nba Jam (Usa Europe)",
+    "rom_url": "/worksheets/main/NBA_Jam_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nba Jam - Tournament Edition (Usa Europe)",
+    "rom_url": "/worksheets/main/NBA_Jam_-_Tournament_Edition_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nba Live 96 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/NBA_Live_96_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nemesis (Usa)",
+    "rom_url": "/worksheets/main/Nemesis_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "New Chessmaster The (Usa Europe)",
+    "rom_url": "/worksheets/main/New_Chessmaster_The_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nfl Football (Usa)",
+    "rom_url": "/worksheets/main/NFL_Football_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nfl Quarterback Club (Usa Europe)",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nfl Quarterback Club 96 (Usa Europe)",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club_96_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nfl Quarterback Club Ii (Usa Europe)",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club_II_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nhl 96 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/NHL_96_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nhl Hockey 95 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/NHL_Hockey_95_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nigel Mansells World Championship Racing (Usa)",
+    "rom_url": "/worksheets/main/Nigel_Mansells_World_Championship_Racing_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ninja Boy (Usa Europe)",
+    "rom_url": "/worksheets/main/Ninja_Boy_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ninja Boy 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/Ninja_Boy_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ninja Gaiden Shadow (Usa)",
+    "rom_url": "/worksheets/main/Ninja_Gaiden_Shadow_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ninja Taro (Usa)",
+    "rom_url": "/worksheets/main/Ninja_Taro_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nintendo World Cup (Usa Europe)",
+    "rom_url": "/worksheets/main/Nintendo_World_Cup_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Niv Bible & The 20 Lost Levels Of Joshua (Usa) (Unl)",
+    "rom_url": "/worksheets/main/NIV_Bible_&_the_20_Lost_Levels_of_Joshua_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Nobunagas Ambition (Usa)",
+    "rom_url": "/worksheets/main/Nobunagas_Ambition_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Oddworld Adventures (Usa Europe)",
+    "rom_url": "/worksheets/main/Oddworld_Adventures_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Olympic Summer Games (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Olympic_Summer_Games_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Operation C (Usa)",
+    "rom_url": "/worksheets/main/Operation_C_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Out Of Gas (Usa)",
+    "rom_url": "/worksheets/main/Out_of_Gas_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pac-Attack (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pac-Attack_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pac-In-Time (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pac-In-Time_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pac-Man (Usa)",
+    "rom_url": "/worksheets/main/Pac-Man_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pagemaster The (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pagemaster_The_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Panel Action Bingo (Usa)",
+    "rom_url": "/worksheets/main/Panel_Action_Bingo_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Paperboy (Usa Europe)",
+    "rom_url": "/worksheets/main/Paperboy_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Paperboy 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/Paperboy_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Penguin Wars (Usa)",
+    "rom_url": "/worksheets/main/Penguin_Wars_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pga European Tour (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/PGA_European_Tour_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pga Tour 96 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/PGA_Tour_96_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pinball Dreams (Usa Europe)",
+    "rom_url": "/worksheets/main/Pinball_Dreams_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pinball Fantasies (Usa Europe)",
+    "rom_url": "/worksheets/main/Pinball_Fantasies_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pinocchio (Usa)",
+    "rom_url": "/worksheets/main/Pinocchio_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pipe Dream (Usa)",
+    "rom_url": "/worksheets/main/Pipe_Dream_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pit-Fighter (Usa Europe)",
+    "rom_url": "/worksheets/main/Pit-Fighter_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Play Action Football (Usa)",
+    "rom_url": "/worksheets/main/Play_Action_Football_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pocahontas (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pocahontas_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pokemon - Blue Version (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pokemon_-_Blue_Version_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pokemon - Red Version (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pokemon - Yellow Version - Special Pikachu Edition (Usa Europe) (Cgb+Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Pokemon_-_Yellow_Version_-_Special_Pikachu_Edition_(USA_Europe)_(CGB+SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Popeye 2 (Usa)",
+    "rom_url": "/worksheets/main/Popeye_2_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Power Mission (Usa)",
+    "rom_url": "/worksheets/main/Power_Mission_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Power Racer (Usa)",
+    "rom_url": "/worksheets/main/Power_Racer_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Prehistorik Man (Usa Europe)",
+    "rom_url": "/worksheets/main/Prehistorik_Man_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Primal Rage (Usa Europe)",
+    "rom_url": "/worksheets/main/Primal_Rage_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Prince Of Persia (Usa)",
+    "rom_url": "/worksheets/main/Prince_of_Persia_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Prophecy - The Viking Child (Usa)",
+    "rom_url": "/worksheets/main/Prophecy_-_The_Viking_Child_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Punisher The - The Ultimate Payback (Usa)",
+    "rom_url": "/worksheets/main/Punisher_The_-_The_Ultimate_Payback_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Pyramids Of Ra (Usa)",
+    "rom_url": "/worksheets/main/Pyramids_of_Ra_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Q-Bert For Game Boy (Usa Europe)",
+    "rom_url": "/worksheets/main/Q-bert_for_Game_Boy_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Quarth (Usa Europe)",
+    "rom_url": "/worksheets/main/Quarth_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Q Billion (Usa)",
+    "rom_url": "/worksheets/main/Q_Billion_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "R-Type (Usa Europe)",
+    "rom_url": "/worksheets/main/R-Type_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Race Days (Usa)",
+    "rom_url": "/worksheets/main/Race_Days_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Race Drivin (Usa Europe)",
+    "rom_url": "/worksheets/main/Race_Drivin_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Radar Mission (Usa Europe)",
+    "rom_url": "/worksheets/main/Radar_Mission_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Raging Fighter (Usa Europe)",
+    "rom_url": "/worksheets/main/Raging_Fighter_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Rampart (Usa Europe)",
+    "rom_url": "/worksheets/main/Rampart_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Real Ghostbusters The (Usa)",
+    "rom_url": "/worksheets/main/Real_Ghostbusters_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ren & Stimpy Show The - Space Cadet Adventures (Usa)",
+    "rom_url": "/worksheets/main/Ren_&_Stimpy_Show_The_-_Space_Cadet_Adventures_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ren & Stimpy Show The - Veediots! (Usa Europe)",
+    "rom_url": "/worksheets/main/Ren_&_Stimpy_Show_The_-_Veediots!_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Riddick Bowe Boxing (Usa)",
+    "rom_url": "/worksheets/main/Riddick_Bowe_Boxing_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ring Rage (Usa)",
+    "rom_url": "/worksheets/main/Ring_Rage_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Road Rash (Usa Europe)",
+    "rom_url": "/worksheets/main/Road_Rash_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Robin Hood - Prince Of Thieves (Usa)",
+    "rom_url": "/worksheets/main/Robin_Hood_-_Prince_of_Thieves_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Robocop (Usa)",
+    "rom_url": "/worksheets/main/RoboCop_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Robocop 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/RoboCop_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Robocop Versus The Terminator (Usa)",
+    "rom_url": "/worksheets/main/RoboCop_versus_The_Terminator_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Roger Clemens Mvp Baseball (Usa)",
+    "rom_url": "/worksheets/main/Roger_Clemens_MVP_Baseball_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Rolans Curse (Usa)",
+    "rom_url": "/worksheets/main/Rolans_Curse_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Rolans Curse Ii (Usa)",
+    "rom_url": "/worksheets/main/Rolans_Curse_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Rugrats Movie The (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Rugrats_Movie_The_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Samurai Shodown (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Samurai_Shodown_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Seaquest Dsv (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/seaQuest_DSV_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Serpent (Usa)",
+    "rom_url": "/worksheets/main/Serpent_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Shanghai (Usa)",
+    "rom_url": "/worksheets/main/Shanghai_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Shaq Fu (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Shaq_Fu_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Simpsons The - Bart & The Beanstalk (Usa Europe)",
+    "rom_url": "/worksheets/main/Simpsons_The_-_Bart_&_the_Beanstalk_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Simpsons The - Bart Vs. The Juggernauts (Usa Europe)",
+    "rom_url": "/worksheets/main/Simpsons_The_-_Bart_vs._the_Juggernauts_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Simpsons The - Itchy & Scratchy - Miniature Golf Madness (Usa Europe)",
+    "rom_url": "/worksheets/main/Simpsons_The_-_Itchy_&_Scratchy_-_Miniature_Golf_Madness_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Skate Or Die - Bad N Rad (Usa)",
+    "rom_url": "/worksheets/main/Skate_or_Die_-_Bad_N_Rad_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Skate Or Die - Tour De Thrash (Usa)",
+    "rom_url": "/worksheets/main/Skate_or_Die_-_Tour_de_Thrash_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Small Soldiers (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Small_Soldiers_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sneaky Snakes (Usa Europe)",
+    "rom_url": "/worksheets/main/Sneaky_Snakes_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Snoopys Magic Show (Usa Europe)",
+    "rom_url": "/worksheets/main/Snoopys_Magic_Show_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Snow Brothers (Usa)",
+    "rom_url": "/worksheets/main/Snow_Brothers_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Soccer Mania (Usa)",
+    "rom_url": "/worksheets/main/Soccer_Mania_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Solitaire Funpak (Usa Europe)",
+    "rom_url": "/worksheets/main/Solitaire_FunPak_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Solomons Club (Usa)",
+    "rom_url": "/worksheets/main/Solomons_Club_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Space Invaders (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Space_Invaders_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spankys Quest (Usa)",
+    "rom_url": "/worksheets/main/Spankys_Quest_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Speedball 2 - Brutal Deluxe (Usa Europe)",
+    "rom_url": "/worksheets/main/Speedball_2_-_Brutal_Deluxe_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Speedy Gonzales (Usa Europe)",
+    "rom_url": "/worksheets/main/Speedy_Gonzales_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spider-Man 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/Spider-Man_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spider-Man 3 - Invasion Of The Spider-Slayers (Usa Europe)",
+    "rom_url": "/worksheets/main/Spider-Man_3_-_Invasion_of_the_Spider-Slayers_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spiritual Warfare (Usa) (Unl)",
+    "rom_url": "/worksheets/main/Spiritual_Warfare_(USA)_(Unl).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sports Illustrated - Championship Football & Baseball (Usa)",
+    "rom_url": "/worksheets/main/Sports_Illustrated_-_Championship_Football_&_Baseball_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sports Illustrated - Golf Classic (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Sports_Illustrated_-_Golf_Classic_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sports Illustrated For Kids - The Ultimate Triple Dare! (Usa)",
+    "rom_url": "/worksheets/main/Sports_Illustrated_for_Kids_-_The_Ultimate_Triple_Dare!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spot - The Cool Adventure (Usa)",
+    "rom_url": "/worksheets/main/Spot_-_The_Cool_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spot - The Video Game (Usa)",
+    "rom_url": "/worksheets/main/Spot_-_The_Video_Game_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spuds Adventure (Usa)",
+    "rom_url": "/worksheets/main/Spuds_Adventure_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Spy Vs Spy - Operation Boobytrap (Usa)",
+    "rom_url": "/worksheets/main/Spy_vs_Spy_-_Operation_Boobytrap_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Square Deal - The Game Of Two-Dimensional Poker (Usa)",
+    "rom_url": "/worksheets/main/Square_Deal_-_The_Game_of_Two-Dimensional_Poker_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Stargate (Usa Europe)",
+    "rom_url": "/worksheets/main/Stargate_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Trek - 25Th Anniversary (Usa Europe)",
+    "rom_url": "/worksheets/main/Star_Trek_-_25th_Anniversary_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Trek - The Next Generation (Usa Europe)",
+    "rom_url": "/worksheets/main/Star_Trek_-_The_Next_Generation_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Trek Generations - Beyond The Nexus (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Star_Trek_Generations_-_Beyond_the_Nexus_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Wars (Usa)",
+    "rom_url": "/worksheets/main/Star_Wars_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Wars - The Empire Strikes Back (Usa)",
+    "rom_url": "/worksheets/main/Star_Wars_-_The_Empire_Strikes_Back_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Star Wars - The Empire Strikes Back (Usa Europe)",
+    "rom_url": "/worksheets/main/Star_Wars_-_The_Empire_Strikes_Back_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Stop That Roach! (Usa)",
+    "rom_url": "/worksheets/main/Stop_That_Roach!_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Street Fighter Ii (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Street_Fighter_II_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Street Racer (Usa Europe)",
+    "rom_url": "/worksheets/main/Street_Racer_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sumo Fighter (Usa)",
+    "rom_url": "/worksheets/main/Sumo_Fighter_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Superman (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Superman_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Battletank (Usa)",
+    "rom_url": "/worksheets/main/Super_Battletank_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Black Bass (Usa)",
+    "rom_url": "/worksheets/main/Super_Black_Bass_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Breakout (Usa)",
+    "rom_url": "/worksheets/main/Super_Breakout_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Chase H.Q. (Usa Europe)",
+    "rom_url": "/worksheets/main/Super_Chase_H.Q._(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Hunchback (Usa)",
+    "rom_url": "/worksheets/main/Super_Hunchback_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Mario Land 2 - 6 Golden Coins (Usa Europe)",
+    "rom_url": "/worksheets/main/Super_Mario_Land_2_-_6_Golden_Coins_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Off Road (Usa Europe)",
+    "rom_url": "/worksheets/main/Super_Off_Road_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super R.C. Pro-Am (Usa Europe)",
+    "rom_url": "/worksheets/main/Super_R.C._Pro-Am_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Scrabble (Usa)",
+    "rom_url": "/worksheets/main/Super_Scrabble_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Super Star Wars - Return Of The Jedi (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Super_Star_Wars_-_Return_of_the_Jedi_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Swamp Thing (Usa Europe)",
+    "rom_url": "/worksheets/main/Swamp_Thing_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sword Of Hope Ii The (Usa)",
+    "rom_url": "/worksheets/main/Sword_of_Hope_II_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Sword Of Hope The (Usa)",
+    "rom_url": "/worksheets/main/Sword_of_Hope_The_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "T2 - The Arcade Game (Usa Europe)",
+    "rom_url": "/worksheets/main/T2_-_The_Arcade_Game_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tail Gator (Usa Europe)",
+    "rom_url": "/worksheets/main/Tail_Gator_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Talespin (Usa)",
+    "rom_url": "/worksheets/main/TaleSpin_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tamagotchi (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Tamagotchi_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tarzan - Lord Of The Jungle (Usa Europe)",
+    "rom_url": "/worksheets/main/Tarzan_-_Lord_of_the_Jungle_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tasmania Story (Usa)",
+    "rom_url": "/worksheets/main/Tasmania_Story_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Taz-Mania 2 (Usa)",
+    "rom_url": "/worksheets/main/Taz-Mania_2_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tecmo Bowl (Usa)",
+    "rom_url": "/worksheets/main/Tecmo_Bowl_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles - Fall Of The Foot Clan (Usa)",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_-_Fall_of_the_Foot_Clan_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles Iii - Radical Rescue (Usa)",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_III_-_Radical_Rescue_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles Ii - Back From The Sewers (Usa)",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_II_-_Back_from_the_Sewers_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Terminator 2 - Judgment Day (Usa Europe)",
+    "rom_url": "/worksheets/main/Terminator_2_-_Judgment_Day_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tesserae (Usa)",
+    "rom_url": "/worksheets/main/Tesserae_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tetris 2 (Usa)",
+    "rom_url": "/worksheets/main/Tetris_2_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tetris 2 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Tetris_2_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tetris Attack (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Tetris_Attack_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tetris Blast (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Tetris_Blast_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tetris Plus (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Tetris_Plus_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tiny Toon Adventures - Babs Big Break (Usa Europe)",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Babs_Big_Break_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tiny Toon Adventures - Wacky Sports (Usa)",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Wacky_Sports_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tiny Toon Adventures 2 - Montanas Movie Madness (Usa Europe)",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_2_-_Montanas_Movie_Madness_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Titus The Fox (Usa Europe)",
+    "rom_url": "/worksheets/main/Titus_the_Fox_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tom & Jerry (Usa Europe)",
+    "rom_url": "/worksheets/main/Tom_&_Jerry_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tom And Jerry - Frantic Antics! (Usa Europe)",
+    "rom_url": "/worksheets/main/Tom_and_Jerry_-_Frantic_Antics!_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Top Gun - Guts & Glory (Usa Europe)",
+    "rom_url": "/worksheets/main/Top_Gun_-_Guts_&_Glory_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Top Rank Tennis (Usa)",
+    "rom_url": "/worksheets/main/Top_Rank_Tennis_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Torpedo Range (Usa)",
+    "rom_url": "/worksheets/main/Torpedo_Range_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Total Carnage (Usa Europe)",
+    "rom_url": "/worksheets/main/Total_Carnage_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Toxic Crusaders (Usa)",
+    "rom_url": "/worksheets/main/Toxic_Crusaders_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Toy Story (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Toy_Story_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Track & Field (Usa Europe)",
+    "rom_url": "/worksheets/main/Track_&_Field_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Track Meet (Usa Europe)",
+    "rom_url": "/worksheets/main/Track_Meet_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Trax (Usa Europe)",
+    "rom_url": "/worksheets/main/Trax_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "True Lies (Usa Europe)",
+    "rom_url": "/worksheets/main/True_Lies_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Tumble Pop (Usa Europe)",
+    "rom_url": "/worksheets/main/Tumble_Pop_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Turn And Burn - The F-14 Dogfight Simulator (Usa)",
+    "rom_url": "/worksheets/main/Turn_and_Burn_-_The_F-14_Dogfight_Simulator_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Turok - Battle Of The Bionosaurs (Usa Europe) (Enfrdees)",
+    "rom_url": "/worksheets/main/Turok_-_Battle_of_the_Bionosaurs_(USA_Europe)_(EnFrDeEs).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Turrican (Usa Europe)",
+    "rom_url": "/worksheets/main/Turrican_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ultima - Runes Of Virtue (Usa)",
+    "rom_url": "/worksheets/main/Ultima_-_Runes_of_Virtue_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ultima - Runes Of Virtue Ii (Usa)",
+    "rom_url": "/worksheets/main/Ultima_-_Runes_of_Virtue_II_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Ultra Golf (Usa)",
+    "rom_url": "/worksheets/main/Ultra_Golf_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Universal Soldier (Usa Europe)",
+    "rom_url": "/worksheets/main/Universal_Soldier_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Urban Strike (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Urban_Strike_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Vegas Stakes (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Vegas_Stakes_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wario Blast Featuring Bomberman! (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Wario_Blast_Featuring_Bomberman!_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wario Land Ii (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Wario_Land_II_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wave Race (Usa Europe)",
+    "rom_url": "/worksheets/main/Wave_Race_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Waynes World (Usa)",
+    "rom_url": "/worksheets/main/Waynes_World_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wcw - The Main Event (Usa Europe)",
+    "rom_url": "/worksheets/main/WCW_-_The_Main_Event_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Were Back! - A Dinosaurs Story (Usa Europe)",
+    "rom_url": "/worksheets/main/Were_Back!_-_A_Dinosaurs_Story_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wheel Of Fortune (Usa)",
+    "rom_url": "/worksheets/main/Wheel_of_Fortune_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Who Framed Roger Rabbit (Usa)",
+    "rom_url": "/worksheets/main/Who_Framed_Roger_Rabbit_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wild Snake (Usa) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/Wild_Snake_(USA)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Winter Olympic Games (Usa)",
+    "rom_url": "/worksheets/main/Winter_Olympic_Games_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wizards & Warriors X - The Fortress Of Fear (Usa Europe)",
+    "rom_url": "/worksheets/main/Wizards_&_Warriors_X_-_The_Fortress_of_Fear_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wordtris (Usa)",
+    "rom_url": "/worksheets/main/Wordtris_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wordzap (Usa)",
+    "rom_url": "/worksheets/main/WordZap_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Bowling (Usa)",
+    "rom_url": "/worksheets/main/World_Bowling_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Circuit Series (Usa)",
+    "rom_url": "/worksheets/main/World_Circuit_Series_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Cup 98 (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/World_Cup_98_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Cup Usa 94 (Europe) (Enfrdeesitnlptsv)",
+    "rom_url": "/worksheets/main/World_Cup_USA_94_(Europe)_(EnFrDeEsItNlPtSv).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Cup Usa 94 (Japan) (Enfrdeesitnlptsv)",
+    "rom_url": "/worksheets/main/World_Cup_USA_94_(Japan)_(EnFrDeEsItNlPtSv).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "World Heroes 2 Jet (Usa Europe) (Sgb Enhanced)",
+    "rom_url": "/worksheets/main/World_Heroes_2_Jet_(USA_Europe)_(SGB_Enhanced).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wwf King Of The Ring (Usa Europe)",
+    "rom_url": "/worksheets/main/WWF_King_of_the_Ring_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wwf Raw (Usa Europe)",
+    "rom_url": "/worksheets/main/WWF_Raw_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wwf Superstars (Usa Europe)",
+    "rom_url": "/worksheets/main/WWF_Superstars_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wwf Superstars 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/WWF_Superstars_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Wwf War Zone (Usa Europe)",
+    "rom_url": "/worksheets/main/WWF_War_Zone_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Xenon 2 (Usa Europe)",
+    "rom_url": "/worksheets/main/Xenon_2_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Year After The (Usa) (Aftermarket) (Homebrew)",
+    "rom_url": "/worksheets/main/Year_After_The_(USA)_(Aftermarket)_(Homebrew).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Yogi Bears Gold Rush (Usa)",
+    "rom_url": "/worksheets/main/Yogi_Bears_Gold_Rush_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Yoshis Cookie (Usa Europe)",
+    "rom_url": "/worksheets/main/Yoshis_Cookie_(USA_Europe).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Yoshi (Usa)",
+    "rom_url": "/worksheets/main/Yoshi_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Zen - Intergalactic Ninja (Usa)",
+    "rom_url": "/worksheets/main/Zen_-_Intergalactic_Ninja_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Zool - Ninja Of The Nth Dimension (Usa)",
+    "rom_url": "/worksheets/main/Zool_-_Ninja_of_the_Nth_Dimension_(USA).7z",
+    "core": "gambatte"
+  },
+  {
+    "name": "Zoop (Usa Europe)",
+    "rom_url": "/worksheets/main/Zoop_(USA_Europe).7z",
+    "core": "gambatte"
+  }
+]
+}

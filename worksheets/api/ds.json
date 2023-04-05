@@ -1,0 +1,59 @@
+{
+  "Nintendo DS": [
+  {
+    "name": "Cod4-Modern-Warfare",
+    "rom_url": "main/cod4-modern-warfare.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Gta Chinatown Wars",
+    "rom_url": "main/gta_chinatown_wars.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Harvest Moon",
+    "rom_url": "main/harvest_moon.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Lego Batman",
+    "rom_url": "main/lego_batman.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Lozphantomglass",
+    "rom_url": "main/lozphantomglass.zip",
+    "core": "nds"
+  },
+  {
+    "name": "M&Satthewintergames",
+    "rom_url": "main/m&satthewintergames.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Mario Kart DS",
+    "rom_url": "main/mariokart_ds.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Need For Speed - Most Wanted",
+    "rom_url": "main/need_for_speed_most_wanted.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Pokemon Platinum",
+    "rom_url": "main/pokemon_platinum.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Sims 3",
+    "rom_url": "main/sims_3.zip",
+    "core": "nds"
+  },
+  {
+    "name": "Tetris Party Deluxe",
+    "rom_url": "main/tetris_party_deluxe.zip",
+    "core": "nds"
+  }
+  ]
+}

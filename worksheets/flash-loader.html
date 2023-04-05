@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script src="main.js"></script>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta content="Math Is Fun" property="og:title">
+<meta content="Math explained in easy language, plus puzzles, games, games and an illustrated dictionary. For K-12 kids, teachers and parents." property="og:description">
+<meta content="#ffffff" data-react-helmet="true" name="theme-color">
+<meta property="og:image" content="assets/images/logo.png">
+<title>Math Is Fun</title>
+<link rel="icon" type="image/x-icon" href="assets/images/favicon.png">
+<link rel="stylesheet" href="https://fonts.cdnfonts.com/css/rawline">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&amp;display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&amp;display=swap">
+<link rel="stylesheet" href="../cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+<link rel="stylesheet" href="assets/reset.css">
+<link rel="stylesheet" href="assets/index.css">
+<link rel="stylesheet" href="assets/button.css">
+</head>
+<body>
+<div class="wrapper">
+<nav class="navbar">
+<div class="navbar__container">
+<div class="navbar__branding">
+<a href="index.html">
+<span>Astroid Lite</span>
+</a>
+</div>
+<div class="navbar__items navbar__items--mobile">
+<a href="#" class="navbar__item">
+<label for="input-navbar">
+<i class="fas fa-bars"></i>
+</label>
+</a>
+</div>
+<input type="checkbox" id="input-navbar" style="display: none;">
+<div class="navbar__items">
+<a href="index.html" class="navbar__item">Home</a>
+<a href="practice/index.html" class="navbar__item">Emulators</a>
+<a href="games/music.html" class="navbar__item">Music Player</a>
+<a href="https://vyper.group" class="navbar__item">Vyper Group</a>
+<a href="legal.html" class="navbar__item">Legal</a>
+<a href="settings.html" class="navbar__item">Settings</a>
+<a href="../../../index.html" class="navbar__item" accesskey="p">Panic</a>
+<a href="https://discord.gg/9sUDHyGQfC" class="navbar__item navbar__item--highlighted">Discord</a>
+</div>
+</div>
+<div id="math-container"></div>
+<script src="./assets/ruffle.js"></script>
+<script>
+  // Get the URL params for the Ruffle game
+  const urlParams = new URLSearchParams(window.location.search);
+  const swfUrl = urlParams.get("swf");
+
+  // Create the embed element for the Ruffle game
+  const embed = document.createElement("embed");
+  embed.setAttribute("src", swfUrl);
+  embed.setAttribute("flashvars", "");
+  embed.setAttribute("base", "");
+  embed.setAttribute("quality", "high");
+  embed.setAttribute("allowscriptaccess", "always");
+  embed.setAttribute("allowfullscreen", "true");
+  embed.setAttribute("wmode", "window");
+  embed.setAttribute("width", "1200px");
+  embed.setAttribute("height", "700px");
+  embed.setAttribute("border-radius", "8px");
+  embed.setAttribute("type", "application/x-shockwave-flash");
+  embed.setAttribute("pluginspage", "http://www.macromedia.com/go/getflashplayer");
+
+  // Add the embed element to the game container
+  const mathContainer = document.getElementById("math-container");
+  mathContainer.appendChild(embed);
+</script>
+</body>
+</section>
+</body>
+</html>

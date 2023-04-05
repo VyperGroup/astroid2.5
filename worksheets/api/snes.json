@@ -1,0 +1,4559 @@
+{
+  "Super Nintendo Entertainment System": [
+  {
+    "name": "3X3 Eyes - Juuma Houkan",
+    "rom_url": "/worksheets/main/3x3_Eyes_-_Juuma_Houkan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "46 Okunen Monogatari - Harukanaru Eden E",
+    "rom_url": "/worksheets/main/46_Okunen_Monogatari_-_Harukanaru_Eden_e.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "7Th Saga, The",
+    "rom_url": "/worksheets/main/7th_Saga,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "7Th Saga Redux, The",
+    "rom_url": "/worksheets/main/7th_Saga_Redux,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "A.S.P. - Air Strike Patrol",
+    "rom_url": "/worksheets/main/A.S.P._-_Air_Strike_Patrol.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Accele Brid",
+    "rom_url": "/worksheets/main/Accele_Brid.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ace Wo Nerae!",
+    "rom_url": "/worksheets/main/Ace_wo_Nerae!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Acrobat Mission",
+    "rom_url": "/worksheets/main/Acrobat_Mission.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Actraiser",
+    "rom_url": "/worksheets/main/ActRaiser.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Actraiser 2",
+    "rom_url": "/worksheets/main/ActRaiser_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Addams Family, The",
+    "rom_url": "/worksheets/main/Addams_Family,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Addams Family Values",
+    "rom_url": "/worksheets/main/Addams_Family_Values.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Advanced Dungeons & Dragons - Eye Of The Beholder",
+    "rom_url": "/worksheets/main/Advanced_Dungeons_&_Dragons_-_Eye_of_the_Beholder.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Adventures Of Batman & Robin, The",
+    "rom_url": "/worksheets/main/Adventures_of_Batman_&_Robin,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aerobiz",
+    "rom_url": "/worksheets/main/Aerobiz.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aerobiz Supersonic",
+    "rom_url": "/worksheets/main/Aerobiz_Supersonic.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aero Fighters",
+    "rom_url": "/worksheets/main/Aero_Fighters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aero The Acro-Bat",
+    "rom_url": "/worksheets/main/Aero_the_Acro-Bat.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aero The Acro-Bat 2",
+    "rom_url": "/worksheets/main/Aero_the_Acro-Bat_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aladdin",
+    "rom_url": "/worksheets/main/Aladdin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Alcahest",
+    "rom_url": "/worksheets/main/Alcahest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Alien 3",
+    "rom_url": "/worksheets/main/Alien_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Alien 3 - Assembly Cut",
+    "rom_url": "/worksheets/main/Alien_3_-_Assembly_Cut.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Alien Vs. Predator",
+    "rom_url": "/worksheets/main/Alien_vs._Predator.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Amazing Spider-Man, The - Lethal Foes",
+    "rom_url": "/worksheets/main/Amazing_Spider-Man,_The_-_Lethal_Foes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ancient Magic - Bazoo! Mahou Sekai",
+    "rom_url": "/worksheets/main/Ancient_Magic_-_Bazoo!_Mahou_Sekai.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arabian Nights - Sabaku No Seirei-Ou",
+    "rom_url": "/worksheets/main/Arabian_Nights_-_Sabaku_no_Seirei-ou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Araiguma Rascal - Raccoon Rascal",
+    "rom_url": "/worksheets/main/Araiguma_Rascal_-_Raccoon_Rascal.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arcades Greatest Hits - The Atari Collection 1",
+    "rom_url": "/worksheets/main/Arcades_Greatest_Hits_-_The_Atari_Collection_1.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arcana",
+    "rom_url": "/worksheets/main/Arcana.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arcana - Seal Of Rimsala",
+    "rom_url": "/worksheets/main/Arcana_-_Seal_of_Rimsala.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arcus Odyssey",
+    "rom_url": "/worksheets/main/Arcus_Odyssey.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ardy Lightfoot",
+    "rom_url": "/worksheets/main/Ardy_Lightfoot.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aretha",
+    "rom_url": "/worksheets/main/Aretha.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Aretha Ii - Ariel No Fushigi Na Tabi",
+    "rom_url": "/worksheets/main/Aretha_II_-_Ariel_no_Fushigi_na_Tabi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arkanoid - Doh It Again",
+    "rom_url": "/worksheets/main/Arkanoid_-_Doh_It_Again.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Arkanoid Reblocked",
+    "rom_url": "/worksheets/main/Arkanoid_Reblocked.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Art Of Fighting",
+    "rom_url": "/worksheets/main/Art_of_Fighting.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ashita No Joe",
+    "rom_url": "/worksheets/main/Ashita_no_Joe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Assault Suits Valken",
+    "rom_url": "/worksheets/main/Assault_Suits_Valken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Asterix",
+    "rom_url": "/worksheets/main/Asterix.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Asterix (Ntsc)",
+    "rom_url": "/worksheets/main/Asterix_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Axelay",
+    "rom_url": "/worksheets/main/Axelay.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "B.O.B.",
+    "rom_url": "/worksheets/main/B.O.B..zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bahamut Lagoon",
+    "rom_url": "/worksheets/main/Bahamut_Lagoon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ball Bullet Gun - Survival Game Simulation",
+    "rom_url": "/worksheets/main/Ball_Bullet_Gun_-_Survival_Game_Simulation.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Banzai Mario World",
+    "rom_url": "/worksheets/main/Banzai_Mario_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bassins Black Bass With Hank Parker",
+    "rom_url": "/worksheets/main/Bassins_Black_Bass_with_Hank_Parker.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bastard!! Ankoku No Hakaishin",
+    "rom_url": "/worksheets/main/Bastard!!_Ankoku_no_Hakaishin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Batman Returns",
+    "rom_url": "/worksheets/main/Batman_Returns.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battletoads & Double Dragon - The Ultimate Team",
+    "rom_url": "/worksheets/main/Battletoads_&_Double_Dragon_-_The_Ultimate_Team.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battletoads In Battlemaniacs",
+    "rom_url": "/worksheets/main/Battletoads_in_Battlemaniacs.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Cars",
+    "rom_url": "/worksheets/main/Battle_Cars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Clash",
+    "rom_url": "/worksheets/main/Battle_Clash.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Cross",
+    "rom_url": "/worksheets/main/Battle_Cross.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Master - Kyuukyoku No Senshi-Tachi",
+    "rom_url": "/worksheets/main/Battle_Master_-_Kyuukyoku_no_Senshi-tachi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Pinball",
+    "rom_url": "/worksheets/main/Battle_Pinball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Racers",
+    "rom_url": "/worksheets/main/Battle_Racers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Tycoon - Flash Hiders Sfx",
+    "rom_url": "/worksheets/main/Battle_Tycoon_-_Flash_Hiders_SFX.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Battle Zeque Den",
+    "rom_url": "/worksheets/main/Battle_Zeque_Den.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Beavis And Butt-Head",
+    "rom_url": "/worksheets/main/Beavis_and_Butt-Head.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Big Sky Trooper",
+    "rom_url": "/worksheets/main/Big_Sky_Trooper.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Biker Mice From Mars",
+    "rom_url": "/worksheets/main/Biker_Mice_from_Mars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bike Daisuki! Hashiriya Tamashii - Riders Spirits",
+    "rom_url": "/worksheets/main/Bike_Daisuki!_Hashiriya_Tamashii_-_Riders_Spirits.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Biometal",
+    "rom_url": "/worksheets/main/BioMetal.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishin Densetsu Zoku - The Legend Of Bishin",
+    "rom_url": "/worksheets/main/Bishin_Densetsu_Zoku_-_The_Legend_of_Bishin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon - Another Story",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_-_Another_Story.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon R",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_R.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon Super S - Fuwa Fuwa Panic",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_Super_S_-_Fuwa_Fuwa_Panic.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon Super S - Zenin Sanka!! Shuyaku Soudatsusen",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_Super_S_-_Zenin_Sanka!!_Shuyaku_Soudatsusen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon S - Jougai Rantou! Shuyaku Soudatsusen",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_S_-_Jougai_Rantou!_Shuyaku_Soudatsusen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bishoujo Senshi Sailor Moon S - Kurukkurin",
+    "rom_url": "/worksheets/main/Bishoujo_Senshi_Sailor_Moon_S_-_Kurukkurin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Blackthorne",
+    "rom_url": "/worksheets/main/Blackthorne.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Blazeon - The Bio-Cyborg Challenge",
+    "rom_url": "/worksheets/main/BlaZeon_-_The_Bio-Cyborg_Challenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bomberman B-Daman",
+    "rom_url": "/worksheets/main/Bomberman_B-Daman.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bonkers",
+    "rom_url": "/worksheets/main/Bonkers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Boogerman - A Pick And Flick Adventure",
+    "rom_url": "/worksheets/main/Boogerman_-_A_Pick_and_Flick_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Boxing Legends Of The Ring",
+    "rom_url": "/worksheets/main/Boxing_Legends_of_the_Ring.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Brain Lord",
+    "rom_url": "/worksheets/main/Brain_Lord.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Brandish",
+    "rom_url": "/worksheets/main/Brandish.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Brandish 2 - The Planet Buster",
+    "rom_url": "/worksheets/main/Brandish_2_-_The_Planet_Buster.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Brawl Brothers",
+    "rom_url": "/worksheets/main/Brawl_Brothers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Breath Of Fire",
+    "rom_url": "/worksheets/main/Breath_of_Fire.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Breath Of Fire Ii",
+    "rom_url": "/worksheets/main/Breath_of_Fire_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Breath Of Fire Ii (Maeson)",
+    "rom_url": "/worksheets/main/Breath_of_Fire_II_(Maeson).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Brutal Mario",
+    "rom_url": "/worksheets/main/Brutal_Mario.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bubsy In Claws Encounters Of The Furred Kind",
+    "rom_url": "/worksheets/main/Bubsy_in_Claws_Encounters_of_the_Furred_Kind.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bugs Bunny In Rabbit Rampage",
+    "rom_url": "/worksheets/main/Bugs_Bunny_in_Rabbit_Rampage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bulls Versus Blazers And The Nba Playoffs",
+    "rom_url": "/worksheets/main/Bulls_versus_Blazers_and_the_NBA_Playoffs.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Bust-A-Move",
+    "rom_url": "/worksheets/main/Bust-A-Move.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cannon Fodder",
+    "rom_url": "/worksheets/main/Cannon_Fodder.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cannon Fodder (Ntsc)",
+    "rom_url": "/worksheets/main/Cannon_Fodder_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Captain America And The Avengers",
+    "rom_url": "/worksheets/main/Captain_America_and_the_Avengers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Captain Commando",
+    "rom_url": "/worksheets/main/Captain_Commando.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Castlevania - Dracula X",
+    "rom_url": "/worksheets/main/Castlevania_-_Dracula_X.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chaos Seed - Fuusui Kairouki",
+    "rom_url": "/worksheets/main/Chaos_Seed_-_Fuusui_Kairouki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Choplifter Iii",
+    "rom_url": "/worksheets/main/Choplifter_III.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Choujikuu Yousai Macross - Scrambled Valkyrie",
+    "rom_url": "/worksheets/main/Choujikuu_Yousai_Macross_-_Scrambled_Valkyrie.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chou Mahou Tairiku Wozz",
+    "rom_url": "/worksheets/main/Chou_Mahou_Tairiku_Wozz.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger+",
+    "rom_url": "/worksheets/main/Chrono_Trigger+.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger",
+    "rom_url": "/worksheets/main/Chrono_Trigger.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger (Bugfix And Uncensoring)",
+    "rom_url": "/worksheets/main/Chrono_Trigger_(Bugfix_and_Uncensoring).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger - Crimson Echoes",
+    "rom_url": "/worksheets/main/Chrono_Trigger_-_Crimson_Echoes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger - Flames Of Eternity",
+    "rom_url": "/worksheets/main/Chrono_Trigger_-_Flames_of_Eternity.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Chrono Trigger - Prophets Guile",
+    "rom_url": "/worksheets/main/Chrono_Trigger_-_Prophets_Guile.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Civilization",
+    "rom_url": "/worksheets/main/Civilization.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Classic Kong Complete",
+    "rom_url": "/worksheets/main/Classic_Kong_Complete.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clayfighter",
+    "rom_url": "/worksheets/main/ClayFighter.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clayfighter - Tournament Edition",
+    "rom_url": "/worksheets/main/ClayFighter_-_Tournament_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clayfighter 2 - Judgment Clay",
+    "rom_url": "/worksheets/main/ClayFighter_2_-_Judgment_Clay.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Claymates",
+    "rom_url": "/worksheets/main/Claymates.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clock Tower",
+    "rom_url": "/worksheets/main/Clock_Tower.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clock Tower Deluxe",
+    "rom_url": "/worksheets/main/Clock_Tower_Deluxe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Clue",
+    "rom_url": "/worksheets/main/Clue.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "College Slam",
+    "rom_url": "/worksheets/main/College_Slam.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Combatribes, The",
+    "rom_url": "/worksheets/main/Combatribes,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Congos Caper",
+    "rom_url": "/worksheets/main/Congos_Caper.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Conkers High Rule Tail",
+    "rom_url": "/worksheets/main/Conkers_High_Rule_Tail.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Contra Iii - The Alien Wars",
+    "rom_url": "/worksheets/main/Contra_III_-_The_Alien_Wars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cooly Skunk",
+    "rom_url": "/worksheets/main/Cooly_Skunk.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cool Spot",
+    "rom_url": "/worksheets/main/Cool_Spot.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cosmo Gang - The Puzzle",
+    "rom_url": "/worksheets/main/Cosmo_Gang_-_The_Puzzle.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cosmo Gang - The Video",
+    "rom_url": "/worksheets/main/Cosmo_Gang_-_The_Video.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cotton 100% - Marchen Adventure",
+    "rom_url": "/worksheets/main/Cotton_100%_-_Marchen_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Crystal Beans - From Dungeon Explorer",
+    "rom_url": "/worksheets/main/Crystal_Beans_-_From_Dungeon_Explorer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cu-On-Pa Sfc",
+    "rom_url": "/worksheets/main/Cu-On-Pa_SFC.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cybernator",
+    "rom_url": "/worksheets/main/Cybernator.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cyber Knight",
+    "rom_url": "/worksheets/main/Cyber_Knight.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cyber Knight Ii - Chikyuu Teikoku No Yabou",
+    "rom_url": "/worksheets/main/Cyber_Knight_II_-_Chikyuu_Teikoku_no_Yabou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Cyborg 009",
+    "rom_url": "/worksheets/main/Cyborg_009.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "D-Force",
+    "rom_url": "/worksheets/main/D-Force.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Daffy Duck - The Marvin Missions",
+    "rom_url": "/worksheets/main/Daffy_Duck_-_The_Marvin_Missions.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dai-3-Ji Super Robot Taisen",
+    "rom_url": "/worksheets/main/Dai-3-Ji_Super_Robot_Taisen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Daikaijuu Monogatari",
+    "rom_url": "/worksheets/main/Daikaijuu_Monogatari.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Daikaijuu Monogatari Ii",
+    "rom_url": "/worksheets/main/Daikaijuu_Monogatari_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Darius Twin",
+    "rom_url": "/worksheets/main/Darius_Twin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dark Half",
+    "rom_url": "/worksheets/main/Dark_Half.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dark Law - Meaning Of Death",
+    "rom_url": "/worksheets/main/Dark_Law_-_Meaning_of_Death.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Daze Before Christmas",
+    "rom_url": "/worksheets/main/Daze_Before_Christmas.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Deae Tonosama Appare Ichiban",
+    "rom_url": "/worksheets/main/Deae_Tonosama_Appare_Ichiban.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Death And Return Of Superman, The",
+    "rom_url": "/worksheets/main/Death_and_Return_of_Superman,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Demolition Man",
+    "rom_url": "/worksheets/main/Demolition_Man.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Demons Crest",
+    "rom_url": "/worksheets/main/Demons_Crest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Densetsu No Ogre Battle - The March Of The Black Queen",
+    "rom_url": "/worksheets/main/Densetsu_no_Ogre_Battle_-_The_March_of_the_Black_Queen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Der Langrisser",
+    "rom_url": "/worksheets/main/Der_Langrisser.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Desert Strike - Return To The Gulf",
+    "rom_url": "/worksheets/main/Desert_Strike_-_Return_to_the_Gulf.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dharma Doujou",
+    "rom_url": "/worksheets/main/Dharma_Doujou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dinocity",
+    "rom_url": "/worksheets/main/DinoCity.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dokapon 3-2-1 - Arashi Wo Yobu Yuujou",
+    "rom_url": "/worksheets/main/Dokapon_3-2-1_-_Arashi_wo_Yobu_Yuujou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donald Duck No Mahou No Boushi",
+    "rom_url": "/worksheets/main/Donald_Duck_no_Mahou_no_Boushi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country - Boss Blitz",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_-_Boss_Blitz.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country 2 - Brigand Barrage",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_2_-_Brigand_Barrage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country 2 - Diddys Kong Quest",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_2_-_Diddys_Kong_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country 3 - Dixie Kongs Double Trouble!",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_3_-_Dixie_Kongs_Double_Trouble!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Donkey Kong Country Competition Cartridge",
+    "rom_url": "/worksheets/main/Donkey_Kong_Country_Competition_Cartridge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Doom",
+    "rom_url": "/worksheets/main/Doom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Doom Troopers",
+    "rom_url": "/worksheets/main/Doom_Troopers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Doremi Fantasy - Milon No Dokidoki Daibouken",
+    "rom_url": "/worksheets/main/DoReMi_Fantasy_-_Milon_no_DokiDoki_Daibouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dorke & Ymp",
+    "rom_url": "/worksheets/main/Dorke_&_Ymp.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dossun! Ganseki Battle",
+    "rom_url": "/worksheets/main/Dossun!_Ganseki_Battle.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dr. Mario World - House Calls",
+    "rom_url": "/worksheets/main/Dr._Mario_World_-_House_Calls.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon - The Bruce Lee Story",
+    "rom_url": "/worksheets/main/Dragon_-_The_Bruce_Lee_Story.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Hyper Dimension",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Hyper_Dimension.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Hyper Dimension (Ntsc)",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Hyper_Dimension_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden (Ntsc)",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden 2",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden 2 (Ntsc)",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden_2_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden 3",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Butouden 3 (Ntsc)",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Butouden_3_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Gokuden - Totsugeki-Hen",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Gokuden_-_Totsugeki-Hen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Ball Z - Super Saiya Densetsu",
+    "rom_url": "/worksheets/main/Dragon_Ball_Z_-_Super_Saiya_Densetsu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Quest Iii - Soshite Densetsu E...",
+    "rom_url": "/worksheets/main/Dragon_Quest_III_-_Soshite_Densetsu_e....zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Quest I & Ii",
+    "rom_url": "/worksheets/main/Dragon_Quest_I_&_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Quest Vi - Maboroshi No Daichi",
+    "rom_url": "/worksheets/main/Dragon_Quest_VI_-_Maboroshi_no_Daichi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon Quest V - Tenkuu No Hanayome",
+    "rom_url": "/worksheets/main/Dragon_Quest_V_-_Tenkuu_no_Hanayome.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dragon View",
+    "rom_url": "/worksheets/main/Dragon_View.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Drakkhen",
+    "rom_url": "/worksheets/main/Drakkhen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dream Basketball - Dunk & Hoop",
+    "rom_url": "/worksheets/main/Dream_Basketball_-_Dunk_&_Hoop.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dream Maze - Kigurumi Daibouken",
+    "rom_url": "/worksheets/main/Dream_Maze_-_Kigurumi_Daibouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dual Orb Ii",
+    "rom_url": "/worksheets/main/Dual_Orb_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Dungeon Master",
+    "rom_url": "/worksheets/main/Dungeon_Master.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "E.V.O. - Search For Eden",
+    "rom_url": "/worksheets/main/E.V.O._-_Search_for_Eden.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Earthbound U",
+    "rom_url": "/worksheets/main/Earthbound_U.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Earthworm Jim",
+    "rom_url": "/worksheets/main/Earthworm_Jim.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Earthworm Jim 2",
+    "rom_url": "/worksheets/main/Earthworm_Jim_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Earth Defense Force",
+    "rom_url": "/worksheets/main/Earth_Defense_Force.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Edo No Kiba",
+    "rom_url": "/worksheets/main/Edo_no_Kiba.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Eien No Filena",
+    "rom_url": "/worksheets/main/Eien_no_Filena.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Eightbound",
+    "rom_url": "/worksheets/main/EightBound.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Elite Soccer",
+    "rom_url": "/worksheets/main/Elite_Soccer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Emerald Dragon",
+    "rom_url": "/worksheets/main/Emerald_Dragon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Energy Breaker",
+    "rom_url": "/worksheets/main/Energy_Breaker.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Equinox",
+    "rom_url": "/worksheets/main/Equinox.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Excitebike - Bunbun Mario Battle Stadium",
+    "rom_url": "/worksheets/main/Excitebike_-_Bunbun_Mario_Battle_Stadium.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Extra Innings",
+    "rom_url": "/worksheets/main/Extra_Innings.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F-Zero",
+    "rom_url": "/worksheets/main/F-Zero.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F-Zero - Nebula Highway",
+    "rom_url": "/worksheets/main/F-Zero_-_Nebula_Highway.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F-Zero - Parallel Dimension",
+    "rom_url": "/worksheets/main/F-Zero_-_Parallel_Dimension.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F-Zero Final",
+    "rom_url": "/worksheets/main/F-Zero_Final.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F-Zero Grand Prix 2",
+    "rom_url": "/worksheets/main/F-Zero_Grand_Prix_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F1 Pole Position",
+    "rom_url": "/worksheets/main/F1_Pole_Position.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F1 Roc - Race Of Champions",
+    "rom_url": "/worksheets/main/F1_ROC_-_Race_of_Champions.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "F1 Roc Ii - Race Of Champions",
+    "rom_url": "/worksheets/main/F1_ROC_II_-_Race_of_Champions.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Faceball 2000",
+    "rom_url": "/worksheets/main/Faceball_2000.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Famicom Tantei Club Part Ii - Ushiro Ni Tatsu Shoujo",
+    "rom_url": "/worksheets/main/Famicom_Tantei_Club_Part_II_-_Ushiro_ni_Tatsu_Shoujo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Family Feud",
+    "rom_url": "/worksheets/main/Family_Feud.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fatal Fury",
+    "rom_url": "/worksheets/main/Fatal_Fury.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fatal Fury 2",
+    "rom_url": "/worksheets/main/Fatal_Fury_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fatal Fury Special",
+    "rom_url": "/worksheets/main/Fatal_Fury_Special.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Feda - The Emblem Of Justice",
+    "rom_url": "/worksheets/main/FEDA_-_The_Emblem_of_Justice.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fifa 98 - Road To World Cup",
+    "rom_url": "/worksheets/main/FIFA_98_-_Road_to_World_Cup.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fifa 98 - Road To World Cup (Ntsc)",
+    "rom_url": "/worksheets/main/FIFA_98_-_Road_to_World_Cup_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fifa International Soccer",
+    "rom_url": "/worksheets/main/FIFA_International_Soccer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fifa Soccer 96",
+    "rom_url": "/worksheets/main/FIFA_Soccer_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fifa Soccer 97 - Gold Edition",
+    "rom_url": "/worksheets/main/FIFA_Soccer_97_-_Gold_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fighters History",
+    "rom_url": "/worksheets/main/Fighters_History.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fighters History - Mizoguchi Kikiippatsu!!",
+    "rom_url": "/worksheets/main/Fighters_History_-_Mizoguchi_Kikiippatsu!!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy - Mystic Quest",
+    "rom_url": "/worksheets/main/Final_Fantasy_-_Mystic_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Ii",
+    "rom_url": "/worksheets/main/Final_Fantasy_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Iii",
+    "rom_url": "/worksheets/main/Final_Fantasy_III.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Iii (Retranslation)",
+    "rom_url": "/worksheets/main/Final_Fantasy_III_(Retranslation).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Ii - A Threat From Within, Part 1",
+    "rom_url": "/worksheets/main/Final_Fantasy_II_-_A_Threat_from_Within,_Part_1.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Iv - The Darkness Within",
+    "rom_url": "/worksheets/main/Final_Fantasy_IV_-_The_Darkness_Within.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Iv - Ultima",
+    "rom_url": "/worksheets/main/Final_Fantasy_IV_-_Ultima.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Iv - Unprecedented Crisis",
+    "rom_url": "/worksheets/main/Final_Fantasy_IV_-_Unprecedented_Crisis.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy V",
+    "rom_url": "/worksheets/main/Final_Fantasy_V.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Vi (Ted Woolsey Uncensored Edition)",
+    "rom_url": "/worksheets/main/Final_Fantasy_VI_(Ted_Woolsey_Uncensored_Edition).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Vi - Brave New World",
+    "rom_url": "/worksheets/main/Final_Fantasy_VI_-_Brave_New_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Vi - Presentiment Era",
+    "rom_url": "/worksheets/main/Final_Fantasy_VI_-_Presentiment_Era.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Vi - Return Of The Dark Sorcerer",
+    "rom_url": "/worksheets/main/Final_Fantasy_VI_-_Return_of_the_Dark_Sorcerer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fantasy Vi - The Eternal Crystals",
+    "rom_url": "/worksheets/main/Final_Fantasy_VI_-_The_Eternal_Crystals.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fight",
+    "rom_url": "/worksheets/main/Final_Fight.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fight 2",
+    "rom_url": "/worksheets/main/Final_Fight_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fight 3",
+    "rom_url": "/worksheets/main/Final_Fight_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fight 3 (Hard Edition)",
+    "rom_url": "/worksheets/main/Final_Fight_3_(Hard_Edition).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Final Fight Guy",
+    "rom_url": "/worksheets/main/Final_Fight_Guy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Firemen, The",
+    "rom_url": "/worksheets/main/Firemen,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Firemen, The (Ntsc)",
+    "rom_url": "/worksheets/main/Firemen,_The_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Firepower 2000",
+    "rom_url": "/worksheets/main/Firepower_2000.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Firestriker",
+    "rom_url": "/worksheets/main/Firestriker.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Akaneia Senki-Hen - Dai-1-Wa - Palace Kanraku",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Akaneia_Senki-hen_-_Dai-1-wa_-_Palace_Kanraku.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Akaneia Senki-Hen - Dai-2-Wa - Akai Ryuu Kishi",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Akaneia_Senki-hen_-_Dai-2-wa_-_Akai_Ryuu_Kishi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Akaneia Senki-Hen - Dai-3-Wa - Seigi No Touzokudan",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Akaneia_Senki-hen_-_Dai-3-wa_-_Seigi_no_Touzokudan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Akaneia Senki-Hen - Dai-4-Wa - Hajimari No Toki",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Akaneia_Senki-hen_-_Dai-4-wa_-_Hajimari_no_Toki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Monshou No Nazo",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Monshou_no_Nazo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Seisen No Keifu",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Seisen_no_Keifu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fire Emblem - Thracia 776",
+    "rom_url": "/worksheets/main/Fire_Emblem_-_Thracia_776.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Flashback - The Quest For Identity",
+    "rom_url": "/worksheets/main/Flashback_-_The_Quest_for_Identity.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Flintstones, The - The Treasure Of Sierra Madrock",
+    "rom_url": "/worksheets/main/Flintstones,_The_-_The_Treasure_of_Sierra_Madrock.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Flying Hero - Bugyuru No Daibouken",
+    "rom_url": "/worksheets/main/Flying_Hero_-_Bugyuru_no_Daibouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Frogger",
+    "rom_url": "/worksheets/main/Frogger.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Front Mission",
+    "rom_url": "/worksheets/main/Front_Mission.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Front Mission - Gun Hazard",
+    "rom_url": "/worksheets/main/Front_Mission_-_Gun_Hazard.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Funaki Masakatsu Hybrid Wrestler - Tougi Denshou",
+    "rom_url": "/worksheets/main/Funaki_Masakatsu_Hybrid_Wrestler_-_Tougi_Denshou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Fushigi No Dungeon 2 - Fuurai No Shiren",
+    "rom_url": "/worksheets/main/Fushigi_no_Dungeon_2_-_Fuurai_no_Shiren.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "G.O.D. - Mezame Yoto Yobu Koe Ga Kikoe",
+    "rom_url": "/worksheets/main/G.O.D._-_Mezame_yoto_Yobu_Koe_ga_Kikoe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Galaxy Robo",
+    "rom_url": "/worksheets/main/Galaxy_Robo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganbare! Daiku No Gen-San",
+    "rom_url": "/worksheets/main/Ganbare!_Daiku_no_Gen-san.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganbare Goemon - Yukihime Kyuushutsu Emaki",
+    "rom_url": "/worksheets/main/Ganbare_Goemon_-_Yukihime_Kyuushutsu_Emaki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganbare Goemon 2 - Kiteretsu Shougun Magginesu",
+    "rom_url": "/worksheets/main/Ganbare_Goemon_2_-_Kiteretsu_Shougun_Magginesu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganbare Goemon 3 - Shishijyuurokubei No Karakuri Manji Katame",
+    "rom_url": "/worksheets/main/Ganbare_Goemon_3_-_Shishijyuurokubei_no_Karakuri_Manji_Katame.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganbare Goemon Kirakira Douchuu - Boku Ga Dancer Ni Natta Wake",
+    "rom_url": "/worksheets/main/Ganbare_Goemon_Kirakira_Douchuu_-_Boku_ga_Dancer_ni_Natta_Wake.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ganpuru - Gunmans Proof",
+    "rom_url": "/worksheets/main/Ganpuru_-_Gunmans_Proof.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gan Gan Ganchan",
+    "rom_url": "/worksheets/main/Gan_Gan_Ganchan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gegege No Kitarou - Fukkatsu! Tenma Daiou",
+    "rom_url": "/worksheets/main/GeGeGe_no_Kitarou_-_Fukkatsu!_Tenma_Daiou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gekitotsu Dangan Jidousha Kessen - Battle Mobile",
+    "rom_url": "/worksheets/main/Gekitotsu_Dangan_Jidousha_Kessen_-_Battle_Mobile.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gekitou Burning Pro Wrestling",
+    "rom_url": "/worksheets/main/Gekitou_Burning_Pro_Wrestling.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gemfire",
+    "rom_url": "/worksheets/main/Gemfire.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gemfire - Dawn Of Ishmeria",
+    "rom_url": "/worksheets/main/Gemfire_-_Dawn_of_Ishmeria.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Genghis Khan Ii - Clan Of The Gray Wolf",
+    "rom_url": "/worksheets/main/Genghis_Khan_II_-_Clan_of_the_Gray_Wolf.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Genocide 2",
+    "rom_url": "/worksheets/main/Genocide_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ghost Chaser Densei",
+    "rom_url": "/worksheets/main/Ghost_Chaser_Densei.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ghost Sweeper Mikami - Joreishi Wa Nice Body",
+    "rom_url": "/worksheets/main/Ghost_Sweeper_Mikami_-_Joreishi_wa_Nice_Body.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ghoul Patrol",
+    "rom_url": "/worksheets/main/Ghoul_Patrol.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Gods",
+    "rom_url": "/worksheets/main/Gods.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Godzilla - Kaijuu Daikessen",
+    "rom_url": "/worksheets/main/Godzilla_-_Kaijuu_Daikessen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Go Go Ackman",
+    "rom_url": "/worksheets/main/Go_Go_Ackman.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Go Go Ackman 2",
+    "rom_url": "/worksheets/main/Go_Go_Ackman_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Go Go Ackman 3",
+    "rom_url": "/worksheets/main/Go_Go_Ackman_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hurricanes",
+    "rom_url": "/worksheets/main/Hurricanes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hyper Iria",
+    "rom_url": "/worksheets/main/Hyper_Iria.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hyper Metroid",
+    "rom_url": "/worksheets/main/Hyper_Metroid.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hyper Street Kart - The Road Warriors",
+    "rom_url": "/worksheets/main/Hyper_Street_Kart_-_The_Road_Warriors.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hyper V-Ball",
+    "rom_url": "/worksheets/main/Hyper_V-Ball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Hyper Zone",
+    "rom_url": "/worksheets/main/Hyper_Zone.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ignition Factor, The",
+    "rom_url": "/worksheets/main/Ignition_Factor,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ihatovo Monogatari",
+    "rom_url": "/worksheets/main/Ihatovo_Monogatari.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Illusion Of Gaia",
+    "rom_url": "/worksheets/main/Illusion_of_Gaia.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Imperium",
+    "rom_url": "/worksheets/main/Imperium.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Incredible Hulk, The",
+    "rom_url": "/worksheets/main/Incredible_Hulk,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Indiana Jones Greatest Adventures",
+    "rom_url": "/worksheets/main/Indiana_Jones_Greatest_Adventures.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Inindo - Way Of The Ninja",
+    "rom_url": "/worksheets/main/Inindo_-_Way_of_the_Ninja.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "International Superstar Soccer",
+    "rom_url": "/worksheets/main/International_Superstar_Soccer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "International Superstar Soccer Deluxe",
+    "rom_url": "/worksheets/main/International_Superstar_Soccer_Deluxe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "International Superstar Soccer Deluxe - Libertadores Da America 2020",
+    "rom_url": "/worksheets/main/International_Superstar_Soccer_Deluxe_-_Libertadores_da_America_2020.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Invictus",
+    "rom_url": "/worksheets/main/Invictus.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Iron Commando",
+    "rom_url": "/worksheets/main/Iron_Commando.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jelly Boy",
+    "rom_url": "/worksheets/main/Jelly_Boy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jelly Boy (Ntsc)",
+    "rom_url": "/worksheets/main/Jelly_Boy_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jelly Boy 2",
+    "rom_url": "/worksheets/main/Jelly_Boy_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jerry Boy",
+    "rom_url": "/worksheets/main/Jerry_Boy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jetsons, The - Invasion Of The Planet Pirates",
+    "rom_url": "/worksheets/main/Jetsons,_The_-_Invasion_of_the_Planet_Pirates.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jet Pilot Rising",
+    "rom_url": "/worksheets/main/Jet_Pilot_Rising.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jikkyou Oshaberi Parodius",
+    "rom_url": "/worksheets/main/Jikkyou_Oshaberi_Parodius.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jimmy Connors Pro Tennis Tour",
+    "rom_url": "/worksheets/main/Jimmy_Connors_Pro_Tennis_Tour.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Joe & Mac",
+    "rom_url": "/worksheets/main/Joe_&_Mac.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Joe & Mac 2 - Lost In The Tropics",
+    "rom_url": "/worksheets/main/Joe_&_Mac_2_-_Lost_in_the_Tropics.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "John Madden Football",
+    "rom_url": "/worksheets/main/John_Madden_Football.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "John Madden Football 93",
+    "rom_url": "/worksheets/main/John_Madden_Football_93.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jojo No Kimyou Na Bouken",
+    "rom_url": "/worksheets/main/JoJo_no_Kimyou_na_Bouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Judge Dredd",
+    "rom_url": "/worksheets/main/Judge_Dredd.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jump - Janked Up Mario Party",
+    "rom_url": "/worksheets/main/JUMP_-_Janked_Up_Mario_Party.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jump 1-2 - Janked Up Mario Party",
+    "rom_url": "/worksheets/main/JUMP_1-2_-_Janked_Up_Mario_Party.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jungle Book, The",
+    "rom_url": "/worksheets/main/Jungle_Book,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jungle Strike - The Sequel To Desert Strike",
+    "rom_url": "/worksheets/main/Jungle_Strike_-_The_Sequel_to_Desert_Strike.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jurassic Park",
+    "rom_url": "/worksheets/main/Jurassic_Park.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jurassic Park Part 2 - The Chaos Continues",
+    "rom_url": "/worksheets/main/Jurassic_Park_Part_2_-_The_Chaos_Continues.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Justice League Task Force",
+    "rom_url": "/worksheets/main/Justice_League_Task_Force.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Jyutei Senki",
+    "rom_url": "/worksheets/main/Jyutei_Senki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "K-16 - Story Of Steel",
+    "rom_url": "/worksheets/main/K-16_-_Story_of_Steel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kaite Tsukutte Asoberu Dezaemon",
+    "rom_url": "/worksheets/main/Kaite_Tsukutte_Asoberu_Dezaemon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kaizou Choujin Shubibinman Zero",
+    "rom_url": "/worksheets/main/Kaizou_Choujin_Shubibinman_Zero.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kamen Rider",
+    "rom_url": "/worksheets/main/Kamen_Rider.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Killer Instinct",
+    "rom_url": "/worksheets/main/Killer_Instinct.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "King Arthurs World",
+    "rom_url": "/worksheets/main/King_Arthurs_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "King Of Dragons, The",
+    "rom_url": "/worksheets/main/King_of_Dragons,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "King Of The Monsters",
+    "rom_url": "/worksheets/main/King_of_the_Monsters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "King Of The Monsters 2",
+    "rom_url": "/worksheets/main/King_of_the_Monsters_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kirbys Avalanche",
+    "rom_url": "/worksheets/main/Kirbys_Avalanche.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kirby No Kirakira Kizzu",
+    "rom_url": "/worksheets/main/Kirby_no_Kirakira_Kizzu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Kirby Super Star",
+    "rom_url": "/worksheets/main/Kirby_Super_Star.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - A Link To The Past",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_A_Link_to_the_Past.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - A Link To The Past Redux",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_A_Link_to_the_Past_Redux.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Cube",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Cube.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Fourth Quest",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Fourth_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Goddess Of Wisdom",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Goddess_of_Wisdom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Parallel Worlds",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Parallel_Worlds.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Parallel Worlds Remodel",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Parallel_Worlds_Remodel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Puzzledudes Quest",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_PuzzleDudes_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Legend Of Zelda, The - Third Quest",
+    "rom_url": "/worksheets/main/Legend_of_Zelda,_The_-_Third_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lemmings",
+    "rom_url": "/worksheets/main/Lemmings.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lemmings 2 - The Tribes",
+    "rom_url": "/worksheets/main/Lemmings_2_-_The_Tribes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lennus Ii - Fuuin No Shito",
+    "rom_url": "/worksheets/main/Lennus_II_-_Fuuin_no_Shito.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lethal Enforcers",
+    "rom_url": "/worksheets/main/Lethal_Enforcers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Liberty Or Death",
+    "rom_url": "/worksheets/main/Liberty_or_Death.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lion King, The",
+    "rom_url": "/worksheets/main/Lion_King,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Little Magic",
+    "rom_url": "/worksheets/main/Little_Magic.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Live A Live",
+    "rom_url": "/worksheets/main/Live_A_Live.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lode Runner Twin - Justy To Liberty No Daibouken",
+    "rom_url": "/worksheets/main/Lode_Runner_Twin_-_Justy_to_Liberty_no_Daibouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lodoss-Tou Senki",
+    "rom_url": "/worksheets/main/Lodoss-tou_Senki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Looney Tunes B-Ball",
+    "rom_url": "/worksheets/main/Looney_Tunes_B-Ball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lost Vikings, The",
+    "rom_url": "/worksheets/main/Lost_Vikings,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lost Vikings 2, The",
+    "rom_url": "/worksheets/main/Lost_Vikings_2,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lucky Luke",
+    "rom_url": "/worksheets/main/Lucky_Luke.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lufia & The Fortress Of Doom",
+    "rom_url": "/worksheets/main/Lufia_&_The_Fortress_of_Doom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lufia & The Fortress Of Doom (Restoration)",
+    "rom_url": "/worksheets/main/Lufia_&_The_Fortress_of_Doom_(Restoration).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lufia Ii - Rise Of The Sinistrals",
+    "rom_url": "/worksheets/main/Lufia_II_-_Rise_of_the_Sinistrals.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Lufia Ii - Rise Of The Sinistrals (Spekkio)",
+    "rom_url": "/worksheets/main/Lufia_II_-_Rise_of_the_Sinistrals_(Spekkio).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madden Nfl 94",
+    "rom_url": "/worksheets/main/Madden_NFL_94.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madden Nfl 95",
+    "rom_url": "/worksheets/main/Madden_NFL_95.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madden Nfl 96",
+    "rom_url": "/worksheets/main/Madden_NFL_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madden Nfl 97",
+    "rom_url": "/worksheets/main/Madden_NFL_97.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madden Nfl 98",
+    "rom_url": "/worksheets/main/Madden_NFL_98.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Madou Monogatari - Hanamaru Daiyouchienji",
+    "rom_url": "/worksheets/main/Madou_Monogatari_-_Hanamaru_Daiyouchienji.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magical Drop",
+    "rom_url": "/worksheets/main/Magical_Drop.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magical Drop 2",
+    "rom_url": "/worksheets/main/Magical_Drop_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magical Popn",
+    "rom_url": "/worksheets/main/Magical_Popn.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magical Quest Starring Mickey Mouse, The",
+    "rom_url": "/worksheets/main/Magical_Quest_Starring_Mickey_Mouse,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magical Taruruuto-Kun - Magic Adventure",
+    "rom_url": "/worksheets/main/Magical_Taruruuto-kun_-_Magic_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magic Sword",
+    "rom_url": "/worksheets/main/Magic_Sword.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Magna Braban - Henreki No Yuusha",
+    "rom_url": "/worksheets/main/Magna_Braban_-_Henreki_no_Yuusha.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mahou Kishi Rayearth",
+    "rom_url": "/worksheets/main/Mahou_Kishi_Rayearth.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mahou Poipoi Poitto!",
+    "rom_url": "/worksheets/main/Mahou_Poipoi_Poitto!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Majin Tensei",
+    "rom_url": "/worksheets/main/Majin_Tensei.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Majin Tensei Ii - Spiral Nemesis",
+    "rom_url": "/worksheets/main/Majin_Tensei_II_-_Spiral_Nemesis.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Marios Strange Quest",
+    "rom_url": "/worksheets/main/Marios_Strange_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mario Rescues The Golden Mushroom",
+    "rom_url": "/worksheets/main/Mario_Rescues_the_Golden_Mushroom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mario Vs. Bowser And Mighty No. 9",
+    "rom_url": "/worksheets/main/Mario_vs._Bowser_and_Mighty_No._9.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mark Davis The Fishing Master",
+    "rom_url": "/worksheets/main/Mark_Davis_The_Fishing_Master.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Marvelous - Mouhitotsu No Takarajima",
+    "rom_url": "/worksheets/main/Marvelous_-_Mouhitotsu_no_Takarajima.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Marvel Super Heroes In War Of The Gems",
+    "rom_url": "/worksheets/main/Marvel_Super_Heroes_in_War_of_the_Gems.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mask, The",
+    "rom_url": "/worksheets/main/Mask,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Maternalbound Redux",
+    "rom_url": "/worksheets/main/MaternalBound_Redux.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Maui Mallard In Cold Shadow",
+    "rom_url": "/worksheets/main/Maui_Mallard_in_Cold_Shadow.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mazinger Z",
+    "rom_url": "/worksheets/main/Mazinger_Z.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mecarobot Golf",
+    "rom_url": "/worksheets/main/Mecarobot_Golf.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mechwarrior",
+    "rom_url": "/worksheets/main/MechWarrior.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mechwarrior 3050",
+    "rom_url": "/worksheets/main/MechWarrior_3050.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mega Man 7",
+    "rom_url": "/worksheets/main/Mega_Man_7.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mega Man X",
+    "rom_url": "/worksheets/main/Mega_Man_X.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mega Man X2",
+    "rom_url": "/worksheets/main/Mega_Man_X2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mega Man X3",
+    "rom_url": "/worksheets/main/Mega_Man_X3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mega Man X3 - Zero Project",
+    "rom_url": "/worksheets/main/Mega_Man_X3_-_Zero_Project.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Melfand Stories",
+    "rom_url": "/worksheets/main/Melfand_Stories.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metal Combat - Falcons Revenge",
+    "rom_url": "/worksheets/main/Metal_Combat_-_Falcons_Revenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metal Marines",
+    "rom_url": "/worksheets/main/Metal_Marines.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metal Max Returns",
+    "rom_url": "/worksheets/main/Metal_Max_Returns.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metal Warriors",
+    "rom_url": "/worksheets/main/Metal_Warriors.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metroid - Eris",
+    "rom_url": "/worksheets/main/Metroid_-_Eris.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metroid - Super Zero Mission",
+    "rom_url": "/worksheets/main/Metroid_-_Super_Zero_Mission.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Metroid Legacy",
+    "rom_url": "/worksheets/main/Metroid_Legacy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Michael Jordan - Chaos In The Windy City",
+    "rom_url": "/worksheets/main/Michael_Jordan_-_Chaos_in_the_Windy_City.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mickeys Ultimate Challenge",
+    "rom_url": "/worksheets/main/Mickeys_Ultimate_Challenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mickey Mania - The Timeless Adventures Of Mickey Mouse",
+    "rom_url": "/worksheets/main/Mickey_Mania_-_The_Timeless_Adventures_of_Mickey_Mouse.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mickey No Tokyo Disneyland Daibouken",
+    "rom_url": "/worksheets/main/Mickey_no_Tokyo_Disneyland_Daibouken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mickey To Donald - Magical Adventure 3",
+    "rom_url": "/worksheets/main/Mickey_to_Donald_-_Magical_Adventure_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Micro Machines",
+    "rom_url": "/worksheets/main/Micro_Machines.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Micro Machines 2 - Turbo Tournament",
+    "rom_url": "/worksheets/main/Micro_Machines_2_-_Turbo_Tournament.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Micro Machines 2 - Turbo Tournament (Ntsc)",
+    "rom_url": "/worksheets/main/Micro_Machines_2_-_Turbo_Tournament_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers - The Fighting Edition",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_-_The_Fighting_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mighty Morphin Power Rangers - The Movie",
+    "rom_url": "/worksheets/main/Mighty_Morphin_Power_Rangers_-_The_Movie.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Might And Magic Book Ii",
+    "rom_url": "/worksheets/main/Might_and_Magic_Book_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Might And Magic Iii - Isles Of Terra",
+    "rom_url": "/worksheets/main/Might_and_Magic_III_-_Isles_of_Terra.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Might And Magic Ii - Gates To Another World",
+    "rom_url": "/worksheets/main/Might_and_Magic_II_-_Gates_to_Another_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Might And Magic Ii - Gates To Another World (Ntsc)",
+    "rom_url": "/worksheets/main/Might_and_Magic_II_-_Gates_to_Another_World_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Miracle Girls",
+    "rom_url": "/worksheets/main/Miracle_Girls.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mlbpa Baseball",
+    "rom_url": "/worksheets/main/MLBPA_Baseball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mohawk & Headphone Jack",
+    "rom_url": "/worksheets/main/Mohawk_&_Headphone_Jack.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Monopoly",
+    "rom_url": "/worksheets/main/Monopoly.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Monstania",
+    "rom_url": "/worksheets/main/Monstania.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mortal Kombat",
+    "rom_url": "/worksheets/main/Mortal_Kombat.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mortal Kombat - Champion Edition",
+    "rom_url": "/worksheets/main/Mortal_Kombat_-_Champion_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mortal Kombat 3",
+    "rom_url": "/worksheets/main/Mortal_Kombat_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mortal Kombat Ii",
+    "rom_url": "/worksheets/main/Mortal_Kombat_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mr. Do!",
+    "rom_url": "/worksheets/main/Mr._Do!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mr. Nutz",
+    "rom_url": "/worksheets/main/Mr._Nutz.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ms. Pac-Man",
+    "rom_url": "/worksheets/main/Ms._Pac-Man.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mystery Circle",
+    "rom_url": "/worksheets/main/Mystery_Circle.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Mystic Ark",
+    "rom_url": "/worksheets/main/Mystic_Ark.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nakajima Satoru Kanshuu - F-1 Hero 94",
+    "rom_url": "/worksheets/main/Nakajima_Satoru_Kanshuu_-_F-1_Hero_94.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nakajima Satoru Kanshuu - Super F-1 Hero",
+    "rom_url": "/worksheets/main/Nakajima_Satoru_Kanshuu_-_Super_F-1_Hero.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nangoku Shounen Papuwa-Kun",
+    "rom_url": "/worksheets/main/Nangoku_Shounen_Papuwa-kun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Natsume Championship Wrestling",
+    "rom_url": "/worksheets/main/Natsume_Championship_Wrestling.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Naxat Super Pinball - Jaki Crush",
+    "rom_url": "/worksheets/main/Naxat_Super_Pinball_-_Jaki_Crush.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Give N Go",
+    "rom_url": "/worksheets/main/NBA_Give_n_Go.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Hang Time",
+    "rom_url": "/worksheets/main/NBA_Hang_Time.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam",
+    "rom_url": "/worksheets/main/NBA_Jam.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam - Old-School Edition",
+    "rom_url": "/worksheets/main/NBA_Jam_-_Old-School_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam - Tournament Edition",
+    "rom_url": "/worksheets/main/NBA_Jam_-_Tournament_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam - Tournament Edition (Double Z Mod)",
+    "rom_url": "/worksheets/main/NBA_Jam_-_Tournament_Edition_(Double_Z_Mod).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam 2K17",
+    "rom_url": "/worksheets/main/NBA_Jam_2K17.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam 2K17 - Overtime Edition",
+    "rom_url": "/worksheets/main/NBA_Jam_2K17_-_Overtime_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam 2K20",
+    "rom_url": "/worksheets/main/NBA_Jam_2K20.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Jam 2K21",
+    "rom_url": "/worksheets/main/NBA_Jam_2K21.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Live 95",
+    "rom_url": "/worksheets/main/NBA_Live_95.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Live 96",
+    "rom_url": "/worksheets/main/NBA_Live_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Live 97",
+    "rom_url": "/worksheets/main/NBA_Live_97.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Live 98",
+    "rom_url": "/worksheets/main/NBA_Live_98.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nba Showdown",
+    "rom_url": "/worksheets/main/NBA_Showdown.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ncaa Basketball",
+    "rom_url": "/worksheets/main/NCAA_Basketball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nekketsu Tairiku - Burning Heroes",
+    "rom_url": "/worksheets/main/Nekketsu_Tairiku_-_Burning_Heroes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Neugier - Umi To Kaze No Kodou",
+    "rom_url": "/worksheets/main/Neugier_-_Umi_to_Kaze_no_Kodou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "New! Smw2 - Yoshis Island",
+    "rom_url": "/worksheets/main/New!_SMW2_-_Yoshis_Island.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "New Super Mario Land",
+    "rom_url": "/worksheets/main/New_Super_Mario_Land.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "New Super Mario World",
+    "rom_url": "/worksheets/main/New_Super_Mario_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "New Super Mario World 1 - The Twelve Magic Orbs",
+    "rom_url": "/worksheets/main/New_Super_Mario_World_1_-_The_Twelve_Magic_Orbs.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "New Super Mario World 2 - Around The World",
+    "rom_url": "/worksheets/main/New_Super_Mario_World_2_-_Around_the_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nfl Quarterback Club",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nfl Quarterback Club 96",
+    "rom_url": "/worksheets/main/NFL_Quarterback_Club_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhlpa Hockey 93",
+    "rom_url": "/worksheets/main/NHLPA_Hockey_93.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl 94",
+    "rom_url": "/worksheets/main/NHL_94.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl 95",
+    "rom_url": "/worksheets/main/NHL_95.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl 96",
+    "rom_url": "/worksheets/main/NHL_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl 97",
+    "rom_url": "/worksheets/main/NHL_97.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl 98",
+    "rom_url": "/worksheets/main/NHL_98.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nhl Stanley Cup",
+    "rom_url": "/worksheets/main/NHL_Stanley_Cup.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nice De Shot",
+    "rom_url": "/worksheets/main/Nice_de_Shot.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nichibutsu Arcade Classics",
+    "rom_url": "/worksheets/main/Nichibutsu_Arcade_Classics.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nichibutsu Arcade Classics 2 - Heiankyo Alien",
+    "rom_url": "/worksheets/main/Nichibutsu_Arcade_Classics_2_-_Heiankyo_Alien.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nightmare Busters",
+    "rom_url": "/worksheets/main/Nightmare_Busters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ninja Gaiden Trilogy",
+    "rom_url": "/worksheets/main/Ninja_Gaiden_Trilogy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ninja Warriors, The",
+    "rom_url": "/worksheets/main/Ninja_Warriors,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nintama Rantarou - Ninjutsu Gakuen Puzzle Taikai No Dan",
+    "rom_url": "/worksheets/main/Nintama_Rantarou_-_Ninjutsu_Gakuen_Puzzle_Taikai_no_Dan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nintama Rantarou 3",
+    "rom_url": "/worksheets/main/Nintama_Rantarou_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nobunagas Ambition",
+    "rom_url": "/worksheets/main/Nobunagas_Ambition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nobunagas Ambition - Lord Of Darkness",
+    "rom_url": "/worksheets/main/Nobunagas_Ambition_-_Lord_of_Darkness.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Nosferatu",
+    "rom_url": "/worksheets/main/Nosferatu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ogre Battle - The March Of The Black Queen",
+    "rom_url": "/worksheets/main/Ogre_Battle_-_The_March_of_the_Black_Queen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Oh No! More Zombies Ate My Neighbors",
+    "rom_url": "/worksheets/main/Oh_No!_More_Zombies_Ate_My_Neighbors.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "On The Ball",
+    "rom_url": "/worksheets/main/On_the_Ball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Operation Europe - Path To Victory 1939-45",
+    "rom_url": "/worksheets/main/Operation_Europe_-_Path_to_Victory_1939-45.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Operation Logic Bomb - The Ultimate Search & Destroy",
+    "rom_url": "/worksheets/main/Operation_Logic_Bomb_-_The_Ultimate_Search_&_Destroy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Otoboke Ninja Colosseum",
+    "rom_url": "/worksheets/main/Otoboke_Ninja_Colosseum.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Out Of This World",
+    "rom_url": "/worksheets/main/Out_of_This_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Out To Lunch",
+    "rom_url": "/worksheets/main/Out_to_Lunch.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "P.T.O. - Pacific Theater Of Operations",
+    "rom_url": "/worksheets/main/P.T.O._-_Pacific_Theater_of_Operations.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "P.T.O. Ii - Pacific Theater Of Operations",
+    "rom_url": "/worksheets/main/P.T.O._II_-_Pacific_Theater_of_Operations.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pac-Attack",
+    "rom_url": "/worksheets/main/Pac-Attack.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pac-Man 2 - The New Adventures",
+    "rom_url": "/worksheets/main/Pac-Man_2_-_The_New_Adventures.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Paladins Quest",
+    "rom_url": "/worksheets/main/Paladins_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Panel De Pon",
+    "rom_url": "/worksheets/main/Panel_de_Pon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Panic In Nakayoshi World",
+    "rom_url": "/worksheets/main/Panic_in_Nakayoshi_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Panic In The Mushroom Kingdom",
+    "rom_url": "/worksheets/main/Panic_in_the_Mushroom_Kingdom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Panic In The Mushroom Kingdom 2",
+    "rom_url": "/worksheets/main/Panic_in_the_Mushroom_Kingdom_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Paperboy 2",
+    "rom_url": "/worksheets/main/Paperboy_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Parodius Da! Shinwa Kara Owarai E",
+    "rom_url": "/worksheets/main/Parodius_Da!_Shinwa_kara_Owarai_e.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Peace Keepers, The",
+    "rom_url": "/worksheets/main/Peace_Keepers,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pga Tour 96",
+    "rom_url": "/worksheets/main/PGA_Tour_96.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Phalanx",
+    "rom_url": "/worksheets/main/Phalanx.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Phantom 2040",
+    "rom_url": "/worksheets/main/Phantom_2040.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pieces",
+    "rom_url": "/worksheets/main/Pieces.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pikinya!",
+    "rom_url": "/worksheets/main/Pikinya!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pilotwings",
+    "rom_url": "/worksheets/main/Pilotwings.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pinball Dreams",
+    "rom_url": "/worksheets/main/Pinball_Dreams.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pinball Fantasies",
+    "rom_url": "/worksheets/main/Pinball_Fantasies.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pirates Of Dark Water, The",
+    "rom_url": "/worksheets/main/Pirates_of_Dark_Water,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pitfall - The Mayan Adventure",
+    "rom_url": "/worksheets/main/Pitfall_-_The_Mayan_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Plok!",
+    "rom_url": "/worksheets/main/Plok!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pocky & Rocky",
+    "rom_url": "/worksheets/main/Pocky_&_Rocky.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pocky & Rocky 2",
+    "rom_url": "/worksheets/main/Pocky_&_Rocky_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pokonyan! Henpokorin Adventure",
+    "rom_url": "/worksheets/main/Pokonyan!_Henpokorin_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Popeye - Ijiwaru Majo Seahag No Maki",
+    "rom_url": "/worksheets/main/Popeye_-_Ijiwaru_Majo_Seahag_no_Maki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Popful Mail",
+    "rom_url": "/worksheets/main/Popful_Mail.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Popn Twinbee",
+    "rom_url": "/worksheets/main/Popn_TwinBee.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Popn Twinbee (Ntsc)",
+    "rom_url": "/worksheets/main/Popn_TwinBee_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Populous",
+    "rom_url": "/worksheets/main/Populous.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Populous Ii - Trials Of The Olympian Gods",
+    "rom_url": "/worksheets/main/Populous_II_-_Trials_of_the_Olympian_Gods.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Drive",
+    "rom_url": "/worksheets/main/Power_Drive.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Drive (Ntsc)",
+    "rom_url": "/worksheets/main/Power_Drive_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Instinct",
+    "rom_url": "/worksheets/main/Power_Instinct.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Lode Runner",
+    "rom_url": "/worksheets/main/Power_Lode_Runner.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Monger",
+    "rom_url": "/worksheets/main/Power_Monger.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Monger (Ntsc)",
+    "rom_url": "/worksheets/main/Power_Monger_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Rangers Zeo - Battle Racers",
+    "rom_url": "/worksheets/main/Power_Rangers_Zeo_-_Battle_Racers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Power Soukoban",
+    "rom_url": "/worksheets/main/Power_Soukoban.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Prehistorik Man",
+    "rom_url": "/worksheets/main/Prehistorik_Man.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Primal Rage",
+    "rom_url": "/worksheets/main/Primal_Rage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Princess Minerva",
+    "rom_url": "/worksheets/main/Princess_Minerva.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Prince Of Persia",
+    "rom_url": "/worksheets/main/Prince_of_Persia.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Prince Of Persia - 30Th Anniversary",
+    "rom_url": "/worksheets/main/Prince_of_Persia_-_30th_Anniversary.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Prince Of Persia - The Queen Of Light",
+    "rom_url": "/worksheets/main/Prince_of_Persia_-_The_Queen_of_Light.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Project Jonny Hacks 3 - My Last Mission",
+    "rom_url": "/worksheets/main/Project_Jonny_Hacks_3_-_My_Last_Mission.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pro Sport Hockey",
+    "rom_url": "/worksheets/main/Pro_Sport_Hockey.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Pro Yakyuu Star",
+    "rom_url": "/worksheets/main/Pro_Yakyuu_Star.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Psycho Dream",
+    "rom_url": "/worksheets/main/Psycho_Dream.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Push-Over",
+    "rom_url": "/worksheets/main/Push-Over.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Puzzlen Desu!",
+    "rom_url": "/worksheets/main/Puzzlen_Desu!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Q-Bert 3",
+    "rom_url": "/worksheets/main/Q-bert_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Quickie World",
+    "rom_url": "/worksheets/main/Quickie_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Quickie World 2",
+    "rom_url": "/worksheets/main/Quickie_World_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "R-Type Iii - The Third Lightning",
+    "rom_url": "/worksheets/main/R-Type_III_-_The_Third_Lightning.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Radiations Halloween Hack - Bad Fur Day Edition",
+    "rom_url": "/worksheets/main/Radiations_Halloween_Hack_-_Bad_Fur_Day_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Radical Dreamers - Nusumenai Houseki",
+    "rom_url": "/worksheets/main/Radical_Dreamers_-_Nusumenai_Houseki.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Raiden Trad",
+    "rom_url": "/worksheets/main/Raiden_Trad.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rampart",
+    "rom_url": "/worksheets/main/Rampart.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ranma 1-2 - Akanekodan Teki Hihou",
+    "rom_url": "/worksheets/main/Ranma_1-2_-_Akanekodan_Teki_Hihou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ranma 1-2 - Chougi Ranbu Hen",
+    "rom_url": "/worksheets/main/Ranma_1-2_-_Chougi_Ranbu_Hen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ranma 1-2 - Hard Battle",
+    "rom_url": "/worksheets/main/Ranma_1-2_-_Hard_Battle.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Realm",
+    "rom_url": "/worksheets/main/Realm.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rendering Ranger - R2",
+    "rom_url": "/worksheets/main/Rendering_Ranger_-_R2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Return Of Double Dragon",
+    "rom_url": "/worksheets/main/Return_of_Double_Dragon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Return Of Double Dragon (Kencho Hacks)",
+    "rom_url": "/worksheets/main/Return_of_Double_Dragon_(Kencho_Hacks).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Riddick Bowe Boxing",
+    "rom_url": "/worksheets/main/Riddick_Bowe_Boxing.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rise Of The Phoenix",
+    "rom_url": "/worksheets/main/Rise_of_the_Phoenix.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rival Turf!",
+    "rom_url": "/worksheets/main/Rival_Turf!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Robocop Versus The Terminator",
+    "rom_url": "/worksheets/main/RoboCop_versus_The_Terminator.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Robotrek",
+    "rom_url": "/worksheets/main/Robotrek.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman & Forte",
+    "rom_url": "/worksheets/main/Rockman_&_Forte.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman 7 - Shukumei No Taiketsu!",
+    "rom_url": "/worksheets/main/Rockman_7_-_Shukumei_no_Taiketsu!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman 7 Ep",
+    "rom_url": "/worksheets/main/Rockman_7_EP.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman X",
+    "rom_url": "/worksheets/main/Rockman_X.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman X2",
+    "rom_url": "/worksheets/main/Rockman_X2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rockman X3",
+    "rom_url": "/worksheets/main/Rockman_X3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rocky Rodent",
+    "rom_url": "/worksheets/main/Rocky_Rodent.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rock N Roll Racing",
+    "rom_url": "/worksheets/main/Rock_n_Roll_Racing.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms - Parallel Universe",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_-_Parallel_Universe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms Ii",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms Iii - Dragon Of Destiny",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_III_-_Dragon_of_Destiny.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romance Of The Three Kingdoms Iv - Wall Of Fire",
+    "rom_url": "/worksheets/main/Romance_of_the_Three_Kingdoms_IV_-_Wall_of_Fire.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romancing Saga",
+    "rom_url": "/worksheets/main/Romancing_SaGa.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Romancing Saga 3",
+    "rom_url": "/worksheets/main/Romancing_SaGa_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rudra No Hihou",
+    "rom_url": "/worksheets/main/Rudra_no_Hihou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Run Saber",
+    "rom_url": "/worksheets/main/Run_Saber.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Rushing Beat",
+    "rom_url": "/worksheets/main/Rushing_Beat.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ryuuki Heidan Danzarb",
+    "rom_url": "/worksheets/main/Ryuuki_Heidan_Danzarb.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ryuuko No Ken 2",
+    "rom_url": "/worksheets/main/Ryuuko_no_Ken_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sailor Moon Fighter S",
+    "rom_url": "/worksheets/main/Sailor_Moon_Fighter_S.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Samurai Shodown",
+    "rom_url": "/worksheets/main/Samurai_Shodown.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sanrio World Smash Ball!",
+    "rom_url": "/worksheets/main/Sanrio_World_Smash_Ball!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Saturday Night Slam Masters",
+    "rom_url": "/worksheets/main/Saturday_Night_Slam_Masters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Scooby-Doo Mystery",
+    "rom_url": "/worksheets/main/Scooby-Doo_Mystery.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sd F-1 Grand Prix",
+    "rom_url": "/worksheets/main/SD_F-1_Grand_Prix.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sd Gundam X - Super Gachapon World",
+    "rom_url": "/worksheets/main/SD_Gundam_X_-_Super_Gachapon_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sd Hiryuu No Ken",
+    "rom_url": "/worksheets/main/SD_Hiryuu_no_Ken.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sd The Great Battle - Aratanaru Chousen",
+    "rom_url": "/worksheets/main/SD_The_Great_Battle_-_Aratanaru_Chousen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Secret Of Evermore",
+    "rom_url": "/worksheets/main/Secret_of_Evermore.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Secret Of Evermore - 25Th Anniversary",
+    "rom_url": "/worksheets/main/Secret_of_Evermore_-_25th_Anniversary.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Secret Of Mana",
+    "rom_url": "/worksheets/main/Secret_of_Mana.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Secret Of Mana (Relocalization)",
+    "rom_url": "/worksheets/main/Secret_of_Mana_(Relocalization).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Secret Of Mana Reborn",
+    "rom_url": "/worksheets/main/Secret_of_Mana_Reborn.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Seiken Densetsu 3",
+    "rom_url": "/worksheets/main/Seiken_Densetsu_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sengoku Denshou",
+    "rom_url": "/worksheets/main/Sengoku_Denshou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shadow, The",
+    "rom_url": "/worksheets/main/Shadow,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shadowrun",
+    "rom_url": "/worksheets/main/Shadowrun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shanghai Ii - Dragons Eye",
+    "rom_url": "/worksheets/main/Shanghai_II_-_Dragons_Eye.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shaq-Fu",
+    "rom_url": "/worksheets/main/Shaq-Fu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shiens Revenge",
+    "rom_url": "/worksheets/main/Shiens_Revenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Kidou Senki Gundam Wing - Endless Duel",
+    "rom_url": "/worksheets/main/Shin_Kidou_Senki_Gundam_Wing_-_Endless_Duel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Megami Tensei",
+    "rom_url": "/worksheets/main/Shin_Megami_Tensei.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Megami Tensei If...",
+    "rom_url": "/worksheets/main/Shin_Megami_Tensei_if....zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Megami Tensei Ii",
+    "rom_url": "/worksheets/main/Shin_Megami_Tensei_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Nekketsu Kouha - Kunio-Tachi No Banka",
+    "rom_url": "/worksheets/main/Shin_Nekketsu_Kouha_-_Kunio-tachi_no_Banka.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shin Seikoku - La Wares",
+    "rom_url": "/worksheets/main/Shin_Seikoku_-_La_Wares.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shodai Nekketsu Kouha Kunio-Kun",
+    "rom_url": "/worksheets/main/Shodai_Nekketsu_Kouha_Kunio-kun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Shounen Ninja Sasuke",
+    "rom_url": "/worksheets/main/Shounen_Ninja_Sasuke.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sicari",
+    "rom_url": "/worksheets/main/Sicari.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sicari Remastered",
+    "rom_url": "/worksheets/main/Sicari_Remastered.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Side Pocket",
+    "rom_url": "/worksheets/main/Side_Pocket.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Silva Saga Ii - The Legend Of Light And Darkness",
+    "rom_url": "/worksheets/main/Silva_Saga_II_-_The_Legend_of_Light_and_Darkness.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Simant - The Electronic Ant Colony",
+    "rom_url": "/worksheets/main/SimAnt_-_The_Electronic_Ant_Colony.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Simcity",
+    "rom_url": "/worksheets/main/SimCity.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Simcity 2000",
+    "rom_url": "/worksheets/main/SimCity_2000.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Simpsons, The - Barts Nightmare",
+    "rom_url": "/worksheets/main/Simpsons,_The_-_Barts_Nightmare.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sink Or Swim",
+    "rom_url": "/worksheets/main/Sink_or_Swim.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Skyblazer",
+    "rom_url": "/worksheets/main/Skyblazer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Slayers",
+    "rom_url": "/worksheets/main/Slayers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smart Ball",
+    "rom_url": "/worksheets/main/Smart_Ball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smash Tennis",
+    "rom_url": "/worksheets/main/Smash_Tennis.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smash Tennis (Ntsc)",
+    "rom_url": "/worksheets/main/Smash_Tennis_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smurfs, The",
+    "rom_url": "/worksheets/main/Smurfs,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smurfs Travel The World, The",
+    "rom_url": "/worksheets/main/Smurfs_Travel_the_World,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smurfs Travel The World, The (Ntsc)",
+    "rom_url": "/worksheets/main/Smurfs_Travel_the_World,_The_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smw2+",
+    "rom_url": "/worksheets/main/SMW2+.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Smw2+2",
+    "rom_url": "/worksheets/main/SMW2+2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Snoopy Concert",
+    "rom_url": "/worksheets/main/Snoopy_Concert.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Snow White In Happily Ever After",
+    "rom_url": "/worksheets/main/Snow_White_in_Happily_Ever_After.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Socks The Cat Rocks The Hill",
+    "rom_url": "/worksheets/main/Socks_the_Cat_Rocks_the_Hill.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Soldiers Of Fortune",
+    "rom_url": "/worksheets/main/Soldiers_of_Fortune.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Something Else",
+    "rom_url": "/worksheets/main/Something_Else.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sonic Blast Man",
+    "rom_url": "/worksheets/main/Sonic_Blast_Man.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sonic Blast Man Ii",
+    "rom_url": "/worksheets/main/Sonic_Blast_Man_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Soreyuke Ebisumaru Karakuri Meiro - Kieta Goemon No Nazo!!",
+    "rom_url": "/worksheets/main/Soreyuke_Ebisumaru_Karakuri_Meiro_-_Kieta_Goemon_no_Nazo!!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sos",
+    "rom_url": "/worksheets/main/SOS.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Soul Blazer",
+    "rom_url": "/worksheets/main/Soul_Blazer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sour Music Kart",
+    "rom_url": "/worksheets/main/Sour_Music_Kart.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Space Invaders - The Original Game",
+    "rom_url": "/worksheets/main/Space_Invaders_-_The_Original_Game.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Space Megaforce",
+    "rom_url": "/worksheets/main/Space_Megaforce.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spankys Quest",
+    "rom_url": "/worksheets/main/Spankys_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sparkster",
+    "rom_url": "/worksheets/main/Sparkster.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spark World",
+    "rom_url": "/worksheets/main/Spark_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spawn - The Video Game",
+    "rom_url": "/worksheets/main/Spawn_-_The_Video_Game.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spider-Man - The Animated Series",
+    "rom_url": "/worksheets/main/Spider-Man_-_The_Animated_Series.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spider-Man And The X-Men In Arcades Revenge",
+    "rom_url": "/worksheets/main/Spider-Man_and_the_X-Men_in_Arcades_Revenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spider-Man And Venom - Maximum Carnage",
+    "rom_url": "/worksheets/main/Spider-Man_and_Venom_-_Maximum_Carnage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spider-Man And Venom - Separation Anxiety",
+    "rom_url": "/worksheets/main/Spider-Man_and_Venom_-_Separation_Anxiety.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spindizzy Worlds",
+    "rom_url": "/worksheets/main/Spindizzy_Worlds.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sports Illustrated - Championship Football & Baseball",
+    "rom_url": "/worksheets/main/Sports_Illustrated_-_Championship_Football_&_Baseball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Spriggan Powered",
+    "rom_url": "/worksheets/main/Spriggan_Powered.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Fox",
+    "rom_url": "/worksheets/main/Star_Fox.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Fox (Scored Edition)",
+    "rom_url": "/worksheets/main/Star_Fox_(Scored_Edition).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Fox 2",
+    "rom_url": "/worksheets/main/Star_Fox_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Fox Exploration Showcase",
+    "rom_url": "/worksheets/main/Star_Fox_Exploration_Showcase.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Ocean",
+    "rom_url": "/worksheets/main/Star_Ocean.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Trek - Deep Space Nine - Crossroads Of Time",
+    "rom_url": "/worksheets/main/Star_Trek_-_Deep_Space_Nine_-_Crossroads_of_Time.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Star Trek - Starfleet Academy - Starship Bridge Simulator",
+    "rom_url": "/worksheets/main/Star_Trek_-_Starfleet_Academy_-_Starship_Bridge_Simulator.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Stone Protectors",
+    "rom_url": "/worksheets/main/Stone_Protectors.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Street Fighter Alpha 2",
+    "rom_url": "/worksheets/main/Street_Fighter_Alpha_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Street Fighter Ii - The World Warrior",
+    "rom_url": "/worksheets/main/Street_Fighter_II_-_The_World_Warrior.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Street Fighter Ii Turbo - Hyper Fighting",
+    "rom_url": "/worksheets/main/Street_Fighter_II_Turbo_-_Hyper_Fighting.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Street Racer",
+    "rom_url": "/worksheets/main/Street_Racer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Strike Gunner S.T.G.",
+    "rom_url": "/worksheets/main/Strike_Gunner_S.T.G..zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Stunt Race Fx",
+    "rom_url": "/worksheets/main/Stunt_Race_FX.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sugoi Hebereke",
+    "rom_url": "/worksheets/main/Sugoi_Hebereke.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sunset Riders",
+    "rom_url": "/worksheets/main/Sunset_Riders.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Superstar Mario World",
+    "rom_url": "/worksheets/main/Superstar_Mario_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Adventure Island",
+    "rom_url": "/worksheets/main/Super_Adventure_Island.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Adventure Island Ii",
+    "rom_url": "/worksheets/main/Super_Adventure_Island_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Aleste",
+    "rom_url": "/worksheets/main/Super_Aleste.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Back To The Future Part Ii",
+    "rom_url": "/worksheets/main/Super_Back_to_the_Future_Part_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Baldy Kart",
+    "rom_url": "/worksheets/main/Super_Baldy_Kart.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Baseball 2020",
+    "rom_url": "/worksheets/main/Super_Baseball_2020.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Baseball Simulator 1.000",
+    "rom_url": "/worksheets/main/Super_Baseball_Simulator_1.000.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bases Loaded",
+    "rom_url": "/worksheets/main/Super_Bases_Loaded.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bases Loaded 2",
+    "rom_url": "/worksheets/main/Super_Bases_Loaded_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bases Loaded 3 - License To Steal",
+    "rom_url": "/worksheets/main/Super_Bases_Loaded_3_-_License_to_Steal.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Batter Up",
+    "rom_url": "/worksheets/main/Super_Batter_Up.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Battletank - War In The Gulf",
+    "rom_url": "/worksheets/main/Super_Battletank_-_War_in_the_Gulf.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Battletank 2",
+    "rom_url": "/worksheets/main/Super_Battletank_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Black Bass",
+    "rom_url": "/worksheets/main/Super_Black_Bass.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman",
+    "rom_url": "/worksheets/main/Super_Bomberman.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman - Panic Bomber W",
+    "rom_url": "/worksheets/main/Super_Bomberman_-_Panic_Bomber_W.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman 2",
+    "rom_url": "/worksheets/main/Super_Bomberman_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman 3",
+    "rom_url": "/worksheets/main/Super_Bomberman_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman 3 (Ntsc)",
+    "rom_url": "/worksheets/main/Super_Bomberman_3_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman 4",
+    "rom_url": "/worksheets/main/Super_Bomberman_4.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bomberman 5",
+    "rom_url": "/worksheets/main/Super_Bomberman_5.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bombliss",
+    "rom_url": "/worksheets/main/Super_Bombliss.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Bonk",
+    "rom_url": "/worksheets/main/Super_Bonk.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Boss Gaiden",
+    "rom_url": "/worksheets/main/Super_Boss_Gaiden.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Buster Bros.",
+    "rom_url": "/worksheets/main/Super_Buster_Bros..zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Castlevania Iv",
+    "rom_url": "/worksheets/main/Super_Castlevania_IV.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Castlevania Iv (Uncensored)",
+    "rom_url": "/worksheets/main/Super_Castlevania_IV_(Uncensored).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Chase H.Q.",
+    "rom_url": "/worksheets/main/Super_Chase_H.Q..zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Chinese Fighter",
+    "rom_url": "/worksheets/main/Super_Chinese_Fighter.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Chinese World 2 - Uchuu Ichi Butou Taikai",
+    "rom_url": "/worksheets/main/Super_Chinese_World_2_-_Uchuu_Ichi_Butou_Taikai.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Conflict - The Mideast",
+    "rom_url": "/worksheets/main/Super_Conflict_-_The_Mideast.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Demo World - The Legend Continues",
+    "rom_url": "/worksheets/main/Super_Demo_World_-_The_Legend_Continues.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Double Dragon",
+    "rom_url": "/worksheets/main/Super_Double_Dragon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super F1 Circus 2",
+    "rom_url": "/worksheets/main/Super_F1_Circus_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super F1 Circus 3",
+    "rom_url": "/worksheets/main/Super_F1_Circus_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Famicom Wars",
+    "rom_url": "/worksheets/main/Super_Famicom_Wars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Family Circuit",
+    "rom_url": "/worksheets/main/Super_Family_Circuit.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Fire Pro Wrestling - Queens Special",
+    "rom_url": "/worksheets/main/Super_Fire_Pro_Wrestling_-_Queens_Special.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Fire Pro Wrestling X Premium",
+    "rom_url": "/worksheets/main/Super_Fire_Pro_Wrestling_X_Premium.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Genjin 2",
+    "rom_url": "/worksheets/main/Super_Genjin_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Ghouls N Ghosts",
+    "rom_url": "/worksheets/main/Super_Ghouls_n_Ghosts.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Ghouls N Ghosts (Super Arthur)",
+    "rom_url": "/worksheets/main/Super_Ghouls_n_Ghosts_(Super_Arthur).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Godzilla",
+    "rom_url": "/worksheets/main/Super_Godzilla.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Gussun Oyoyo",
+    "rom_url": "/worksheets/main/Super_Gussun_Oyoyo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Gussun Oyoyo 2",
+    "rom_url": "/worksheets/main/Super_Gussun_Oyoyo_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super International Cricket",
+    "rom_url": "/worksheets/main/Super_International_Cricket.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mad Champ",
+    "rom_url": "/worksheets/main/Super_Mad_Champ.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario 2D Land",
+    "rom_url": "/worksheets/main/Super_Mario_2D_Land.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario All-Stars",
+    "rom_url": "/worksheets/main/Super_Mario_All-Stars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario Arcade",
+    "rom_url": "/worksheets/main/Super_Mario_Arcade.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario Bros. Deluxe",
+    "rom_url": "/worksheets/main/Super_Mario_Bros._Deluxe.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario Kart",
+    "rom_url": "/worksheets/main/Super_Mario_Kart.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario Logic",
+    "rom_url": "/worksheets/main/Super_Mario_Logic.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario Rpg - Legend Of The Seven Stars",
+    "rom_url": "/worksheets/main/Super_Mario_RPG_-_Legend_of_the_Seven_Stars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario World",
+    "rom_url": "/worksheets/main/Super_Mario_World.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario World 2 - Yoshis Island",
+    "rom_url": "/worksheets/main/Super_Mario_World_2_-_Yoshis_Island.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Mario World 2 - Yoshis Island (No Crying, Improved Sfx And Red Coins)",
+    "rom_url": "/worksheets/main/Super_Mario_World_2_-_Yoshis_Island_(No_Crying,_Improved_SFX_and_Red_Coins).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid",
+    "rom_url": "/worksheets/main/Super_Metroid.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Cliffhanger",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Cliffhanger.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Cliffhanger Redux",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Cliffhanger_Redux.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Gba Style",
+    "rom_url": "/worksheets/main/Super_Metroid_-_GBA_Style.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Hydellius",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Hydellius.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Phazon",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Phazon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Project Base",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Project_Base.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid - Redesign",
+    "rom_url": "/worksheets/main/Super_Metroid_-_Redesign.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid Arcade",
+    "rom_url": "/worksheets/main/Super_Metroid_Arcade.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Metroid Redux",
+    "rom_url": "/worksheets/main/Super_Metroid_Redux.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Naxat Open - Golf De Shoubu Da! Dorabocchan",
+    "rom_url": "/worksheets/main/Super_Naxat_Open_-_Golf_de_Shoubu_da!_Dorabocchan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Nazo Puyo - Rulue No Roux",
+    "rom_url": "/worksheets/main/Super_Nazo_Puyo_-_Rulue_no_Roux.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Ninja-Kun",
+    "rom_url": "/worksheets/main/Super_Ninja-kun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Ninja Boy",
+    "rom_url": "/worksheets/main/Super_Ninja_Boy.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Nova",
+    "rom_url": "/worksheets/main/Super_Nova.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Off Road",
+    "rom_url": "/worksheets/main/Super_Off_Road.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Pinball - Behind The Mask",
+    "rom_url": "/worksheets/main/Super_Pinball_-_Behind_the_Mask.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Pinball Ii - The Amazing Odyssey",
+    "rom_url": "/worksheets/main/Super_Pinball_II_-_The_Amazing_Odyssey.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Punch-Out!!",
+    "rom_url": "/worksheets/main/Super_Punch-Out!!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Putty",
+    "rom_url": "/worksheets/main/Super_Putty.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Puyo Puyo",
+    "rom_url": "/worksheets/main/Super_Puyo_Puyo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Puyo Puyo Tsuu",
+    "rom_url": "/worksheets/main/Super_Puyo_Puyo_Tsuu.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Puyo Puyo Tsuu Remix",
+    "rom_url": "/worksheets/main/Super_Puyo_Puyo_Tsuu_Remix.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super R-Type",
+    "rom_url": "/worksheets/main/Super_R-Type.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super R.B.I. Baseball",
+    "rom_url": "/worksheets/main/Super_R.B.I._Baseball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Robot Taisen Ex",
+    "rom_url": "/worksheets/main/Super_Robot_Taisen_EX.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Robot Taisen Gaiden - Masou Kishin - The Lord Of Elemental",
+    "rom_url": "/worksheets/main/Super_Robot_Taisen_Gaiden_-_Masou_Kishin_-_The_Lord_of_Elemental.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Smash T.V.",
+    "rom_url": "/worksheets/main/Super_Smash_T.V..zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Soccer",
+    "rom_url": "/worksheets/main/Super_Soccer.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Soccer Champ",
+    "rom_url": "/worksheets/main/Super_Soccer_Champ.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Soukoban",
+    "rom_url": "/worksheets/main/Super_Soukoban.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Star Fox Weekend - Official Competition",
+    "rom_url": "/worksheets/main/Super_Star_Fox_Weekend_-_Official_Competition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Star Wars",
+    "rom_url": "/worksheets/main/Super_Star_Wars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Star Wars - Return Of The Jedi",
+    "rom_url": "/worksheets/main/Super_Star_Wars_-_Return_of_the_Jedi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Star Wars - The Empire Strikes Back",
+    "rom_url": "/worksheets/main/Super_Star_Wars_-_The_Empire_Strikes_Back.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Street Fighter Ii - The New Challengers",
+    "rom_url": "/worksheets/main/Super_Street_Fighter_II_-_The_New_Challengers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Strike Eagle",
+    "rom_url": "/worksheets/main/Super_Strike_Eagle.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Tekkyuu Fight!",
+    "rom_url": "/worksheets/main/Super_Tekkyuu_Fight!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Tennis",
+    "rom_url": "/worksheets/main/Super_Tennis.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Tetris 2 + Bombliss - Genteiban",
+    "rom_url": "/worksheets/main/Super_Tetris_2_+_Bombliss_-_Genteiban.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Tetris 3",
+    "rom_url": "/worksheets/main/Super_Tetris_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Troll Islands",
+    "rom_url": "/worksheets/main/Super_Troll_Islands.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Turrican",
+    "rom_url": "/worksheets/main/Super_Turrican.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Turrican 2",
+    "rom_url": "/worksheets/main/Super_Turrican_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Ultra Baseball 2",
+    "rom_url": "/worksheets/main/Super_Ultra_Baseball_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Valis Iv",
+    "rom_url": "/worksheets/main/Super_Valis_IV.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Wagyan Land",
+    "rom_url": "/worksheets/main/Super_Wagyan_Land.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Wagyan Land 2",
+    "rom_url": "/worksheets/main/Super_Wagyan_Land_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Super Widget",
+    "rom_url": "/worksheets/main/Super_Widget.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sutte Hakkun",
+    "rom_url": "/worksheets/main/Sutte_Hakkun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Swat Kats - The Radical Squadron",
+    "rom_url": "/worksheets/main/SWAT_Kats_-_The_Radical_Squadron.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Sydney Hunter And The Caverns Of Death",
+    "rom_url": "/worksheets/main/Sydney_Hunter_and_the_Caverns_of_Death.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Syndicate",
+    "rom_url": "/worksheets/main/Syndicate.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tactics Ogre - Let Us Cling Together",
+    "rom_url": "/worksheets/main/Tactics_Ogre_-_Let_Us_Cling_Together.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tales Of Phantasia",
+    "rom_url": "/worksheets/main/Tales_of_Phantasia.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Secret Of The Stars",
+    "rom_url": "/worksheets/main/Tecmo_Secret_of_the_Stars.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Super Baseball",
+    "rom_url": "/worksheets/main/Tecmo_Super_Baseball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Super Bowl",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Super Bowl Iii - Final Edition",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl_III_-_Final_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Super Bowl Ii - Special Edition",
+    "rom_url": "/worksheets/main/Tecmo_Super_Bowl_II_-_Special_Edition.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tecmo Super Nba Basketball",
+    "rom_url": "/worksheets/main/Tecmo_Super_NBA_Basketball.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles - Tournament Fighters",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_-_Tournament_Fighters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles Iv - Turtles In Time",
+    "rom_url": "/worksheets/main/Teenage_Mutant_Ninja_Turtles_IV_-_Turtles_in_Time.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tenchi Muyou! Game Hen",
+    "rom_url": "/worksheets/main/Tenchi_Muyou!_Game_Hen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tengai Makyou Zero",
+    "rom_url": "/worksheets/main/Tengai_Makyou_Zero.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tenshi No Uta - Shiroki Tsubasa No Inori",
+    "rom_url": "/worksheets/main/Tenshi_no_Uta_-_Shiroki_Tsubasa_no_Inori.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Terranigma",
+    "rom_url": "/worksheets/main/Terranigma.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Terranigma (Ntsc)",
+    "rom_url": "/worksheets/main/Terranigma_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Test Drive Ii - The Duel",
+    "rom_url": "/worksheets/main/Test_Drive_II_-_The_Duel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tetris & Dr. Mario",
+    "rom_url": "/worksheets/main/Tetris_&_Dr._Mario.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tetris 2",
+    "rom_url": "/worksheets/main/Tetris_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tetris Attack",
+    "rom_url": "/worksheets/main/Tetris_Attack.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tetris Battle Gaiden",
+    "rom_url": "/worksheets/main/Tetris_Battle_Gaiden.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Theme Park",
+    "rom_url": "/worksheets/main/Theme_Park.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Theme Park (Ntsc)",
+    "rom_url": "/worksheets/main/Theme_Park_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Thunder Spirits",
+    "rom_url": "/worksheets/main/Thunder_Spirits.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tiny Toon Adventures - Buster Busts Loose!",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Buster_Busts_Loose!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tiny Toon Adventures - Wacky Sports Challenge",
+    "rom_url": "/worksheets/main/Tiny_Toon_Adventures_-_Wacky_Sports_Challenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tin Star",
+    "rom_url": "/worksheets/main/Tin_Star.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Top Gear",
+    "rom_url": "/worksheets/main/Top_Gear.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Top Gear 2",
+    "rom_url": "/worksheets/main/Top_Gear_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Top Gear 3000",
+    "rom_url": "/worksheets/main/Top_Gear_3000.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Torneko No Daibouken - Fushigi No Dungeon",
+    "rom_url": "/worksheets/main/Torneko_no_Daibouken_-_Fushigi_no_Dungeon.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Total Carnage",
+    "rom_url": "/worksheets/main/Total_Carnage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Toy Story",
+    "rom_url": "/worksheets/main/Toy_Story.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Treasure Hunter G",
+    "rom_url": "/worksheets/main/Treasure_Hunter_G.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Trials Of Mana",
+    "rom_url": "/worksheets/main/Trials_of_Mana.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Troddlers",
+    "rom_url": "/worksheets/main/Troddlers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "True Golf Classics - Pebble Beach Golf Links",
+    "rom_url": "/worksheets/main/True_Golf_Classics_-_Pebble_Beach_Golf_Links.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "True Golf Classics - Waialae Country Club",
+    "rom_url": "/worksheets/main/True_Golf_Classics_-_Waialae_Country_Club.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "True Golf Classics - Wicked 18",
+    "rom_url": "/worksheets/main/True_Golf_Classics_-_Wicked_18.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "True Lies",
+    "rom_url": "/worksheets/main/True_Lies.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Tuff E Nuff",
+    "rom_url": "/worksheets/main/Tuff_E_Nuff.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Turn And Burn - No-Fly Zone",
+    "rom_url": "/worksheets/main/Turn_and_Burn_-_No-Fly_Zone.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Twinbee - Rainbow Bell Adventure",
+    "rom_url": "/worksheets/main/TwinBee_-_Rainbow_Bell_Adventure.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Twisted Tales Of Spike Mcfang, The",
+    "rom_url": "/worksheets/main/Twisted_Tales_of_Spike_McFang,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "U.F.O. Kamen Yakisoban - Kettler No Kuroi Inbou",
+    "rom_url": "/worksheets/main/U.F.O._Kamen_Yakisoban_-_Kettler_no_Kuroi_Inbou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "U.N. Squadron",
+    "rom_url": "/worksheets/main/U.N._Squadron.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Uchuu Race - Astro Go! Go!",
+    "rom_url": "/worksheets/main/Uchuu_Race_-_Astro_Go!_Go!.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultimate Mortal Kombat 3",
+    "rom_url": "/worksheets/main/Ultimate_Mortal_Kombat_3.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultima - Runes Of Virtue Ii",
+    "rom_url": "/worksheets/main/Ultima_-_Runes_of_Virtue_II.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultima Vii - The Black Gate",
+    "rom_url": "/worksheets/main/Ultima_VII_-_The_Black_Gate.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultima Vi - The False Prophet",
+    "rom_url": "/worksheets/main/Ultima_VI_-_The_False_Prophet.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultra Baseball Jitsumeiban",
+    "rom_url": "/worksheets/main/Ultra_Baseball_Jitsumeiban.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ultra Seven",
+    "rom_url": "/worksheets/main/Ultra_Seven.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Umihara Kawase",
+    "rom_url": "/worksheets/main/Umihara_Kawase.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Uncharted Waters",
+    "rom_url": "/worksheets/main/Uncharted_Waters.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Uncharted Waters - New Horizons",
+    "rom_url": "/worksheets/main/Uncharted_Waters_-_New_Horizons.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Undercover Cops",
+    "rom_url": "/worksheets/main/Undercover_Cops.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Unholy Night - The Darkness Hunter",
+    "rom_url": "/worksheets/main/Unholy_Night_-_The_Darkness_Hunter.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Uniracers",
+    "rom_url": "/worksheets/main/Uniracers.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Untouchables, The",
+    "rom_url": "/worksheets/main/Untouchables,_The.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Urban Strike - The Sequel To Jungle Strike",
+    "rom_url": "/worksheets/main/Urban_Strike_-_The_Sequel_to_Jungle_Strike.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Utopia - The Creation Of A Nation",
+    "rom_url": "/worksheets/main/Utopia_-_The_Creation_of_a_Nation.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Vegas Stakes",
+    "rom_url": "/worksheets/main/Vegas_Stakes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Vortex",
+    "rom_url": "/worksheets/main/Vortex.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wagyan Paradise",
+    "rom_url": "/worksheets/main/Wagyan_Paradise.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Waku Waku Ski Wonder Spur",
+    "rom_url": "/worksheets/main/Waku_Waku_Ski_Wonder_Spur.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Warios Woods",
+    "rom_url": "/worksheets/main/Warios_Woods.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "War 2410",
+    "rom_url": "/worksheets/main/War_2410.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "War 3010 - The Revolution",
+    "rom_url": "/worksheets/main/War_3010_-_The_Revolution.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wcw Superbrawl Wrestling",
+    "rom_url": "/worksheets/main/WCW_SuperBrawl_Wrestling.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Weaponlord",
+    "rom_url": "/worksheets/main/Weaponlord.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Where In The World Is Carmen Sandiego",
+    "rom_url": "/worksheets/main/Where_in_the_World_Is_Carmen_Sandiego.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Whirlo",
+    "rom_url": "/worksheets/main/Whirlo.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Whirlo (Ntsc)",
+    "rom_url": "/worksheets/main/Whirlo_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wildc.A.T.S - Covert Action Teams",
+    "rom_url": "/worksheets/main/WildC.A.T.s_-_Covert_Action_Teams.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wild Guns",
+    "rom_url": "/worksheets/main/Wild_Guns.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wild Snake",
+    "rom_url": "/worksheets/main/Wild_Snake.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Williams Arcades Greatest Hits",
+    "rom_url": "/worksheets/main/Williams_Arcades_Greatest_Hits.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wing Commander",
+    "rom_url": "/worksheets/main/Wing_Commander.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wing Commander - The Secret Missions",
+    "rom_url": "/worksheets/main/Wing_Commander_-_The_Secret_Missions.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Winter Gold",
+    "rom_url": "/worksheets/main/Winter_Gold.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Winter Olympic Games - Lillehammer 94",
+    "rom_url": "/worksheets/main/Winter_Olympic_Games_-_Lillehammer_94.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wizardry Gaiden Iv - Taima No Kodou",
+    "rom_url": "/worksheets/main/Wizardry_Gaiden_IV_-_Taima_no_Kodou.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wizardry I-Ii-Iii - Story Of Llylgamyn",
+    "rom_url": "/worksheets/main/Wizardry_I-II-III_-_Story_of_Llylgamyn.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wizardry Vi - Kindan No Mafude",
+    "rom_url": "/worksheets/main/Wizardry_VI_-_Kindan_no_Mafude.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wizardry V - Heart Of The Maelstrom",
+    "rom_url": "/worksheets/main/Wizardry_V_-_Heart_of_the_Maelstrom.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wizardry V - Saika No Chuushin",
+    "rom_url": "/worksheets/main/Wizardry_V_-_Saika_no_Chuushin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wolfchild",
+    "rom_url": "/worksheets/main/Wolfchild.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wolfenstein 3D",
+    "rom_url": "/worksheets/main/Wolfenstein_3D.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wolverine - Adamantium Rage",
+    "rom_url": "/worksheets/main/Wolverine_-_Adamantium_Rage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wolverine - Feral Instinct",
+    "rom_url": "/worksheets/main/Wolverine_-_Feral_Instinct.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wonder Project J - Kikai No Shounen Pino",
+    "rom_url": "/worksheets/main/Wonder_Project_J_-_Kikai_no_Shounen_Pino.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wordtris",
+    "rom_url": "/worksheets/main/Wordtris.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "World Cup Usa 94",
+    "rom_url": "/worksheets/main/World_Cup_USA_94.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "World Heroes",
+    "rom_url": "/worksheets/main/World_Heroes.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "World Heroes 2",
+    "rom_url": "/worksheets/main/World_Heroes_2.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "World Soccer 94 - Road To Glory",
+    "rom_url": "/worksheets/main/World_Soccer_94_-_Road_to_Glory.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Worms",
+    "rom_url": "/worksheets/main/Worms.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Worms (Ntsc)",
+    "rom_url": "/worksheets/main/Worms_(NTSC).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wrecking Crew 98",
+    "rom_url": "/worksheets/main/Wrecking_Crew_98.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wwf Raw",
+    "rom_url": "/worksheets/main/WWF_Raw.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wwf Royal Rumble",
+    "rom_url": "/worksheets/main/WWF_Royal_Rumble.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wwf Super Wrestlemania",
+    "rom_url": "/worksheets/main/WWF_Super_WrestleMania.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Wwf Wrestlemania - The Arcade Game",
+    "rom_url": "/worksheets/main/WWF_WrestleMania_-_The_Arcade_Game.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "X-Kaliber 2097",
+    "rom_url": "/worksheets/main/X-Kaliber_2097.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "X-Men - Mutant Apocalypse",
+    "rom_url": "/worksheets/main/X-Men_-_Mutant_Apocalypse.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Xak - The Art Of Visual Stage",
+    "rom_url": "/worksheets/main/Xak_-_The_Art_of_Visual_Stage.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Xardion",
+    "rom_url": "/worksheets/main/Xardion.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yoshis Cookie",
+    "rom_url": "/worksheets/main/Yoshis_Cookie.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yoshis Safari",
+    "rom_url": "/worksheets/main/Yoshis_Safari.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yoshis Strange Quest",
+    "rom_url": "/worksheets/main/Yoshis_Strange_Quest.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Young Merlin",
+    "rom_url": "/worksheets/main/Young_Merlin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ys Iii - Wanderers From Ys",
+    "rom_url": "/worksheets/main/Ys_III_-_Wanderers_from_Ys.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ys Iv - Mask Of The Sun",
+    "rom_url": "/worksheets/main/Ys_IV_-_Mask_of_the_Sun.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Ys V - Ushinawareta Suna No Miyako Kefin",
+    "rom_url": "/worksheets/main/Ys_V_-_Ushinawareta_Suna_no_Miyako_Kefin.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yu Yu Hakusho",
+    "rom_url": "/worksheets/main/Yu_Yu_Hakusho.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yu Yu Hakusho - Tokubetsu Hen",
+    "rom_url": "/worksheets/main/Yu_Yu_Hakusho_-_Tokubetsu_Hen.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yu Yu Hakusho 2 - Kakutou No Sho",
+    "rom_url": "/worksheets/main/Yu_Yu_Hakusho_2_-_Kakutou_no_Sho.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Yu Yu Hakusho Final - Makai Saikyou Retsuden",
+    "rom_url": "/worksheets/main/Yu_Yu_Hakusho_Final_-_Makai_Saikyou_Retsuden.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zelda No Densetsu - Inishie No Sekiban - Dai-1-Hanashi",
+    "rom_url": "/worksheets/main/Zelda_no_Densetsu_-_Inishie_no_Sekiban_-_Dai-1-Hanashi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zelda No Densetsu - Inishie No Sekiban - Dai-2-Hanashi",
+    "rom_url": "/worksheets/main/Zelda_no_Densetsu_-_Inishie_no_Sekiban_-_Dai-2-Hanashi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zelda No Densetsu - Inishie No Sekiban - Dai-3-Hanashi",
+    "rom_url": "/worksheets/main/Zelda_no_Densetsu_-_Inishie_no_Sekiban_-_Dai-3-Hanashi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zelda No Densetsu - Inishie No Sekiban - Dai-4-Hanashi",
+    "rom_url": "/worksheets/main/Zelda_no_Densetsu_-_Inishie_no_Sekiban_-_Dai-4-Hanashi.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zen-Nippon Pro Wrestling",
+    "rom_url": "/worksheets/main/Zen-Nippon_Pro_Wrestling.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zen-Nippon Pro Wrestling 2 - 3-4 Budoukan",
+    "rom_url": "/worksheets/main/Zen-Nippon_Pro_Wrestling_2_-_3-4_Budoukan.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zen-Nippon Pro Wrestling Dash - Sekai Saikyou Tag",
+    "rom_url": "/worksheets/main/Zen-Nippon_Pro_Wrestling_Dash_-_Sekai_Saikyou_Tag.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zero The Kamikaze Squirrel",
+    "rom_url": "/worksheets/main/Zero_the_Kamikaze_Squirrel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zig Zag Cat - Dachou Club Mo Oosawagi Da",
+    "rom_url": "/worksheets/main/Zig_Zag_Cat_-_Dachou_Club_mo_Oosawagi_da.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zombies Ate My Neighbors",
+    "rom_url": "/worksheets/main/Zombies_Ate_My_Neighbors.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zombies Ate My Neighbors (Reverse Inventory Cycling)",
+    "rom_url": "/worksheets/main/Zombies_Ate_My_Neighbors_(Reverse_Inventory_Cycling).zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zombies Ate My Neighbors - Dr. Tongues Revenge",
+    "rom_url": "/worksheets/main/Zombies_Ate_My_Neighbors_-_Dr._Tongues_Revenge.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zombies Ate My Neighbors - The Sequel",
+    "rom_url": "/worksheets/main/Zombies_Ate_My_Neighbors_-_The_Sequel.zip",
+    "core": "snes9x"
+  },
+  {
+    "name": "Zool - Ninja Of The Nth Dimension",
+    "rom_url": "/worksheets/main/Zool_-_Ninja_of_the_Nth_Dimension.zip",
+    "core": "snes9x"
+  }
+]
+}
