@@ -8,10 +8,10 @@
     "node": ">=16.0.0"
   },
   "scripts": {
-    "start": "index.js"
+    "start": "node index.js"
   },
   "keywords": [
-    "proxy"
+    "a"
   ],
   "author": "",
   "license": "GPL-3.0-or-later",

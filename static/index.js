@@ -8,7 +8,7 @@ import { hostname } from "node:os";
 
 import { fileURLToPath } from 'url';
 
-const publicPath = fileURLToPath(new URL('./static/', import.meta.url));
+const publicPath = fileURLToPath(new URL('./', import.meta.url));
 
 const bare = createBareServer("/bare/");
 const app = express();
